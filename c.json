@@ -1,0 +1,135 @@
+[
+   {
+      "id":"1",
+      "name":"Ullu",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Ullu.jpg",
+      "genre":"Ullu"
+   },
+   {
+      "id":"2",
+      "name":"PrimeShot",
+      "image":"https://ereviewwala.com/Poster/Adult/category/PrimeShots.webp",
+      "genre":"PrimeShot"
+   },
+   {
+      "id":"3",
+      "name":"Rabbit Movies",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Rabbit.webp",
+      "genre":"Rabbit"
+   },
+   {
+      "id":"4",
+      "name":"PrimePlay",
+      "image":"https://ereviewwala.com/Poster/Adult/category/PrimePlay.jpg",
+      "genre":"PrimePlay"
+   },
+   {
+      "id":"5",
+      "name":"Wow",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Wow.webp",
+      "genre":"Wow"
+   },
+   {
+      "id":"6",
+      "name":"CinePrime",
+      "image":"https://ereviewwala.com/Poster/Adult/category/CinePrime.webp",
+      "genre":"CinePrime"
+   },
+   {
+      "id":"7",
+      "name":"Kooku",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Kooku.jpg",
+      "genre":"Kooku"
+   },
+   {
+      "id":"8",
+      "name":"Woow",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Woow.jpg",
+      "genre":"Woow"
+   },
+   {
+      "id":"9",
+      "name":"Mango TV",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Mango TV.png",
+      "genre":"Mango TV"
+   },
+   {
+      "id":"10",
+      "name":"Hunt",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Hunt.jpg",
+      "genre":"Hunt"
+   },
+   {
+      "id":"11",
+      "name":"HottyNotty",
+      "image":"https://ereviewwala.com/Poster/Adult/category/HottyNotty.webp",
+      "genre":"HottyNotty"
+   },
+   {
+      "id":"12",
+      "name":"HotMX",
+      "image":"https://ereviewwala.com/Poster/Adult/category/HotMX.webp",
+      "genre":"HotMX"
+   },
+   {
+      "id":"13",
+      "name":"Halkut",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Halkut.jpg",
+      "genre":"Halkut"
+   },
+   {
+      "id":"14",
+      "name":"Goodflixmovie",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Goodflixmovie.webp",
+      "genre":"Goodflixmovie"
+   },
+   {
+      "id":"15",
+      "name":"Feelit",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Feelit.webp",
+      "genre":"Feelit"
+   },
+   {
+      "id":"16",
+      "name":"Boom Movies",
+      "image":"https://ereviewwala.com/Poster/Adult/category/Boom Movies.webp",
+      "genre":"Boom Movies"
+   },
+   {
+      "id":"17",
+      "name":"BigMovieZoo",
+      "image":"https://ereviewwala.com/Poster/Adult/category/BigMovieZoo.webp",
+      "genre":"BigMovieZoo"
+   },
+   {
+   "id":"18",
+   "name":"Dreams Films",
+   "image":"https://ereviewwala.com/Poster/Adult/category/Dreams Films.webp",
+   "genre":"Dreams Films"
+   },
+   {
+   "id":"19",
+   "name":"DigiMoviePlex",
+   "image":"https://ereviewwala.com/Poster/Adult/category/DigiMoviePlex.png",
+   "genre":"DigiMoviePlex"
+   },
+   {
+   "id":"20",
+   "name":"CinemaDosti",
+   "image":"https://ereviewwala.com/Poster/Adult/category/CinemaDosti.webp",
+   "genre":"CinemaDosti"
+   },
+   {
+   "id":"21",
+   "name":"PrimeFlix",
+   "image":"https://ereviewwala.com/Poster/Adult/category/PrimeFlix.jpg",
+   "genre":"PrimeFlix"
+   }, 
+   {
+   "id":"22",
+   "name":"OTHER Movies",
+   "image":"https://i.ytimg.com/vi/SB_XJBJjwzw/hqdefault.jpg",
+   "genre":"other"
+   }
+   
+]
