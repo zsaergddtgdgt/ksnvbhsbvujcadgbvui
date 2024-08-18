@@ -1,5 +1,51 @@
 {
     "webSeriesDataList": [
+    {
+            "id": "661",
+            "IH": "https://ereviewwala.com/Poster/Adult/H1/Raat%20Baaki%20Hai%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V1/Raat%20Baaki%20Hai%20Season%201.png",
+            "mn": "Raat Baaki Hai Season 1",
+            "hf": "https://www.661",
+            "gn": "Adult",
+            "trailer": "Zjn2tBGiFzA",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "cg": "webSeries",
+            "kn": "Raat Baaki Hai",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Raat.Baaki.Hai.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-SkymoviesHD.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Raat%20Baaki%20Hai%20S01E01%20661%201.mkv"
+            },
+            "eTape": {},
+            "eServer4": {}
+        },
+        {
+            "id": "662",
+            "IH": "https://ereviewwala.com/Poster/Adult/H1/Rangeen%20Kahaniyan%20Season%208.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V1/Rangeen%20Kahaniyan%20Season%208.jpg",
+            "mn": "Rangeen Kahaniyan Season 8",
+            "hf": "https://www.662",
+            "gn": "Adult",
+            "trailer": "FaJWWYxzxOY",
+            "lng": "Hindi",
+            "ind": "ALTT",
+            "cg": "webSeries",
+            "kn": "Rangeen Kahaniyan",
+            "pn": "S8",
+            "eServer1": {
+                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Rangeen.Kahaniyan.S08EP01T02.720p.HEVC.WeB-DL.Hindi.x265-SkymoviesHD.mkv",
+                "2": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Rangeen.Kahaniyan.S08EP03T04.720p.HEVC.WeB-DL.Hindi.x265-SkymoviesHD.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Rangeen%20Kahaniyan%20S08E01%20662%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Rangeen%20Kahaniyan%20S08E02%20662%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {}
+        },
         {
             "id": "660",
             "IH": "https://ereviewwala.com/Poster/Adult/H1/Vidhwa%20Season%201.jpg",
@@ -7,7 +53,7 @@
             "mn": "Vidhwa Season 1",
             "hf": "https://www.660",
             "gn": "FALSE",
-            "trailer": "trailer",
+            "trailer": "FALSE",
             "lng": "Hindi",
             "ind": "Hotshots",
             "cg": "webSeries",
@@ -37,7 +83,7 @@
             "mn": "Jangal Me Mangal Season 1",
             "hf": "https://www.659",
             "gn": "FALSE",
-            "trailer": "trailer",
+            "trailer": "FALSE",
             "lng": "Hindi",
             "ind": "Fugi",
             "cg": "webSeries",
@@ -67,7 +113,7 @@
             "mn": "Khichdi Season 1",
             "hf": "https://www.658",
             "gn": "FALSE",
-            "trailer": "trailer",
+            "trailer": "FALSE",
             "lng": "Hindi",
             "ind": "WOWGold",
             "cg": "webSeries",
