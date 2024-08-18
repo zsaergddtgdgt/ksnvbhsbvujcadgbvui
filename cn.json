@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Bollywood",
+        "image": "https://ereviewwala.com/Poster/Category/nw/B.png",
+        "genre": "Bollywood"
+    },
+    {
+        "id": "2",
+        "name": "Hollywood",
+        "image": "https://ereviewwala.com/Poster/Category/nw/HH.png",
+        "genre": "Hollywood"
+    },
+    {
+        "id": "3",
+        "name": "South Indian",
+        "image": "https://ereviewwala.com/Poster/Category/nw/SI.png",
+        "genre": "South"
+    },
+    {
+        "id": "4",
+        "name": "Punjabi",
+        "image": "https://ereviewwala.com/Poster/Category/nw/PB.png",
+        "genre": "Punjabi"
+    },
+    {
+        "id": "7",
+        "name": "Bengali",
+        "image": "https://ereviewwala.com/Poster/Category/nw/BE.png",
+        "genre": "Bengali"
+    },
+    {
+        "id": "8",
+        "name": "Gujarati",
+        "image": "https://ereviewwala.com/Poster/Category/nw/GR.png",
+        "genre": "Gujarati"
+    },
+    {
+        "id": "9",
+        "name": "Marathi",
+        "image": "https://ereviewwala.com/Poster/Category/nw/MR.png",
+        "genre": "Marathi"
+    },
+    {
+        "id": "5",
+        "name": "Adult",
+        "image": "https://ereviewwala.com/Poster/Category/nw/AD.png",
+        "genre": "Adult"
+    },
+    {
+        "id": "6",
+        "name": "Hollywood English",
+        "image": "https://ereviewwala.com/Poster/Category/nw/HE.png",
+        "genre": "HollywoodEnglish"
+    }
+]

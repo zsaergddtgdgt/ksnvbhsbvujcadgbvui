@@ -351,7 +351,7 @@
     },
     {
         "id": "5",
-        "name": "Ringz Feb 2024 update",
+        "name": "Ringz Aug 2024 update",
         "mbanner": "/test.json",
         "sbanner": "/srs.json",
         "latest": "/test.json",
@@ -361,15 +361,15 @@
         "desihub": "/desihub.json",
         "anime": "/anime.json",
         "tapLinkLoader": "https://streamtape",
-        "notification": "!!!!!!!!!! IMPORTANT UPDATE !!!!!!!!\r\n\r\nSome users with Android version 13 are experiencing issues with downloading. We will fix it soon.\r\n.\r\nकुछ यूज़र्स जो Android 13 का उपयोग कर रहे हैं, उन्हें डाउनलोड करने में समस्या हो रही है। हम जल्दी इसे ठीक करेंगे।\r\n.\r\nIf App opened via Notification then sometime movie not playing..So close the app & open again..\r\n.\r\nयदि ऐप नोटिफिकेशन के माध्यम से खुलता है तो कभी-कभी मूवी नहीं चलती है.. इसलिए ऐप को बंद करें और दोबारा खोलें।\r\n.\r\nJoin Telegram Channel for update.. If face any issue you can report on telegram also\r\n.",
-        "version": "5.3.0",
+        "notification": "\r\nJoin Telegram Channel for update..\r\n If face any issue you can report on telegram also\r\n.",
+        "version": "5.5.0",
         "closeVersion": "1.0.0",
-        "playlink": "https://ringzstudio.pages.dev/",
-        "link1": "datos-hub.pages.dev",
-        "link2": "datos-hub.pages.dev",
+        "playlink": "https://ringzapk.com/",
+        "link1": "ksnvbhsbvujcadgbvui.pages.dev",
+        "link2": "ksnvbhsbvujcadgbvui.pages.dev",
         "tab": "52",
         "otherAppLink": "https://bit.ly/46UiVSD",
-        "otherAppText": "🔥 🔥 18+ DesiHub App Click Here 🔥 🔥",
+        "otherAppText": "FALSE",
         "categoryAds": "TRUE",
         "hindiNoti": "ध्यान दें : यदि सर्वर फिल्में चलाने में बहुत अधिक समय ले रहा है तो ऐप को पुनरारंभ करें और पुनः प्रयास करें।\r\n\r\nयदि किसी भी समस्या का सामना करना पड़ रहा है तो हमारे टेलीग्राम चैनल पर रिपोर्ट करें",
         "engNoti": "Note : If server taking too much time to play movies/series then restart the app & try again.\r\n\r\nIf facing any issue then report us on Telegram channel",
@@ -404,6 +404,6 @@
         "telgramUrl": "https://t.me/ringzstudio",
         "useSecKey": "TRUE",
         "secKey": "0B02E84AF68CB34A49CFDD58C265910198EC0348CE5DE26C14346A665443ECB0",
-        "apkUrl": "https://weathered.softtechstudio1.workers.dev/0:/Ringz/5.3/RingzMaster.apk"
+        "apkUrl": "https://pub-0ee792871ac04d1f85c9501b277aeed1.r2.dev/RingzMain.apk"
     }
 ]
