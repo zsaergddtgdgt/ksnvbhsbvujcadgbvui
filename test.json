@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "4253",
+            "IH": "https://ereviewwala.com/Poster/Movies/H2/Kalki%202898%20AD%20(2024).jpg",
+            "IV": "https://ereviewwala.com/Poster/Movies/V2/Kalki%202898%20AD%20(2024).jpg",
+            "mn": "Kalki 2898 AD (2024)",
+            "hf": "https://www.14253",
+            "lng": "Hindi",
+            "trailer": "kQDd1AhGIHk",
+            "qlty": "HD",
+            "gn": "Action,Sci-Fi",
+            "cg": "South",
+            "s1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Kalki-2898.AD.2024.720p.Hindi.DS4K.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "s2": "http://mvs3.ringzstudio.online/720p/Kalki%202898%20AD%20(2024)%2014253.mkv",
+            "tape": "https://streamtape.site/v/gVGBpxpebqFq1pL/Kalki_2898_AD_%282024%29_14253.mkv.mp4",
+            "s4": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Kalki-2898.AD.2024.720p.Hindi.DS4K.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "480p": "TRUE",
+            "4s1": "https://pixeldra.in/api/file/u1SiQCr1?download?.mkv",
+            "4s2": "http://mvs3.ringzstudio.online/480p/Kalki%202898%20AD%20(2024)%2014253.mkv",
+            "4s3": "https://pixeldra.in/api/file/u1SiQCr1?download?.mkv",
+            "4s4": "FALSE"
+        },
         {
             "id": "4353",
             "IH": "https://ereviewwala.com/Poster/Movies/H2/Stree%202%20(2024).jpg",
@@ -2161,27 +2183,6 @@
             "4s1": "https://pixeldra.in/api/file/EqATBT6z?download?.mkv",
             "4s2": "http://mvs.aapkipooja.com/480p/Blame%20the%20Game%20(2024)%204305.mkv",
             "4s3": "FALSE",
-            "4s4": "FALSE"
-        },
-        {
-            "id": "4253",
-            "IH": "https://ereviewwala.com/Poster/Movies/H2/Kalki%202898%20AD%20(2024).jpg",
-            "IV": "https://ereviewwala.com/Poster/Movies/V2/Kalki%202898%20AD%20(2024).jpg",
-            "mn": "Kalki 2898 AD (2024)",
-            "hf": "https://www.14253",
-            "lng": "Hindi+Telugu",
-            "trailer": "kQDd1AhGIHk",
-            "qlty": "HDTS-V2",
-            "gn": "Action,Sci-Fi",
-            "cg": "South",
-            "s1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Kalki_2898_AD_720.mkv",
-            "s2": "http://mvs3.ringzapidata.in/720p/Kalki%202898%20AD%20(2024)%2014253.mkv",
-            "tape": "https://streamtape.site/v/WwkqXM8ZYpibv09/Kalki_2898_AD_%282024%29_14253.mkv.mp4",
-            "s4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Kalki_2898_AD_720.mkv",
-            "480p": "TRUE",
-            "4s1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Kalki_2898_AD_480.mkv",
-            "4s2": "http://mvs3.ringzapidata.in/480p/Kalki%202898%20AD%20(2024)%2014253.mkv",
-            "4s3": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Kalki_2898_AD_480.mkv",
             "4s4": "FALSE"
         },
         {
