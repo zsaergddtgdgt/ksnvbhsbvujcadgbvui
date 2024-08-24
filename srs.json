@@ -47515,32 +47515,6 @@
             "eServer4": {}
         },
         {
-            "id": "1433",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/Aapka%20Apna%20Zakir%20Season%201.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/Aapka%20Apna%20Zakir%20Season%201.jpg",
-            "mn": "Aapka Apna Zakir Season 1",
-            "hf": "https://www.19433",
-            "gn": "Comedy",
-            "trailer": "ynMJbldhk8A",
-            "lng": "Hindi",
-            "cg": "webSeries",
-            "kn": "Aapka Apna Zakir",
-            "pn": "S1",
-            "eServer1": {
-                "1": "https://pixeldra.in/api/file/mA4oTZfm?download?.mkv",
-                "2": "https://pixeldra.in/api/file/uLwRBAFy?download?.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.ringzstudio.online/lst/Aapka%20Apna%20Zakir%20S01E01%2019433%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Aapka%20Apna%20Zakir%20S01E02%2019433%202.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/yrxAblaqxLh11KG/Aapka_Apna_Zakir_S01E01_19433_1.mkv.mp4",
-                "2": "https://streamtape.site/v/wJv0Oyy3d4uJ3dj/Aapka_Apna_Zakir_S01E02_19433_2.mkv.mp4"
-            },
-            "eServer4": {}
-        },
-        {
             "id": "1432",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Shekhar%20Home%20Season%201.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/Shekhar%20Home%20Season%201.jpg",
@@ -47788,6 +47762,259 @@
                 "7": "https://streamtape.site/v/RQwDmO1gOgUdWmJ/Outer_Range_S02E07_19435_7.mkv.mp4"
             },
             "eServer4": {}
+        },
+        {
+            "id": "1443",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Manorathangal%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Manorathangal%20Season%201.jpg",
+            "mn": "Manorathangal Season 1",
+            "hf": "https://www.19443",
+            "lng": "Hindi",
+            "trailer": "VEQmlIRCDoQ",
+            "gn": "Drama",
+            "cg": "webSeries",
+            "kn": "Manorathangal",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/kWnoWpBv?download?.mkv",
+                "2": "https://pixeldra.in/api/file/9g2xxtJB?download?.mkv",
+                "3": "https://pixeldra.in/api/file/nY4fvnLX?download?.mkv",
+                "4": "https://pixeldra.in/api/file/2FoZ3xiM?download?.mkv",
+                "5": "https://pixeldra.in/api/file/zcng14kw?download?.mkv",
+                "6": "https://pixeldra.in/api/file/xSUXdJby?download?.mkv",
+                "7": "https://pixeldra.in/api/file/hUQkGkVq?download?.mkv",
+                "8": "https://pixeldra.in/api/file/FowJb2gb?download?.mkv",
+                "9": "https://pixeldra.in/api/file/GEGzom6w?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E01%2019443%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E02%2019443%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E03%2019443%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E04%2019443%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E05%2019443%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E06%2019443%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E07%2019443%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E08%2019443%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Manorathangal%20S01E09%2019443%209.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/re3L1zr2RWSbj76/Manorathangal_S01E01_19443_1.mkv",
+                "2": "https://streamtape.site/v/OJb7ldJX1wu9LA/Manorathangal_S01E02_19443_2.mkv",
+                "3": "https://streamtape.site/v/o1RPRbogpghJQx2/Manorathangal_S01E03_19443_3.mkv",
+                "4": "https://streamtape.site/v/KLQrgaDwKKC08jo/Manorathangal_S01E04_19443_4.mkv",
+                "5": "https://streamtape.site/v/A1e7QmbvJoTXVMW/Manorathangal_S01E05_19443_5.mkv",
+                "6": "https://streamtape.site/v/vBwdrAvOv1I4eYp/Manorathangal_S01E06_19443_6.mkv",
+                "7": "https://streamtape.site/v/VOblBrjq4xFK7J3/Manorathangal_S01E07_19443_7.mkv",
+                "8": "https://streamtape.site/v/9vMJrBmGP2iadye/Manorathangal_S01E08_19443_8.mkv",
+                "9": "https://streamtape.site/v/VPeXGRW2vdcKWY4/Manorathangal_S01E09_19443_9.mkv"
+            },
+            "eServer4": {}
+        },
+        {
+            "id": "1441",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/My%20Perfectt%20Husband%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/My%20Perfectt%20Husband%20Season%201.jpg",
+            "mn": "My Perfectt Husband Season 1",
+            "hf": "https://www.19441",
+            "gn": "Comedy,Drama",
+            "trailer": "XRh0rK7X8LA",
+            "lng": "Hindi+Tamil",
+            "cg": "webSeries",
+            "kn": "My Perfectt Husband",
+            "pn": "S1",
+            "eServer1": {
+                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/My.Perfectt.Husband.S01.720p.HEVC.WeB-DL.DUAL.x265.ESub-SkymoviesHD.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/My%20Perfectt%20Husband%20S01Complete%2019441%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/jpvD6xyo97HzyoY/My_Perfectt_Husband_S01Complete_19441_1.mkv.mp4"
+            },
+            "eServer4": {}
+        },
+        {
+            "id": "1442",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Yeh%20Meri%20Family%20Season%204.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Yeh%20Meri%20Family%20Season%204.jpg",
+            "mn": "Yeh Meri Family Season 4",
+            "hf": "https://www.19442",
+            "gn": "Family,Drama",
+            "trailer": "U3StfiqIWjk",
+            "lng": "Hindi",
+            "cg": "webSeries",
+            "kn": "Yeh Meri Family",
+            "pn": "S4",
+            "eServer1": {
+                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Yeh.Meri.Family.S04.720p.HEVC.WeB-DL.AAC2.0.H.265.ESub-SkymoviesHD.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Yeh%20Meri%20Family%20S04Complete%2019442%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/r4dlWdAMawUb0zk/Yeh_Meri_Family_S04Complete_19442_1.mkv.mp4"
+            },
+            "eServer4": {}
+        },
+        {
+            "id": "1440",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Angry%20Young%20Men%20-%20The%20Salim%20Javed%20Story%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Angry%20Young%20Men%20-%20The%20Salim%20Javed%20Story%20Season%201.jpg",
+            "mn": "Angry Young Men - The Salim Javed Story Season 1",
+            "hf": "https://www.19440",
+            "gn": "Drama",
+            "trailer": "00E3ZEvuen4",
+            "lng": "Hindi",
+            "cg": "webSeries",
+            "kn": "Angry Young Men - The Salim Javed Story",
+            "pn": "S1",
+            "eServer1": {
+                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Angry.Youn.Men.S01.720p.HEVC.WeB-DL.HINDI.2CH.x265.Esub-SkymoviesHD.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Angry%20Young%20Men%20-%20The%20Salim%20Javed%20Story%20S01Complete%2019440%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/a7AgYlPvlvsxB3Q/Angry_Young_Men_-_The_Salim_Javed_Story_S01Complete_19440_1.mkv.mp4"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/uaroEtXA?download?.mkv"
+            }
+        },
+        {
+            "id": "1438",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Accident%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Accident%20Season%201.jpg",
+            "mn": "The Accident Season 1",
+            "hf": "https://www.19438",
+            "lng": "Hindi+English",
+            "trailer": "D1dcWY8fmDY",
+            "gn": "Thriller,Drama",
+            "cg": "webSeries",
+            "kn": "The Accident",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/hj7hmFpP?download?.mkv",
+                "2": "https://pixeldra.in/api/file/eCZxUG6R?download?.mkv",
+                "3": "https://pixeldra.in/api/file/RdKbYMp6?download?.mkv",
+                "4": "https://pixeldra.in/api/file/5tKCroJg?download?.mkv",
+                "5": "https://pixeldra.in/api/file/JrvWj7SC?download?.mkv",
+                "6": "https://pixeldra.in/api/file/vGkdzPGf?download?.mkv",
+                "7": "https://pixeldra.in/api/file/s8xc1fgx?download?.mkv",
+                "8": "https://pixeldra.in/api/file/zdPmEiQr?download?.mkv",
+                "9": "https://pixeldra.in/api/file/VR33g62B?download?.mkv",
+                "10": "https://pixeldra.in/api/file/b6XGEHvJ?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E01%2019438%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E02%2019438%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E03%2019438%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E04%2019438%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E05%2019438%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E06%2019438%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E07%2019438%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E08%2019438%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E09%2019438%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/The%20Accident%20S01E10%2019438%2010.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/4Pq7GKlaQoCKP8m/The_Accident_S01E01_19438_1.mkv",
+                "2": "https://streamtape.site/v/r4jAeqYoaVIbJ4D/The_Accident_S01E02_19438_2.mkv",
+                "3": "https://streamtape.site/v/la4Wm3lzAOc7Jap/The_Accident_S01E03_19438_3.mkv",
+                "4": "https://streamtape.site/v/AK6oadVoqaUXAVj/The_Accident_S01E04_19438_4.mkv",
+                "5": "https://streamtape.site/v/JkbzdjQw9PHj03A/The_Accident_S01E05_19438_5.mkv",
+                "6": "https://streamtape.site/v/A2ke4MYBpXSXdvM/The_Accident_S01E06_19438_6.mkv",
+                "7": "https://streamtape.site/v/g0zlQozqb8FYwB/The_Accident_S01E07_19438_7.mkv",
+                "8": "https://streamtape.site/v/RDzpLgJkmBhx0Z/The_Accident_S01E08_19438_8.mkv",
+                "9": "https://streamtape.site/v/8vkj0kmjlrTozwo/The_Accident_S01E09_19438_9.mkv",
+                "10": "https://streamtape.site/v/ybkBVM2gopFo9A/The_Accident_S01E10_19438_10.mkv"
+            },
+            "eServer4": {}
+        },
+        {
+            "id": "1433",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Aapka%20Apna%20Zakir%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Aapka%20Apna%20Zakir%20Season%201.jpg",
+            "mn": "Aapka Apna Zakir Season 1",
+            "hf": "https://www.19433",
+            "gn": "Comedy",
+            "trailer": "ynMJbldhk8A",
+            "lng": "Hindi",
+            "cg": "webSeries",
+            "kn": "Aapka Apna Zakir",
+            "pn": "S1",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/mA4oTZfm?download?.mkv",
+                "2": "https://pixeldra.in/api/file/uLwRBAFy?download?.mkv",
+                "3": "https://pub-f6885c16db4b42ceb8385eb88cc7d59e.r2.dev/Aapka.Apna.Zakir.Episode.3.720p.Vegamovies.to.mkv",
+                "4": "https://pub-73fc4a549bfa4cf0b8b81a25b48b15aa.r2.dev/Aapka.Apna.Zakir.Episode.4.720p.Vegamovies.to.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Aapka%20Apna%20Zakir%20S01E01%2019433%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Aapka%20Apna%20Zakir%20S01E02%2019433%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Aapka%20Apna%20Zakir%20S01E03%2019433%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Aapka%20Apna%20Zakir%20S01E04%2019433%204.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/yrxAblaqxLh11KG/Aapka_Apna_Zakir_S01E01_19433_1.mkv.mp4",
+                "2": "https://streamtape.site/v/wJv0Oyy3d4uJ3dj/Aapka_Apna_Zakir_S01E02_19433_2.mkv.mp4",
+                "3": "https://streamtape.site/v/DGqp0J1ggXskKA3/Aapka_Apna_Zakir_S01E03_19433_3.mkv",
+                "4": "https://streamtape.site/v/DogkVlk3w7HkJM9/Aapka_Apna_Zakir_S01E04_19433_4.mkv"
+            },
+            "eServer4": {}
+        },
+        {
+            "id": "1439",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Frog%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Frog%20Season%201.jpg",
+            "mn": "The Frog Season 1",
+            "hf": "https://www.19439",
+            "lng": "Hindi+English+Korean",
+            "trailer": "kT-ixV6Cuks",
+            "gn": "Crime,Thriller",
+            "cg": "webSeries",
+            "kn": "The Frog",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-a43a2ea5f8e242aa9565b09a8ff869f2.r2.dev/[Vegamovies.To].he.Frog.S01E01.Do.You.Know.What.They.Call.People.Like.Us.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "2": "https://pub-d123d6d1f4884f6faccc19dfcaeeb099.r2.dev/[Vegamovies.To].The.Frog.S01E02.Who.Will.Come.Knocking.On.The.Door.Of.My.Destiny.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "3": "https://pub-a7d8be628b114762a28a53162b1f3d34.r2.dev/[Vegamovies.To].The.Frog.S01E03.As.Though.You.Couldnt.Get.Me.Off.Your.Mind.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "4": "https://pub-566c342c14f748c5ac1a7b963b5fcd09.r2.dev/[Vegamovies.To].The.Frog.S01E04.I.Think.She.Killed.A.Child.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "5": "https://pub-4abea7fc1fe4496fbfc773c5f89c4ae9.r2.dev/[Vegamovies.To].The.Frog.S01E05.Im.Just.It.In.This.Game.Of.Tag.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "6": "https://pub-ad0eab609ab24cde8357fe35a01f3d0c.r2.dev/[Vegamovies.To].The.Frog.S01E06.Dad.Will.Come.Get.You.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "7": "https://pub-3f52e533b6314ddab09e8826bf3264b2.r2.dev/[Vegamovies.To].The.Frog.S01E07.Well.See.The.End.Together.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv",
+                "8": "https://pub-4560a7e1b21d466d9db254e1f67c832a.r2.dev/[Vegamovies.To].The.Frog.S01E08.Well.Have.A.Lot.To.Talk.About.720p.x264.Hindi.Korean.English.Esubs.Vegamovies.To.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E01%2019439%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E02%2019439%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E03%2019439%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E04%2019439%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E05%2019439%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E06%2019439%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E07%2019439%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/The%20Frog%20S01E08%2019439%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/ydYZ7YDWYWT1pe7/The_Frog_S01E01_19439_1.mkv",
+                "2": "https://streamtape.site/v/0p87JR68VwFLVj/The_Frog_S01E02_19439_2.mkv",
+                "3": "https://streamtape.site/v/79q43Krx8jHAZ6j/The_Frog_S01E03_19439_3.mkv",
+                "4": "https://streamtape.site/v/APD69XaL2QiXO3D/The_Frog_S01E04_19439_4.mkv",
+                "5": "https://streamtape.site/v/Zj2JQ4X04QSMd8/The_Frog_S01E05_19439_5.mkv",
+                "6": "https://streamtape.site/v/Jw1xWoGR29Uj07x/The_Frog_S01E06_19439_6.mkv",
+                "7": "https://streamtape.site/v/qlWDVZXKBgTzmoo/The_Frog_S01E07_19439_7.mkv",
+                "8": "https://streamtape.site/v/aZmJj8AzZrTxXxg/The_Frog_S01E08_19439_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/SXy563Ct?download?.mkv",
+                "2": "https://pixeldra.in/api/file/nKGHmWGo?download?.mkv",
+                "3": "https://pixeldra.in/api/file/qh6bQZAL?download?.mkv",
+                "4": "https://pixeldra.in/api/file/cNzWnyNN?download?.mkv",
+                "5": "https://pixeldra.in/api/file/zVDbbZzs?download?.mkv",
+                "6": "https://pixeldra.in/api/file/ESEu9vzX?download?.mkv",
+                "7": "https://pixeldra.in/api/file/vZfJoYAP?download?.mkv",
+                "8": "https://pixeldra.in/api/file/ZxA2ShEm?download?.mkv"
+            }
         }
     ]
 }
