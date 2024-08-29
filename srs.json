@@ -27846,36 +27846,6 @@
             "eServer4": {}
         },
         {
-            "id": "817",
-            "IH": "https://api.aapkipooja.com/Poster/Series/H1/The%20Lord%20Of%20The%20Rings%20The%20Rings%20Of%20Power%20Season%201.jpg",
-            "IV": "https://api.aapkipooja.com/Poster/Series/V1/The%20Lord%20Of%20The%20Rings%20The%20Rings%20Of%20Power%20Season%201.jpg",
-            "mn": "The Lord Of The Rings The Rings Of Power Season 1",
-            "hf": "https://www.17977",
-            "gn": "FALSE",
-            "trailer": "x8UAUAuKNcU",
-            "lng": "Dual",
-            "cg": "webSeries",
-            "kn": "The Lord Of The Rings The Rings Of Power",
-            "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "2": "http://srsold.aapkipooja.com/srs3/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E02_17975.mkv.mp4",
-                "3": "http://srsold.aapkipooja.com/srs3/The.Lord.of.the.Rings.The.Rings.of.Power.S01E03_17980.mkv.mp4",
-                "4": "http://srsold.aapkipooja.com/srs3/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E04_18019.mkv.mp4"
-            },
-            "eTape": {
-                "1": "https://streamtape.not/v/LpPkKpwBBviWYq/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E01_17974.mkv.mp4",
-                "2": "https://streamtape.site/v/1D0od74jz7fej2X/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E02_17975.mkv.mp4",
-                "3": "https://streamtape.site/v/myGm9O2zpgcbLGo/The.Lord.of.the.Rings.The.Rings.of.Power.S01E03_17980.mkv.mp4",
-                "4": "https://streamtape.site/v/9BXegYO8dxFDwm/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E04_18019.mkv.mp4",
-                "5": "https://streamtape.not/v/X2Dq8eovGJTDJox/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E05.mkv.mp4",
-                "6": "https://streamtape.not/v/zPpva1JAGLsYzgx/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E06.mkv.mp4",
-                "7": "https://streamtape.not/v/bVjvPLMbqbFPZ7B/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E07.mkv.mp4",
-                "8": "https://streamtape.not/v/GXrO4Ko3M7f18eY/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E08.mkv.mp4"
-            },
-            "eServer4": {}
-        },
-        {
             "id": "818",
             "IH": "https://api.aapkipooja.com/Poster/Series/H1/Cobra%20Kai%20Season%205.jpg",
             "IV": "https://api.aapkipooja.com/Poster/Series/V1/Cobra%20Kai%20Season%205.jpg",
@@ -47723,6 +47693,59 @@
             "eServer4": {}
         },
         {
+            "id": "817",
+            "IH": "https://api.aapkipooja.com/Poster/Series/H1/The%20Lord%20Of%20The%20Rings%20The%20Rings%20Of%20Power%20Season%201.jpg",
+            "IV": "https://api.aapkipooja.com/Poster/Series/V1/The%20Lord%20Of%20The%20Rings%20The%20Rings%20Of%20Power%20Season%201.jpg",
+            "mn": "The Lord Of The Rings - The Rings Of Power Season 1",
+            "hf": "https://www.17977",
+            "gn": "Adventure,Action",
+            "trailer": "x8UAUAuKNcU",
+            "lng": "Hindi+English",
+            "cg": "webSeries",
+            "kn": "The Lord Of The Rings - The Rings Of Power",
+            "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/Wsr6HVVg?download?.mkv",
+            "2": "https://pixeldra.in/api/file/DyA4Dw9J?download?.mkv",
+            "3": "https://pub-1fb448d41be549b39e6be0f20bc76b7c.r2.dev/The.Lord.of.the.Rings.The.Rings.of.Power.S01E03.Adar.720p.WEB-DL.Hindi.English.AAC.5.1.ESub.x264-Vegamovies.to.mkv",
+            "4": "https://pixeldra.in/api/file/UoK4ugHQ?download?.mkv",
+            "5": "https://pub-eec73eb6857d433a966010e2c7cfa045.r2.dev/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E05.720p.Hindi.English.Msubs.Vegamovies.to.mkv",
+            "6": "https://pub-b2b50a4a17174496bc5d8fed103c26d4.r2.dev/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E06.720p.Hindi.English.Msubs.Vegamovies.to.mkv",
+            "7": "https://pixeldra.in/api/file/RLLnejpq?download?.mkv",
+            "8": "https://pub-ddcbb31ae94943ad92b7ac2ec7a5f24c.r2.dev/The.Lord.Of.The.Rings.The.Rings.Of.Power.S01E08.720p.Hindi.English.Msubs.Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E01%20817%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E02%20817%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E03%20817%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E04%20817%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E05%20817%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E06%20817%206.mkv",
+            "7": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E07%20817%207.mkv",
+            "8": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S01E08%20817%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/eVy62rPGJqIYRZm/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E01_817_1.mkv",
+            "2": "https://streamtape.site/v/vlaAkeYvk6H4V9R/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E02_817_2.mkv",
+            "3": "https://streamtape.site/v/BLWxeDejgwcm7v/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E03_817_3.mkv",
+            "4": "https://streamtape.site/v/D9749k7r6ksGJo/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E04_817_4.mkv",
+            "5": "https://streamtape.site/v/MZQxZWmz2ViDeW/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E05_817_5.mkv",
+            "6": "https://streamtape.site/v/Mz1bDx9GdyImWMx/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E06_817_6.mkv",
+            "7": "https://streamtape.site/v/QbKJ0zB9WzH0Oml/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E07_817_7.mkv",
+            "8": "https://streamtape.site/v/9P4VXjby9zt90l/The_Lord_of_the_Rings_-_The_Rings_of_Power_S01E08_817_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/Wsr6HVVg?download?.mkv",
+            "2": "https://pixeldra.in/api/file/DyA4Dw9J?download?.mkv",
+            "3": "https://pixeldra.in/api/file/W58TNuDR?download?.mkv",
+            "4": "https://pixeldra.in/api/file/UoK4ugHQ?download?.mkv",
+            "5": "https://pixeldra.in/api/file/bbE4ABFE?download?.mkv",
+            "6": "https://pixeldra.in/api/file/6rbmteAQ?download?.mkv",
+            "7": "https://pixeldra.in/api/file/RLLnejpq?download?.mkv",
+            "8": "https://pixeldra.in/api/file/dvGQKCAT?download?.mkv"
+        }
+        },
+        {
             "id": "1435",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Outer%20Range%20Season%202.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/Outer%20Range%20Season%202.jpg",
@@ -48015,6 +48038,129 @@
                 "7": "https://pixeldra.in/api/file/vZfJoYAP?download?.mkv",
                 "8": "https://pixeldra.in/api/file/ZxA2ShEm?download?.mkv"
             }
+        },
+        {
+        "id": "1444",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/Worst%20Ex%20Ever%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/Worst%20Ex%20Ever%20Season%201.jpg",
+        "mn": "Worst Ex Ever Season 1",
+        "hf": "https://www.19444",
+        "lng": "Hindi+English",
+        "trailer": "bvw5_qCgVfQ",
+        "gn": "Crime,Documentary",
+        "cg": "webSeries",
+        "kn": "Worst Ex Ever",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://f2.fastdl.lol/Worst.Ex.Ever.S01E01.Dating.the.Devil.720p.Hindi.English.Esubs.Vegamovies.To.mkv",
+            "2": "https://f2.fastdl.lol/Worst.Ex.Ever.S01E02.Betrayed.by.the.Badge.720p.Hindi.English.Esubs.Vegamovies.To.mkv",
+            "3": "https://f2.fastdl.lol/Worst.Ex.Ever.S01E03.Killing.for.Custody.720p.Hindi.English.Esubs.Vegamovies.To.mkv",
+            "4": "https://f2.fastdl.lol/Worst.Ex.Ever.S01E04.Married.to.a.Monster.720p.Hindi.English.Esubs.Vegamovies.To.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/Worst%20Ex%20Ever%20S01E01%2019444%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/Worst%20Ex%20Ever%20S01E02%2019444%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/Worst%20Ex%20Ever%20S01E03%2019444%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/Worst%20Ex%20Ever%20S01E04%2019444%204.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/abpbjAM4kYhx73X/Worst_Ex_Ever_S01E01_19444_1.mkv",
+            "2": "https://streamtape.site/v/B74KpQbLQpUmW8/Worst_Ex_Ever_S01E02_19444_2.mkv",
+            "3": "https://streamtape.site/v/rlWV0QxLABubrbw/Worst_Ex_Ever_S01E03_19444_3.mkv",
+            "4": "https://streamtape.site/v/laYdqGy6QeIZWV/Worst_Ex_Ever_S01E04_19444_4.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/YBLy1yky?download?.mkv",
+            "2": "https://pixeldra.in/api/file/bu9mHRYo?download?.mkv",
+            "3": "https://pixeldra.in/api/file/Ws6xgEVD?download?.mkv",
+            "4": "https://pixeldra.in/api/file/TRDCeSGg?download?.mkv"
         }
+},
+{
+        "id": "1445",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/Kaos%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/Kaos%20Season%201.jpg",
+        "mn": "Kaos Season 1",
+        "hf": "https://www.19445",
+        "lng": "Hindi+English",
+        "trailer": "FSEu2OEGfg4",
+        "gn": "Comedy,Fantasy",
+        "cg": "webSeries",
+        "kn": "Kaos",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-5cbff3cd77c54ce8ad6ce9e8323b3a88.r2.dev/KAOS.S01E01.720p.Hindi.English.Vegamovies.To.mkv",
+            "2": "https://f2.fastdl.lol/KAOS.S01E02.720p.Hindi.English.Vegamovies.To.mkv",
+            "3": "https://f2.fastdl.lol/KAOS.S01E03.720p.Hindi.English.Vegamovies.To.mkv",
+            "4": "https://f2.fastdl.lol/KAOS.S01E04.720p.Hindi.English.Vegamovies.To.mkv",
+            "5": "https://f2.fastdl.lol/KAOS.S01E05.720p.Hindi.English.Vegamovies.To.mkv",
+            "6": "https://f2.fastdl.lol/KAOS.S01E06.720p.Hindi.English.Vegamovies.To.mkv",
+            "7": "https://f2.fastdl.lol/KAOS.S01E07.720p.Hindi.English.Vegamovies.To.mkv",
+            "8": "https://f2.fastdl.lol/KAOS.S01E08.720p.Hindi.English.Vegamovies.To.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/Kaos%20S01E01%2019445%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/Kaos%20S01E02%2019445%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/Kaos%20S01E03%2019445%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/Kaos%20S01E04%2019445%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/Kaos%20S01E05%2019445%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/Kaos%20S01E06%2019445%206.mkv",
+            "7": "http://srs.ringzstudio.online/lst/Kaos%20S01E07%2019445%207.mkv",
+            "8": "http://srs.ringzstudio.online/lst/Kaos%20S01E08%2019445%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/W3ZD00Y6wxfbwYa/Kaos_S01E01_19445_1.mkv",
+            "2": "https://streamtape.site/v/bpVrlVx6k6sP3Ye/Kaos_S01E02_19445_2.mkv",
+            "3": "https://streamtape.site/v/12P2PZVbbqhx76/Kaos_S01E03_19445_3.mkv",
+            "4": "https://streamtape.site/v/8XybdLXl4vioLQd/Kaos_S01E04_19445_4.mkv",
+            "5": "https://streamtape.site/v/Lq3qOBZx4MuR13w/Kaos_S01E05_19445_5.mkv",
+            "6": "https://streamtape.site/v/jlJrAYWVb6sz3Lr/Kaos_S01E06_19445_6.mkv",
+            "7": "https://streamtape.site/v/2k9PWXDxlzUZbzo/Kaos_S01E07_19445_7.mkv",
+            "8": "https://streamtape.site/v/8Bwleq3wxqfozAL/Kaos_S01E08_19445_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/D7eTotz8?download?.mkv",
+            "2": "https://pixeldra.in/api/file/f2RXhSXp?download?.mkv",
+            "3": "https://pixeldra.in/api/file/bQPndTXT?download?.mkv",
+            "4": "https://pixeldra.in/api/file/1r5ApRrG?download?.mkv",
+            "5": "https://pixeldra.in/api/file/LS9NyvYh?download?.mkv",
+            "6": "https://pixeldra.in/api/file/AvzXC3hA?download?.mkv",
+            "7": "https://pixeldra.in/api/file/h9EfFngA?download?.mkv",
+            "8": "https://pixeldra.in/api/file/YSp6NsF2?download?.mkv"
+        }
+},
+{
+        "id": "1446",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Lord%20Of%20The%20Rings%20-%20The%20Rings%20Of%20Power%20Season%202.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Lord%20Of%20The%20Rings%20-%20The%20Rings%20Of%20Power%20Season%202.jpg",
+        "mn": "The Lord of the Rings - The Rings of Power Season 2",
+        "hf": "https://www.19446",
+        "lng": "Hindi+English",
+        "trailer": "C0nHfOxTpVM",
+        "gn": "Adventure,Action",
+        "cg": "webSeries",
+        "kn": "The Lord of the Rings - The Rings of Power",
+        "pn": "S02",
+        "eServer1": {
+            "1": "https://pub-05452367ec6c48f1846c6fb2cf8c42ed.r2.dev/The.Rings.of.Power.S02E01.720p.WEB-DL.HIN-ENG.x264.MSub.Vegamovies.To.mkv",
+            "2": "https://pub-b07e42da60654450a9d0d5e06e905ed4.r2.dev/The.Rings.of.Power.S02E02.720p.WEB-DL.HIN-ENG.x264.MSub.Vegamovies.To.mkv",
+            "3": "https://pub-d0ef31bafe4141ed8389308801a808c2.r2.dev/The.Rings.of.Power.S02E03.720p.WEB-DL.HIN-ENG.x264.MSub.Vegamovies.To.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S02E01%2019446%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S02E02%2019446%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/The%20Lord%20of%20the%20Rings%20-%20The%20Rings%20of%20Power%20S02E03%2019446%203.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/0JeDRAmxr0S0qR/The_Lord_of_the_Rings_-_The_Rings_of_Power_S02E01_19446_1.mkv",
+            "2": "https://streamtape.site/v/y7mG4WRkoBU1XD4/The_Lord_of_the_Rings_-_The_Rings_of_Power_S02E02_19446_2.mkv",
+            "3": "https://streamtape.site/v/M0rjbgVQB0fm4ar/The_Lord_of_the_Rings_-_The_Rings_of_Power_S02E03_19446_3.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/bhdgBoxV?download?.mkv",
+            "2": "https://pixeldra.in/api/file/ApPyCp99?download?.mkv",
+            "3": "https://pixeldra.in/api/file/YmpJi6Yq?download?.mkv"
+        }
+}
     ]
 }
