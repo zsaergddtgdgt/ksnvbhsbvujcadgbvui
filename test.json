@@ -2,6 +2,27 @@
     "AllMovieDataList": [
     
         {
+            "id": "4308",
+            "IH": "https://ereviewwala.com/Poster/Movies/H2/Bad%20Newz%20(2024).jpg",
+            "IV": "https://ereviewwala.com/Poster/Movies/V2/Bad%20Newz%20(2024).jpg",
+            "mn": "Bad Newz (2024)",
+            "hf": "https://www.4308",
+            "lng": "Hindi",
+            "trailer": "uV50UfcIT68",
+            "qlty": "HD",
+            "gn": "Comedy,Romance",
+            "cg": "Bollywood",
+            "s1": "https://pub-fb41377b306648d0ad4e89af99ad7d71.r2.dev/Bad.Newz.2024.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+            "s2": "http://mvs.aapkipooja.com/720p/Bad%20Newz%20(2024)%204308.mkv",
+            "tape": "https://streamtape.site/v/6QBlXqL7a6SeAb/Bad_Newz_%282024%29_4308.mkv.mp4",
+            "s4": "https://pixeldra.in/api/file/bfyEWeBk?download?.mkv",
+            "480p": "TRUE",
+            "4s1": "https://pub-55cc3f1d973a47709399bf380e842dfb.r2.dev/Bad.Newz.2024.480p.Hindi.WEB-DL.ESub.x264.Vegamovies.to.mkv",
+            "4s2": "http://mvs.aapkipooja.com/480p/Bad%20Newz%20(2024)%204308.mkv",
+            "4s3": "https://pixeldra.in/api/file/5vS43gBz?download?.mkv",
+            "4s4": "FALSE"
+        },
+        {
             "id": "4198",
             "IH": "https://ereviewwala.com/Poster/Movies/H2/Munjya%20(2024).jpg",
             "IV": "https://ereviewwala.com/Poster/Movies/V2/Munjya%20(2024).jpg",
@@ -2120,27 +2141,6 @@
             "4s1": "https://pub-7b0f3ee3c3284637b3c103c5cf15c316.r2.dev/Mummies.2023.480p.[HIN.ENG].Vegamovies.To.mkv",
             "4s2": "http://mvs.aapkipooja.com/480p/Mummies%20(2023)%2014319.mkv",
             "4s3": "FALSE",
-            "4s4": "FALSE"
-        },
-        {
-            "id": "4308",
-            "IH": "https://ereviewwala.com/Poster/Movies/H2/Bad%20Newz%20(2024).jpg",
-            "IV": "https://ereviewwala.com/Poster/Movies/V2/Bad%20Newz%20(2024).jpg",
-            "mn": "Bad Newz (2024)",
-            "hf": "https://www.4308",
-            "lng": "Hindi",
-            "trailer": "uV50UfcIT68",
-            "qlty": "HDTS-V2",
-            "gn": "Comedy,Romance",
-            "cg": "Bollywood",
-            "s1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Bad_Newz_720.mkv",
-            "s2": "http://mvs.aapkipooja.com/720p/Bad%20Newz%20(2024)%204308.mkv",
-            "tape": "https://streamtape.site/v/6QBlXqL7a6SeAb/Bad_Newz_%282024%29_4308.mkv.mp4",
-            "s4": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Bad_Newz_720.mkv",
-            "480p": "TRUE",
-            "4s1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Bad_Newz_480.mkv",
-            "4s2": "http://mvs.aapkipooja.com/480p/Bad%20Newz%20(2024)%204308.mkv",
-            "4s3": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Bad_Newz_480.mkv",
             "4s4": "FALSE"
         },
         {
