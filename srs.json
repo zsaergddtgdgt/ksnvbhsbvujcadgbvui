@@ -33893,18 +33893,18 @@
             "cg": "webSeries",
             "kn": "Inspector Avinash",
             "pn": "S1",
-            "eServer1": {},
+            "eServer1": {
+                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E01.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "2": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E02.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "3": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E03.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "4": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E04.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "5": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E05.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "6": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E06.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "7": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E07.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
+                "8": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E08.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv"
+                },
             "eServer2": {},
-            "eTape": {
-                "1": "https://streamtape.not/v/mymrJ11ZJ0cbgJm/Inspector_Avinash_S01E01_19031_1.mkv.mp4",
-                "2": "https://streamtape.not/v/W3e2RAoPkRIb4Gz/Inspector_Avinash_S01E02_19031_2.mkv.mp4",
-                "3": "https://streamtape.not/v/J9qPpQ9XPxSjKr1/Inspector_Avinash_2023_S1E3_19031_3.mkv.mp4",
-                "4": "https://streamtape.not/v/PGlB7YbBPoi0K1g/Inspector_Avinash_S01E04_19031_4.mkv",
-                "5": "https://streamtape.not/v/BedgW3wgbKhygeZ/Inspector_Avinash_S01E05_19031_5.mkv.mp4",
-                "6": "https://streamtape.not/v/WQ1bpRpzaqSbJBB/Inspector_Avinash_S01E06_19031_6.mkv.mp4",
-                "7": "https://streamtape.not/v/2V6JxrAMY1SZvwX/Inspector_Avinash_S01E07_19031_7.mkv.mp4",
-                "8": "https://streamtape.not/v/JKw6a2dArjcjjQ7/Inspector_Avinash_S1E8_%282023%29_19031_8.mkv.mp4"
-            },
+            "eTape": {},
             "eServer4": {}
         },
         {
