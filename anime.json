@@ -1,6 +1,48 @@
 {
     "webSeriesDataList": [
-    
+    {
+        "id": "53",
+        "IH": "https://ereviewwala.com/Poster/Anime/H1/Akudama%20Drive%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Anime/V1/Akudama%20Drive%20Season%201.jpg",
+        "mn": "Akudama Drive Season 1",
+        "hf": "https://www.53",
+        "lng": "Hindi",
+        "trailer": "FALSE",
+        "gn": "Anime,Action",
+        "cg": "webSeries",
+        "kn": "Akudama Drive",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/UYbpcuyy?download?.mkv",
+            "2": "https://pixeldra.in/api/file/4hUgZM5V?download?.mkv",
+            "3": "https://pixeldra.in/api/file/j3UJ1ApW?download?.mkv",
+            "4": "https://pixeldra.in/api/file/WnNCmqWF?download?.mkv",
+            "5": "https://pixeldra.in/api/file/aMWNvrx2?download?.mkv",
+            "6": "https://pixeldra.in/api/file/mJCFRWKn?download?.mkv",
+            "7": "https://pixeldra.in/api/file/8QchFcXs?download?.mkv",
+            "8": "https://pixeldra.in/api/file/tWvbqPra?download?.mkv",
+            "9": "https://pixeldra.in/api/file/YvRb2Whc?download?.mkv",
+            "10": "https://pixeldra.in/api/file/UVfh2nvX?download?.mkv",
+            "11": "https://pixeldra.in/api/file/6qbEJ583?download?.mkv",
+            "12": "https://pixeldra.in/api/file/e6fmhgEi?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E01%2053%201.mkv",
+            "2": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E02%2053%202.mkv",
+            "3": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E03%2053%203.mkv",
+            "4": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E04%2053%204.mkv",
+            "5": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E05%2053%205.mkv",
+            "6": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E06%2053%206.mkv",
+            "7": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E07%2053%207.mkv",
+            "8": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E08%2053%208.mkv",
+            "9": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E09%2053%209.mkv",
+            "10": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E10%2053%2010.mkv",
+            "11": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E11%2053%2011.mkv",
+            "12": "http://anime.ringzstudio.online/anime/Akudama%20Drive%20S01E12%2053%2012.mkv"
+        },
+        "eTape": {},
+        "eServer4": {}
+    },
     {
         "id": "52",
         "IH": "https://ereviewwala.com/Poster/Anime/H1/Baki%20Hanma%20-%20Part%201%20Season%202.jpg",
