@@ -28375,18 +28375,24 @@
             "IV": "https://i.postimg.cc/QMzcZ46D/mismatched-2022.jpg",
             "mn": "Mismatched Season 2",
             "hf": "https://www.18834",
-            "gn": "FALSE",
+            "gn": "Romance,Drama",
             "trailer": "vIZWLvcMS9c",
             "lng": "Hindi",
             "cg": "webSeries",
             "kn": "Mismatched",
             "pn": "S2",
-            "eServer1": {},
-            "eServer2": {},
-            "eTape": {
-                "1": "https://streamtape.not/v/Wgdb2R6DaaCb7mz/Mismatched_Season_2_%282022%29_18034.mkv.mp4"
+            "eServer1": {
+                "1": "https://pub-0c1000fb748547dc8e3c9001a66885a3.r2.dev/Mismatched%202022%20HIndi%20Season%202%20Complete%20Netflix%20-%20720P%20-%20Vegamovies.to.mkv"
             },
-            "eServer4": {}
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Mismatched%20S02Complete%2018834%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/1Ab8JLQOyYCyeW/Mismatched_S02Complete_18834_1.mkv.mp4"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/Qj77shuH?download?.mkv"
+            }
         },
         {
             "id": "835",
