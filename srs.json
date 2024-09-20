@@ -48795,7 +48795,7 @@
         }
     },
     {
-        "id": "19462",
+        "id": "1462",
         "IH": "https://ereviewwala.com/Poster/Series/H1/Based%20on%20a%20True%20Story%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Series/V1/Based%20on%20a%20True%20Story%20Season%201.jpg",
         "mn": "Based on a True Story Season 1",
@@ -48820,7 +48820,7 @@
         }
     },
     {
-        "id": "19464",
+        "id": "1464",
         "IH": "https://ereviewwala.com/Poster/Series/H1/Monsters%20-%20The%20Lyle%20and%20Erik%20Menendez%20Story%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Series/V1/Monsters%20-%20The%20Lyle%20and%20Erik%20Menendez%20Story%20Season%201.jpg",
         "mn": "Monsters - The Lyle and Erik Menendez Story Season 1",
@@ -48877,7 +48877,7 @@
         }
     },
     {
-        "id": "19463",
+        "id": "1463",
         "IH": "https://ereviewwala.com/Poster/Series/H1/What%E2%80%99s%20Next%20-%20The%20Future%20with%20Bill%20Gates%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Series/V1/What%E2%80%99s%20Next%20-%20The%20Future%20with%20Bill%20Gates%20Season%201.jpg",
         "mn": "What’s Next - The Future with Bill Gates Season 1",
@@ -48946,8 +48946,67 @@
             "6": "https://pixeldra.in/api/file/4YD3a5wC?download?.mkv"
         }
 },
+    
     {
-        "id": "19465",
+        "id": "1467",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/MH370%20The%20Plane%20That%20Disappeared%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/MH370%20The%20Plane%20That%20Disappeared%20Season%201.jpg",
+        "mn": "MH370 The Plane That Disappeared Season 1",
+        "hf": "https://www.19467",
+        "lng": "Hindi+English",
+        "trailer": "TDg0m2Q3H8c",
+        "gn": "Documentary",
+        "cg": "webSeries",
+        "kn": "MH370 The Plane That Disappeared",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/hssXaSJn?download?.mkv",
+            "2": "https://pixeldra.in/api/file/K1KAhzpB?download?.mkv",
+            "3": "https://pixeldra.in/api/file/NWW6M4Vg?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/MH370%20The%20Plane%20That%20Disappeared%20S01E01%2019467%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/MH370%20The%20Plane%20That%20Disappeared%20S01E02%2019467%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/MH370%20The%20Plane%20That%20Disappeared%20S01E03%2019467%203.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/kpj9A9ebmlcOqeb/MH370_The_Plane_That_Disappeared_S01E01_19467_1.mkv",
+            "2": "https://streamtape.site/v/eaKgrRxzgqUY0PJ/MH370_The_Plane_That_Disappeared_S01E02_19467_2.mkv",
+            "3": "https://streamtape.site/v/a490w9GeDLIx13p/MH370_The_Plane_That_Disappeared_S01E03_19467_3.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/hssXaSJn?download?.mkv",
+            "2": "https://pixeldra.in/api/file/K1KAhzpB?download?.mkv",
+            "3": "https://pixeldra.in/api/file/NWW6M4Vg?download?.mkv"
+        }
+    },
+    {
+        "id": "1466",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Penguin%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Penguin%20Season%201.jpg",
+        "mn": "The Penguin Season 1",
+        "hf": "https://www.19466",
+        "lng": "Hindi+English",
+        "trailer": "sfJG6IiA_s8",
+        "gn": "Crime,Fantasy",
+        "cg": "webSeries",
+        "kn": "The Penguin",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-dc1f5a53efd24488913d04ca9d3ee1e7.r2.dev/The.Penguin.S01E01.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E01%2019466%201.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/2oJygGBzL0IZYA0/The_Penguin_S01E01_19466_1.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/AD6GjYFU?download?.mkv"
+        }
+    },
+    {
+        "id": "1465",
         "IH": "https://ereviewwala.com/Poster/Series/H1/Agatha%20All%20Along%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Series/V1/Agatha%20All%20Along%20Season%201.jpg",
         "mn": "Agatha All Along Season 1",
@@ -48973,6 +49032,59 @@
         "eServer4": {
             "1": "https://pixeldra.in/api/file/3g7SD34J?download?.mkv",
             "2": "https://pixeldra.in/api/file/EneVnAiS?download?.mkv"
+        }
+    },
+    {
+        "id": "1468",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Mystery%20of%20Moksha%20Island%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Mystery%20of%20Moksha%20Island%20Season%201.jpg",
+        "mn": "The Mystery of Moksha Island Season 1",
+        "hf": "https://www.19468",
+        "lng": "Hindi",
+        "trailer": "rrrJg0I-mN4",
+        "gn": "Thriller,Drama",
+        "cg": "webSeries",
+        "kn": "The Mystery of Moksha Island",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Mystery.of.Moksha.Island.S01E01.The.Invitation.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "2": "https://pub-c8393340b2534fd79a9f112bef74f60e.r2.dev/The.Mystery.of.Moksha.Island.S01E02.Island.Recci.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "3": "https://pub-87db527822484b5ab1dad1ff2c281c5f.r2.dev/The.Mystery.of.Moksha.Island.S01E03.Family.Matters.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "4": "https://pub-6bf7efe69d8640e9b1e61a5517c3d358.r2.dev/The.Mystery.of.Moksha.Island.S01E04.Grandma.Tales.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "5": "https://pub-d59969ae29794e779c4c691b9ea89073.r2.dev/The.Mystery.of.Moksha.Island.S01E05.Lab.Rats.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "6": "https://pub-93cb3aa797e343ff96ef386fe2f450e0.r2.dev/The.Mystery.of.Moksha.Island.S01E06.No.One.is.Safe.Here.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "7": "https://pub-060504e82dbf468aa239356b2c090ccc.r2.dev/The.Mystery.of.Moksha.Island.S01E07.Science.Matters.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv",
+            "8": "https://pub-b58d871f47e049c9abcf40c2f58b7818.r2.dev/The.Mystery.of.Moksha.Island.S01E08.Mind.Bending.720p.HS.WEB-DL.Hindi.DDP5.1.x264.Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E01%2019468%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E02%2019468%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E03%2019468%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E04%2019468%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E05%2019468%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E06%2019468%206.mkv",
+            "7": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E07%2019468%207.mkv",
+            "8": "http://srs.ringzstudio.online/lst/The%20Mystery%20of%20Moksha%20Island%20S01E08%2019468%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/4Rpp9wwv2ZiKMW6/The_Mystery_of_Moksha_Island_S01E01_19468_1.mkv",
+            "2": "https://streamtape.site/v/ogd8vwRJZ7TJlm4/The_Mystery_of_Moksha_Island_S01E02_19468_2.mkv",
+            "3": "https://streamtape.site/v/BYoyYQdwqviWVL/The_Mystery_of_Moksha_Island_S01E03_19468_3.mkv",
+            "4": "https://streamtape.site/v/xllyQq1VDwUk46o/The_Mystery_of_Moksha_Island_S01E04_19468_4.mkv",
+            "5": "https://streamtape.site/v/LLo0Wl1dzQcWkb/The_Mystery_of_Moksha_Island_S01E05_19468_5.mkv",
+            "6": "https://streamtape.site/v/L1kb0XLzDqCbWK/The_Mystery_of_Moksha_Island_S01E06_19468_6.mkv",
+            "7": "https://streamtape.site/v/8O2PyGJrDwsoQqp/The_Mystery_of_Moksha_Island_S01E07_19468_7.mkv",
+            "8": "https://streamtape.site/v/qy0bVqKr7GUzBB3/The_Mystery_of_Moksha_Island_S01E08_19468_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/zmSqaKX1?download?.mkv",
+            "2": "https://pixeldra.in/api/file/mgxwQebS?download?.mkv",
+            "3": "https://pixeldra.in/api/file/yxbTjcia?download?.mkv",
+            "4": "https://pixeldra.in/api/file/AYAr9jaV?download?.mkv",
+            "5": "https://pixeldra.in/api/file/MVjPmzvS?download?.mkv",
+            "6": "https://pixeldra.in/api/file/R6ApKr1K?download?.mkv",
+            "7": "https://pixeldra.in/api/file/2NySfMk5?download?.mkv",
+            "8": "https://pixeldra.in/api/file/KLV5V6fj?download?.mkv"
         }
     }
     ]
