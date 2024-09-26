@@ -2,6 +2,249 @@
     "webSeriesDataList": [
     
     {
+        "id": "669",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Kala%20Khatta%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Kala%20Khatta%20Season%201.jpg",
+        "mn": "Kala Khatta Season 1",
+        "hf": "https://www.669",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "uOML7IcBso4",
+        "gn": "Adult,Drama",
+        "cg": "webSeries",
+        "kn": "Kala Khatta",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-87f3ebb87fbf4b3f8a86132cb7e24546.r2.dev/Kala.Khatta.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.to.mkv",
+            "2": "https://pub-456663cdcf3547a693d626b0bf975aa8.r2.dev/Kala.Khatta.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E01%20669%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E02%20669%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/9TyoyKnk?download?.mkv",
+            "2": "https://pixeldra.in/api/file/B7qY6tH5?download?.mkv"
+        }
+    },
+    {
+        "id": "677",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Kasturi%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Kasturi%20Season%201.png",
+        "mn": "Kasturi Season 1",
+        "hf": "https://www.677",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "o5uO_lZHJN4",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Kasturi",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-909bd8124af34805a00278f218f33986.r2.dev/Kasturi.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-bae5f6a3ba704fe0884934873fd473f8.r2.dev/Kasturi.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Kasturi%20S01E01%20677%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Kasturi%20S01E02%20677%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/E2pwbxJb?download?.mkv",
+            "2": "https://pixeldra.in/api/file/uJ9D15wP?download?.mkv"
+        }
+    },
+    {
+        "id": "676",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Purani%20Haveli%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Purani%20Haveli%20Season%201.png",
+        "mn": "Purani Haveli Season 1",
+        "hf": "https://www.676",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "q028cOx4qrM",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Purani Haveli",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-7a4bd69f90f145a2816cfbf795c23be4.r2.dev/Purani.Haveli.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-c27cfeefe02b4960875ba83e5d0b3453.r2.dev/Purani.Haveli.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Purani%20Haveli%20S01E01%20676%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Purani%20Haveli%20S01E02%20676%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/i2LhCkmV?download?.mkv",
+            "2": "https://pixeldra.in/api/file/tywh89Q4?download?.mkv"
+        }
+    },
+    {
+        "id": "683",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Devil%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Devil%20Season%201.png",
+        "mn": "Devil Season 1",
+        "hf": "https://www.683",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "RfLPYmXh4uI",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Devil",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/KvKbpR6h?download?.mkv",
+            "2": "https://pixeldra.in/api/file/uzTXJxqT?download?.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Devil%20S01E01%20683%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Devil%20S01E02%20683%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/KvKbpR6h?download?.mkv",
+            "2": "https://pixeldra.in/api/file/uzTXJxqT?download?.mkv"
+        }
+    },
+    {
+        "id": "682",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Corporate%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Corporate%20Season%201.jpg",
+        "mn": "Corporate Season 1",
+        "hf": "https://www.682",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "ThgbmI66QV0",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Corporate",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-357e597b4dcd45ce93ab9b4846c798cb.r2.dev/Corporate.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-949ea850651b44718b3768e7780a9316.r2.dev/Corporate.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Corporate%20S01E01%20682%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Corporate%20S01E02%20682%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/wPop5jwj?download?.mkv",
+            "2": "https://pixeldra.in/api/file/5aA61pwv?download?.mkv"
+        }
+    },
+    {
+        "id": "681",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Red%20Light%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Red%20Light%20Season%201.jpg",
+        "mn": "Red Light Season 1",
+        "hf": "https://www.681",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "x38lOi7hxg4",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Red Light",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-7346c797d9594646aed8339fcfaf5585.r2.dev/Red.Light.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-c29120860b5d4aec82d21b2a79bdab5d.r2.dev/Red.Light.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Red%20Light%20S01E01%20681%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Red%20Light%20S01E02%20681%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/7ASSiWRe?download?.mkv",
+            "2": "https://pixeldra.in/api/file/bicWtna5?download?.mkv"
+        }
+    },
+    {
+        "id": "680",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Estate%20Manager%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Estate%20Manager%20Season%201.png",
+        "mn": "Estate Manager Season 1",
+        "hf": "https://www.680",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "LoQmiIw8dOg",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Estate Manager",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-5a65506b21254a19a38f6cc4a77b14c8.r2.dev/Estate.Manager.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-1a703ace5f1d4417aee0bf5103bd7b01.r2.dev/Estate.Manager.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Estate%20Manager%20S01E01%20680%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Estate%20Manager%20S01E02%20680%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/w9LZG9tr?download?.mkv",
+            "2": "https://pixeldra.in/api/file/ha3qZyNM?download?.mkv"
+        }
+    },
+    {
+        "id": "679",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Nau%20Do%20Gyarah%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Nau%20Do%20Gyarah%20Season%201.png",
+        "mn": "Nau Do Gyarah Season 1",
+        "hf": "https://www.679",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "cGP9tooCPmI",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Nau Do Gyarah",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-6317aaaa75a9452bb9c5fc9889a21759.r2.dev/Nau.Do.Gyarah.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-e66f5ec5fb5849f98aa7277c0325e65a.r2.dev/Nau.Do.Gyarah.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Nau%20Do%20Gyarah%20S01E01%20679%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Nau%20Do%20Gyarah%20S01E02%20679%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/GetYww9H?download?.mkv",
+            "2": "https://pixeldra.in/api/file/UkBRhR6o?download?.mkv"
+        }
+    },
+    {
+        "id": "678",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Tota%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Tota%20Season%201.png",
+        "mn": "Tota Season 1",
+        "hf": "https://www.678",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "VKeztSFbRRg",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Tota",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-b0a35db176014596b1940e5623ef6c47.r2.dev/Tota.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.to.mkv",
+            "2": "https://pixeldra.in/api/file/EtyBzv8q?download?.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Tota%20S01E01%20678%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Tota%20S01E02%20678%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/puDkzY1r?download?.mkv",
+            "2": "https://pixeldra.in/api/file/EtyBzv8q?download?.mkv"
+        }
+    },
+    {
         "id": "668",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Dil%20Sambhal%20Ja%20Zara%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Adult/V1/Dil%20Sambhal%20Ja%20Zara%20Season%201.jpg",
@@ -28,30 +271,6 @@
             "2": "https://pixeldra.in/api/file/cFmc4ZpA?download?.mkv"
         }
     }, 
-    {
-        "id": "669",
-        "IH": "https://ereviewwala.com/Poster/Adult/H1/Kala%20Khatta%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Adult/V1/Kala%20Khatta%20Season%201.jpg",
-        "mn": "Kala Khatta Season 1",
-        "hf": "https://www.669",
-        "lng": "Hindi",
-        "ind": "Ullu",
-        "trailer": "uOML7IcBso4",
-        "gn": "Adult,Drama",
-        "cg": "webSeries",
-        "kn": "Kala Khatta",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-87f3ebb87fbf4b3f8a86132cb7e24546.r2.dev/Kala.Khatta.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.to.mkv"
-        },
-        "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E01%20669%201.mkv"
-        },
-        "eTape": {},
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/9TyoyKnk?download?.mkv"
-        }
-    },
     {
         "id": "667",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Numbari%20Season%201.jpg",
