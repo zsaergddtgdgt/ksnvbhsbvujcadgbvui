@@ -1,6 +1,29 @@
 {
     "webSeriesDataList": [
-    
+    {
+        "id": "684",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/O%20Sajni%20Re%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/O%20Sajni%20Re%20Season%201.jpg",
+        "mn": "O Sajni Re Season 1",
+        "hf": "https://www.684",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "laEmUuEVRGo",
+        "gn": "Adult,Drama",
+        "cg": "webSeries",
+        "kn": "O Sajni Re",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-d5876cf21a3a411b9516a53418a9d817.r2.dev/O.Sajni.Re.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/O%20Sajni%20Re%20S01E01%20684%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/KH7cMZN9?download?.mkv"
+        }
+    },
     {
         "id": "669",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Kala%20Khatta%20Season%201.jpg",
