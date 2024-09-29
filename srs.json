@@ -48982,31 +48982,6 @@
             "8": "https://pixeldra.in/api/file/KLV5V6fj?download?.mkv"
         }
     },
-    {
-        "id": "1469",
-        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
-        "mn": "The Great Indian Kapil Show Season 2",
-        "hf": "https://www.19469",
-        "lng": "Hindi",
-        "trailer": "T4NU_FXU5ro",
-        "gn": "Comedy,TalkShow",
-        "cg": "webSeries",
-        "kn": "The Great Indian Kapil Show",
-        "pn": "S02",
-        "eServer1": {
-            "1": "https://pub-3da7af869c2c42c08f906f468c193d3b.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.1.720p.Vegamovies.to.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E01%2019469%201.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/QyOl6jmaQbtGMZ/The_Great_Indian_Kapil_Show_S02E01_19469_1.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/yZy9gBz6?download?.mkv"
-        }
-    },
         {
             "id": "905",
             "IH": "https://api.aapkipooja.com/Poster/Series/H1/Taaza%20Khabar%20Season%201.jpg",
@@ -49514,6 +49489,35 @@
             "5": "https://pixeldra.in/api/file/5s7ziWGk?download?.mkv",
             "6": "https://pixeldra.in/api/file/HYPYDxNw?download?.mkv",
             "7": "https://pixeldra.in/api/file/tRMJehyA?download?.mkv"
+        }
+    },
+    {
+        "id": "1469",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
+        "mn": "The Great Indian Kapil Show Season 2",
+        "hf": "https://www.19469",
+        "lng": "Hindi",
+        "trailer": "T4NU_FXU5ro",
+        "gn": "Comedy,TalkShow",
+        "cg": "webSeries",
+        "kn": "The Great Indian Kapil Show",
+        "pn": "S02",
+        "eServer1": {
+            "1": "https://pub-3da7af869c2c42c08f906f468c193d3b.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.1.720p.Vegamovies.to.mkv",
+            "2": "https://pub-44c03c4a4ebe4d0db5d3e1ffce654c68.r2.dev/The%20Great%20Indian%20Kapil%20Show.S02EP02.720p.HEVC.WeB-DL.Hindi.AAC5.1.x265.ESub-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E01%2019469%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E02%2019469%202.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/QyOl6jmaQbtGMZ/The_Great_Indian_Kapil_Show_S02E01_19469_1.mkv",
+            "2": "https://streamtape.site/v/lDvgPQGqR4u7rBd/The_Great_Indian_Kapil_Show_S02E02_19469_2.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/yZy9gBz6?download?.mkv",
+            "2": "https://pixeldra.in/api/file/HyUYfmN9?download?.mkv"
         }
     },
     {
