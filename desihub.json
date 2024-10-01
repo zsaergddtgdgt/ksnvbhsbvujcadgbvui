@@ -1,6 +1,201 @@
 {
     "webSeriesDataList": [
     {
+        "id": "691",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Char%20Baliganj%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Char%20Baliganj%20Season%201.png",
+        "mn": "Char Baliganj Season 1",
+        "hf": "https://www.691",
+        "lng": "Hindi",
+        "ind": "Atrangii",
+        "trailer": "OjmEp6GKy34",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Char Baliganj",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://f2.fastdl.lol/Char.Baliganj.2024.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265.ESub-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Char%20Baliganj%20S01E01%20691%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/ryyeXm75?download?.mkv"
+        }
+    },
+    {
+        "id": "690",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Rangili%20Dobhan%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Rangili%20Dobhan%20Season%201.png",
+        "mn": "Rangili Dobhan Season 1",
+        "hf": "https://www.690",
+        "lng": "Hindi",
+        "ind": "Jugnu",
+        "trailer": "FALSE",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Rangili Dobhan",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://f2.fastdl.lol/Rangili.Dhoban.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Rangili%20Dobhan%20S01E01%20690%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/9GABBfA7?download?.mkv"
+        }
+    },
+    {
+        "id": "689",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Andha%20Pyar%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Andha%20Pyar%20Season%201.png",
+        "mn": "Andha Pyar Season 1",
+        "hf": "https://www.689",
+        "lng": "Hindi",
+        "ind": "ShowHit",
+        "trailer": "FALSE",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Andha Pyar",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-c6e85e3472654f59bf015f02ee9c0381.r2.dev/Andha.Pyar.2024.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Andha%20Pyar%20S01E01%20689%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/vc3CX9sc?download?.mkv"
+        }
+    },
+    {
+        "id": "688",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Adhura%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Adhura%20Season%201.jpg",
+        "mn": "Adhura Season 1",
+        "hf": "https://www.688",
+        "lng": "Hindi",
+        "ind": "PrimeShots",
+        "trailer": "dU8l_MHUTPM",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Adhura",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-6f0d684609704ac7987108a10f671dbc.r2.dev/Adhura.S01EP01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv",
+            "2": "https://pub-c54cd906e6624e71b744cead2c08ff40.r2.dev/Adhura.S01EP02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Adhura%20S01E01%20688%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Adhura%20S01E02%20688%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/meAgkVt5?download?.mkv",
+            "2": "https://pixeldra.in/api/file/nFVDhh5H?download?.mkv"
+        }
+    },
+    {
+        "id": "687",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Sandook%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Sandook%20Season%201.jpg",
+        "mn": "Sandook Season 1",
+        "hf": "https://www.687",
+        "lng": "Hindi",
+        "ind": "Peakok",
+        "trailer": "BSeL1CzrDDQ",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Sandook",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://f2.fastdl.lol/Sandook.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Sandook%20S01E01%20687%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/9a6D3rxp?download?.mkv"
+        }
+    },
+    {
+        "id": "686",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Aarzoo%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Aarzoo%20Season%201.jpg",
+        "mn": "Aarzoo Season 1",
+        "hf": "https://www.686",
+        "lng": "Hindi",
+        "ind": "HulChul",
+        "trailer": "QcXHOrTc1v8",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Aarzoo",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-27946cdd5fbf4e7782395ea39fd9ac2d.r2.dev/Aarzoo.S01EP01T03.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Aarzoo%20S01E01%20686%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/Fav9jrrv?download?.mkv"
+        }
+    },
+    {
+        "id": "685",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Damaadji%20Lage%20Raho%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Damaadji%20Lage%20Raho%20Season%201.jpg",
+        "mn": "Damaadji Lage Raho Season 1",
+        "hf": "https://www.685",
+        "lng": "Hindi",
+        "ind": "Jugnu",
+        "trailer": "FALSE",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Damaadji Lage Raho",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-b5f15f9faf364bf8951b9953a30436bd.r2.dev/Damaadji.Lage.Raho.S01EP01T06.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Damaadji%20Lage%20Raho%20S01E01%20685%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/Z75uFAkt?download?.mkv"
+        }
+    },
+    {
+        "id": "684",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Karaah%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Karaah%20Season%201.png",
+        "mn": "Karaah Season 1",
+        "hf": "https://www.684",
+        "lng": "Hindi",
+        "ind": "Kooku",
+        "trailer": "vK-o88jiHiU",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Karaah",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-b76d25c6c7d04fecbd236a356e54ff4a.r2.dev/Karaah.S01EP01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Karaah%20S01E01%20684%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/bR9PAKxW?download?.mkv"
+        }
+    },
+    {
         "id": "684",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/O%20Sajni%20Re%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Adult/V1/O%20Sajni%20Re%20Season%201.jpg",
