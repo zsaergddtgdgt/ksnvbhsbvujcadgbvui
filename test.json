@@ -1,6 +1,47 @@
 {
     "AllMovieDataList": [
-    
+    {
+            "id": "4505",
+            "IH": "https://ereviewwala.com/Poster/Movies/H2/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%20(2024).jpg",
+            "IV": "https://ereviewwala.com/Poster/Movies/V2/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%20(2024).jpg",
+            "mn": "Vicky Vidya ka Woh Wala Video (2024)",
+            "hf": "https://www.14505",
+            "lng": "Hindi",
+            "trailer": "0xXa9a2rHoQ",
+            "qlty": "PreDVD",
+            "gn": "Comedy,Drama",
+            "cg": "Bollywood",
+            "s1": "https://f1.fastdl.lol/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%202024%20Hindi%20PreDVD%20720p%20x264%20AAC%20CineVood.mkv",
+            "s2": "http://mvs.aapkipooja.com/720p/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%20(2024)%2014505.mkv",
+            "tape": "https://streamtape.site/v/VYZ24YM2Z4IK2wR/Vicky_Vidya_ka_Woh_Wala_Video_%282024%29_14505.mkv.mp4",
+            "s4": "https://pixeldra.in/api/file/1rNXu8yt?download?.mkv",
+            "480p": "TRUE",
+            "4s1": "https://f1.fastdl.lol/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%202024%20Hindi%20PreDVD%20480p%20x264%20AAC%20CineVood.mkv",
+            "4s2": "http://mvs.aapkipooja.com/480p/Vicky%20Vidya%20ka%20Woh%20Wala%20Video%20(2024)%2014505.mkv",
+            "4s3": "https://pixeldra.in/api/file/KNJmJoKC?download?.mkv",
+            "4s4": "FALSE"
+        },
+    {
+            "id": "4506",
+            "IH": "https://ereviewwala.com/Poster/Movies/H2/Jigra%20(2024).jpg",
+            "IV": "https://ereviewwala.com/Poster/Movies/V2/Jigra%20(2024).jpg",
+            "mn": "Jigra (2024)",
+            "hf": "https://www.14506",
+            "lng": "Hindi",
+            "trailer": "3uE0RuQndZc",
+            "qlty": "HDTS-V2",
+            "gn": "Action,Thriller",
+            "cg": "Bollywood",
+            "s1": "https://f1.fastdl.lol/Jigra%202024%20Hindi%20HDTS%20720p%20x264%20AAC%20CineVood.mkv",
+            "s2": "http://mvs.aapkipooja.com/720p/Jigra%20(2024)%2014506.mkv",
+            "tape": "https://streamtape.site/v/xqPKg4MG9WUkLkV/Jigra_%282024%29_14506.mkv.mp4",
+            "s4": "https://pixeldra.in/api/file/eEi5aGEm?download?.mkv",
+            "480p": "TRUE",
+            "4s1": "https://f1.fastdl.lol/Jigra%202024%20Hindi%20HDTS%20480p%20x264%20AAC%20CineVood.mkv",
+            "4s2": "http://mvs.aapkipooja.com/480p/Jigra%20(2024)%2014506.mkv",
+            "4s3": "https://pixeldra.in/api/file/qMy8Gdj1?download?.mkv",
+            "4s4": "FALSE"
+        },
         {
             "id": "4293",
             "IH": "https://ereviewwala.com/Poster/Movies/H2/Sarfira%20(2024).jpg",
