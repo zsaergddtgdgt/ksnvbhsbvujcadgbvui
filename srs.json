@@ -14859,28 +14859,50 @@
             "hf": "https://www.12985",
             "gn": "Action,Thriller",
             "trailer": "49_44FFKZ1M",
-            "lng": "Dual",
+            "lng": "Hindi+English",
             "cg": "webSeries",
             "kn": "Alice in Borderland",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/Alice.in.Borderland.S01E01%2012973.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/Alice.in.Borderland.S01E02%2012974.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/Alice.in.Borderland.S01E03%2012975.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/Alice.In.Borderland.S01E04%2012976.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/jvD3WWyXAeSzPb3/Alice.in.Borderland.S01E01_12973.mkv.mp4",
-                "2": "https://streamtape.site/v/pkkRjay623HrprB/Alice.in.Borderland.S01E02_12974.mkv.mp4",
-                "3": "https://streamtape.site/v/bKDjkrqkwvfK3X/Alice.in.Borderland.S01E03_12975.mkv.mp4",
-                "4": "https://streamtape.site/v/g9b0DlgoZ4TqDmK/Alice.In.Borderland.S01E04_12976.mkv.mp4",
-                "5": "https://streamtape.not/v/qDxZVvJalmu1XD/Alice.in.Borderland.S01E05_15281.mkv.mp4",
-                "6": "https://streamtape.not/v/oWjPRyjd6yUJg1l/Alice.in.Borderland.S01E06_15282.mkv.mp4",
-                "7": "https://streamtape.not/v/bpl86eQwyGi2B2/Alice.in.Borderland.S01E07_15283.mkv.mp4",
-                "8": "https://streamtape.not/v/dKk7pXyKbvCkvWW/Alice.in.Borderland.S01E08_15284.mkv.mp4"
-            },
-            "eServer4": {}
+        "eServer1": {
+            "1": "https://pub-364aeff6336846358d95387b32d123a9.r2.dev/Alice.in.Borderland.S01E01.Episode.1.720p.NF.WEB-DL.AAC5.1.HEVC-Vegamovies.to.mkv",
+            "2": "https://pixeldra.in/api/file/nbuE3X78?download?.mkv",
+            "3": "https://pixeldra.in/api/file/VnPNMC9m?download?.mkv",
+            "4": "https://pixeldra.in/api/file/9beJ9Rvq?download?.mkv",
+            "5": "https://pixeldra.in/api/file/vsvPPENA?download?.mkv",
+            "6": "https://pixeldra.in/api/file/E7wmE2nq?download?.mkv",
+            "7": "https://pixeldra.in/api/file/NwUnjmBy?download?.mkv",
+            "8": "https://pixeldra.in/api/file/zJEYedYV?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E01%2012985%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E02%2012985%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E03%2012985%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E04%2012985%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E05%2012985%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E06%2012985%206.mkv",
+            "7": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E07%2012985%207.mkv",
+            "8": "http://srs.ringzstudio.online/lst/Alice%20in%20Borderland%20S01E08%2012985%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/QrLYbWaj41U0xLA/Alice_in_Borderland_S01E01_12985_1.mkv",
+            "2": "https://streamtape.site/v/aoLrqjkvmzUx43j/Alice_in_Borderland_S01E02_12985_2.mkv",
+            "3": "https://streamtape.site/v/K9V7XxAyYDc0eO8/Alice_in_Borderland_S01E03_12985_3.mkv",
+            "4": "https://streamtape.site/v/R6aO3LxjXOCdwle/Alice_in_Borderland_S01E04_12985_4.mkv",
+            "5": "https://streamtape.site/v/vxQDdPRe7WH4yOO/Alice_in_Borderland_S01E05_12985_5.mkv",
+            "6": "https://streamtape.site/v/rDmGPgZl3yIbLA9/Alice_in_Borderland_S01E06_12985_6.mkv",
+            "7": "https://streamtape.site/v/7wvM3qpdQ0IA0LA/Alice_in_Borderland_S01E07_12985_7.mkv",
+            "8": "https://streamtape.site/v/OJmLDZkPjyCZALR/Alice_in_Borderland_S01E08_12985_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/gGYecLMs?download?.mkv",
+            "2": "https://pixeldra.in/api/file/nbuE3X78?download?.mkv",
+            "3": "https://pixeldra.in/api/file/VnPNMC9m?download?.mkv",
+            "4": "https://pixeldra.in/api/file/9beJ9Rvq?download?.mkv",
+            "5": "https://pixeldra.in/api/file/vsvPPENA?download?.mkv",
+            "6": "https://pixeldra.in/api/file/E7wmE2nq?download?.mkv",
+            "7": "https://pixeldra.in/api/file/NwUnjmBy?download?.mkv",
+            "8": "https://pixeldra.in/api/file/zJEYedYV?download?.mkv"
+        }
         },
         {
             "id": "409",
