@@ -1,5 +1,27 @@
 {
     "AllMovieDataList": [
+    
+        {
+            "id": "4553",
+            "IH": "https://ereviewwala.com/Poster/Movies/H2/Bandaa%20Singh%20Chaudhary%20(2024).jpg",
+            "IV": "https://ereviewwala.com/Poster/Movies/V2/Bandaa%20Singh%20Chaudhary%20(2024).jpg",
+            "mn": "Bandaa Singh Chaudhary (2024)",
+            "hf": "https://www.14553",
+            "lng": "Hindi",
+            "trailer": "LKKjFlbDyTU",
+            "qlty": "HDTC-V3",
+            "gn": "Action,Drama",
+            "cg": "Bollywood",
+            "s1": "https://pub-f985fa0c15954fbf9d58b13945c25f61.r2.dev/Bandaa_Singh_Chaudhary_720.mkv",
+            "s2": "http://mvs3.ringzstudio.online/720p/Bandaa%20Singh%20Chaudhary%20(2024)%2014553.mkv",
+            "tape": "https://streamtape.site/v/kwX83RJWoKCOk3g/Bandaa_Singh_Chaudhary_%282024%29_14553.mkv",
+            "s4": "https://f1.fastdl.lol/Bandaa%20Singh%20Chaudhary%202024%20Hindi%20HDTC%20720p%20x264%20AAC%20CineVood.mkv",
+            "480p": "TRUE",
+            "4s1": "https://f1.fastdl.lol/Bandaa%20Singh%20Chaudhary%202024%20Hindi%20HDTC%20480p%20x264%20AAC%20CineVood.mkv",
+            "4s2": "http://mvs3.ringzstudio.online/480p/Bandaa%20Singh%20Chaudhary%20(2024)%2014553.mkv",
+            "4s3": "https://pixeldra.in/api/file/NXvPvK5y?download?.mkv",
+            "4s4": "FALSE"
+        },
     {
             "id": "4546",
             "IH": "https://ereviewwala.com/Poster/Movies/H2/Venom%20-%20The%20Last%20Dance%20(2024).jpg",
@@ -40,6 +62,27 @@
             "4s1": "https://f1.fastdl.lol/Smile%202%202024%20HDTSRip%20Hindi%20Unofficial%20+%20English%20480p%20x264%20AVC%20AAC.mkv",
             "4s2": "http://mvs3.ringzstudio.online/480p/Smile%202%20(2024)%204542.mkv",
             "4s3": "https://pixeldra.in/api/file/bECv7F4A?download?.mkv",
+            "4s4": "FALSE"
+        },
+        {
+            "id": "4513",
+            "IH": "https://ereviewwala.com/Poster/Movies/H2/Vettaiyan%20(2024).jpg",
+            "IV": "https://ereviewwala.com/Poster/Movies/V2/Vettaiyan%20(2024).jpg",
+            "mn": "Vettaiyan (2024)",
+            "hf": "https://www.14513",
+            "lng": "Hindi[CAM]+Tamil",
+            "trailer": "NQXE3iJCWNI",
+            "qlty": "HD",
+            "gn": "Action,Drama",
+            "cg": "South",
+            "s1": "https://f1.fastdl.lol/Vettaiyan%202024%20WEBRip%20Hindi%20Clean%20+%20Tamil%20720p%20x264%20AVC%20HE-AAC%202.0.mkv",
+            "s2": "http://mvs3.ringzstudio.online/720p/Vettaiyan%20(2024)%2014513.mkv",
+            "tape": "https://streamtape.site/v/WPBpGOO1LXibOJx/Vettaiyan_%282024%29_14513.mkv.mp4",
+            "s4": "https://pixeldra.in/api/file/hE8okrqC?download?.mkv",
+            "480p": "TRUE",
+            "4s1": "https://f1.fastdl.lol/Vettaiyan%202024%20WEBRip%20Hindi%20Clean%20+%20Tamil%20480p%20x264%20AVC%20HE-AAC%202.0.mkv",
+            "4s2": "http://mvs3.ringzstudio.online/480p/Vettaiyan%20(2024)%2014513.mkv",
+            "4s3": "https://pixeldra.in/api/file/PHUpwwao?download?.mkv",
             "4s4": "FALSE"
         },
         {
@@ -607,27 +650,6 @@
             "4s1": "https://f1.fastdl.lol/Martin%202024%20HDTC%20480p%20Hindi%20+%20Multi%20x264%20AAC%20CineVood.mkv",
             "4s2": "http://mvs.aapkipooja.com/480p/Martin%20(2024)%2014519.mkv",
             "4s3": "https://pixeldra.in/api/file/9huuCzd5?download?.mkv",
-            "4s4": "FALSE"
-        },
-        {
-            "id": "4513",
-            "IH": "https://ereviewwala.com/Poster/Movies/H2/Vettaiyan%20(2024).jpg",
-            "IV": "https://ereviewwala.com/Poster/Movies/V2/Vettaiyan%20(2024).jpg",
-            "mn": "Vettaiyan (2024)",
-            "hf": "https://www.14513",
-            "lng": "Hindi+Tamil+Telugu",
-            "trailer": "NQXE3iJCWNI",
-            "qlty": "HDTS-V2",
-            "gn": "Action,Drama",
-            "cg": "South",
-            "s1": "https://f1.fastdl.lol/Vettaiyan%20The%20Hunter%202024%20HDTS%20720p%20Hindi%20+%20Multi%20x264%20AAC%20HC-ESub%20CineVood.mkv",
-            "s2": "http://mvs3.ringzstudio.online/720p/Vettaiyan%20(2024)%2014513.mkv",
-            "tape": "https://streamtape.site/v/4ykmwo0JDLsKlwA/Vettaiyan_%282024%29_14513.mkv.mp4",
-            "s4": "https://pixeldra.in/api/file/5u2RUzJT?download?.mkv",
-            "480p": "TRUE",
-            "4s1": "https://f1.fastdl.lol/Vettaiyan%20The%20Hunter%202024%20HDTS%20480p%20Hindi%20+%20Multi%20x264%20AAC%20HC-ESub%20CineVood.mkv",
-            "4s2": "http://mvs3.ringzstudio.online/480p/Vettaiyan%20(2024)%2014513.mkv",
-            "4s3": "https://pixeldra.in/api/file/8PHFkhAt?download?.mkv",
             "4s4": "FALSE"
         },
         {
