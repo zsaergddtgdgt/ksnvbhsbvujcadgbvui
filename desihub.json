@@ -1,6 +1,33 @@
 {
     "webSeriesDataList": [
     {
+        "id": "696",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Taras%20Season%201.png",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Taras%20Season%201.png",
+        "mn": "Taras Season 1",
+        "hf": "https://www.696",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "xrSIH4Hgmtg",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Taras",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://f69.fastdl.lol/Taras.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+            "2": "https://pub-390705208a054d3588de494f82f41780.r2.dev/Taras.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Taras%20S01E01%20696%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Taras%20S01E02%20696%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/byDRi6Jv?download?.mkv",
+            "2": "https://pixeldra.in/api/file/XcMAUNxF?download?.mkv"
+        }
+    },
+    {
         "id": "695",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Ek%20Haseena%20Thi%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Adult/V1/Ek%20Haseena%20Thi%20Season%201.png",
@@ -14,14 +41,17 @@
         "kn": "Ek Haseena Thi",
         "pn": "S01",
         "eServer1": {
-            "1": "https://f69.fastdl.lol/Ek.Haseena.Thi.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            "1": "https://f69.fastdl.lol/Ek.Haseena.Thi.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+            "2": "https://f69.fastdl.lol/Ek.Haseena.Thi.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Ek%20Haseena%20Thi%20S01E01%20695%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Ek%20Haseena%20Thi%20S01E01%20695%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Ek%20Haseena%20Thi%20S01E02%20695%202.mkv"
         },
         "eTape": {},
         "eServer4": {
-            "1": "https://pixeldra.in/api/file/gDxApkAb?download?.mkv"
+            "1": "https://pixeldra.in/api/file/gDxApkAb?download?.mkv",
+            "2": "https://pixeldra.in/api/file/brxPLdt3?download?.mkv"
         }
     },
     {
@@ -38,14 +68,20 @@
         "kn": "Bachelor Party",
         "pn": "S01",
         "eServer1": {
-            "1": "https://f69.fastdl.lol/Bachelor.Party.S01.Part.1.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            "1": "https://f69.fastdl.lol/Bachelor.Party.S01.Part.1.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+            "2": "https://f69.fastdl.lol/Bachelor.Party.S01EP03T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+            "3": "https://pub-a5f58624ed83444d9f6622159547ff7b.r2.dev/Bachelor.Party.S01EP05T06.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Bachelor%20Party%20S01E01%20694%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Bachelor%20Party%20S01E01%20694%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Bachelor%20Party%20S01E02%20694%202.mkv",
+            "3": "http://adult.ringzstudio.online/adult/Bachelor%20Party%20S01E03%20694%203.mkv"
         },
         "eTape": {},
         "eServer4": {
-            "1": "https://pixeldra.in/api/file/WyN9YVQy?download?.mkv"
+            "1": "https://pixeldra.in/api/file/WyN9YVQy?download?.mkv",
+            "2": "https://pixeldra.in/api/file/dq6BNyQM?download?.mkv",
+            "3": "https://pixeldra.in/api/file/ff3kzmcj?download?.mkv"
         }
     },
     {
@@ -66,8 +102,8 @@
             "2": "https://f69.fastdl.lol/Karaah.S01EP02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Karaah%20S01E01%20684%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Karaah%20S01E02%20684%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Karaah%20S01E01%20684%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Karaah%20S01E02%20684%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -93,8 +129,8 @@
             "2": "https://f69.fastdl.lol/Aarzoo.S01EP04T06.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Aarzoo%20S01E01%20686%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Aarzoo%20S01E02%20686%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Aarzoo%20S01E01%20686%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Aarzoo%20S01E02%20686%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -146,7 +182,7 @@
             "1": "https://f69.fastdl.lol/Kidnapped.S01EP01T03.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Kidnapped%20S01E01%20693%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Kidnapped%20S01E01%20693%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -170,7 +206,7 @@
             "1": "https://f69.fastdl.lol/Red.Room.S01.480p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Red%20Room%20S01E01%20692%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Red%20Room%20S01E01%20692%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -194,7 +230,7 @@
             "1": "https://f2.fastdl.lol/Char.Baliganj.2024.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265.ESub-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Char%20Baliganj%20S01E01%20691%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Char%20Baliganj%20S01E01%20691%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -218,7 +254,7 @@
             "1": "https://f2.fastdl.lol/Rangili.Dhoban.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Rangili%20Dobhan%20S01E01%20690%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Rangili%20Dobhan%20S01E01%20690%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -242,7 +278,7 @@
             "1": "https://pub-c6e85e3472654f59bf015f02ee9c0381.r2.dev/Andha.Pyar.2024.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Andha%20Pyar%20S01E01%20689%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Andha%20Pyar%20S01E01%20689%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -267,8 +303,8 @@
             "2": "https://pub-c54cd906e6624e71b744cead2c08ff40.r2.dev/Adhura.S01EP02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Adhura%20S01E01%20688%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Adhura%20S01E02%20688%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Adhura%20S01E01%20688%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Adhura%20S01E02%20688%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -293,7 +329,7 @@
             "1": "https://f2.fastdl.lol/Sandook.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Sandook%20S01E01%20687%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Sandook%20S01E01%20687%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -317,7 +353,7 @@
             "1": "https://pub-b5f15f9faf364bf8951b9953a30436bd.r2.dev/Damaadji.Lage.Raho.S01EP01T06.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Damaadji%20Lage%20Raho%20S01E01%20685%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Damaadji%20Lage%20Raho%20S01E01%20685%201.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -342,8 +378,8 @@
             "2": "https://pub-456663cdcf3547a693d626b0bf975aa8.r2.dev/Kala.Khatta.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E01%20669%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E02%20669%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E01%20669%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Kala%20Khatta%20S01E02%20669%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -369,8 +405,8 @@
             "2": "https://pub-bae5f6a3ba704fe0884934873fd473f8.r2.dev/Kasturi.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Kasturi%20S01E01%20677%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Kasturi%20S01E02%20677%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Kasturi%20S01E01%20677%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Kasturi%20S01E02%20677%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -396,8 +432,8 @@
             "2": "https://pub-c27cfeefe02b4960875ba83e5d0b3453.r2.dev/Purani.Haveli.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Purani%20Haveli%20S01E01%20676%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Purani%20Haveli%20S01E02%20676%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Purani%20Haveli%20S01E01%20676%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Purani%20Haveli%20S01E02%20676%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -423,8 +459,8 @@
             "2": "https://pixeldra.in/api/file/uzTXJxqT?download?.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Devil%20S01E01%20683%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Devil%20S01E02%20683%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Devil%20S01E01%20683%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Devil%20S01E02%20683%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -450,8 +486,8 @@
             "2": "https://pub-949ea850651b44718b3768e7780a9316.r2.dev/Corporate.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Corporate%20S01E01%20682%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Corporate%20S01E02%20682%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Corporate%20S01E01%20682%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Corporate%20S01E02%20682%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -477,8 +513,8 @@
             "2": "https://pub-c29120860b5d4aec82d21b2a79bdab5d.r2.dev/Red.Light.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Red%20Light%20S01E01%20681%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Red%20Light%20S01E02%20681%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Red%20Light%20S01E01%20681%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Red%20Light%20S01E02%20681%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -504,8 +540,8 @@
             "2": "https://pub-1a703ace5f1d4417aee0bf5103bd7b01.r2.dev/Estate.Manager.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Estate%20Manager%20S01E01%20680%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Estate%20Manager%20S01E02%20680%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Estate%20Manager%20S01E01%20680%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Estate%20Manager%20S01E02%20680%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -531,8 +567,8 @@
             "2": "https://pub-e66f5ec5fb5849f98aa7277c0325e65a.r2.dev/Nau.Do.Gyarah.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Nau%20Do%20Gyarah%20S01E01%20679%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Nau%20Do%20Gyarah%20S01E02%20679%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Nau%20Do%20Gyarah%20S01E01%20679%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Nau%20Do%20Gyarah%20S01E02%20679%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -558,8 +594,8 @@
             "2": "https://pixeldra.in/api/file/EtyBzv8q?download?.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Tota%20S01E01%20678%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Tota%20S01E02%20678%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Tota%20S01E01%20678%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Tota%20S01E02%20678%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -585,7 +621,7 @@
             "2": "https://pub-0294ffc2d40843b89e88ff85c3fbb90b.r2.dev/Dil.Sambhal.Ja.Zara.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Dil%20Sambhal%20Ja%20Zara%20S01E01%20668%201.mkv",
+            "1": "http://adult.ringzstudio.online/adult/Dil%20Sambhal%20Ja%20Zara%20S01E01%20668%201.mkv",
             "2": "http://adult.ringzstudio.online/adult/Dil%20Sambhal%20Ja%20Zara%20S01E02%20668%202.mkv"
         },
         "eTape": {},
@@ -612,8 +648,8 @@
             "2": "https://f2.fastdl.lol/Numbari.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Numbari%20S01E01%20667%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Numbari%20S01E02%20667%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Numbari%20S01E01%20667%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Numbari%20S01E02%20667%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -639,8 +675,8 @@
             "2": "https://f2.fastdl.lol/Chuski.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Chuski%20S01E01%20666%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Chuski%20S01E02%20666%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Chuski%20S01E01%20666%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Chuski%20S01E02%20666%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -666,8 +702,8 @@
             "2": "https://pixeldra.in/api/file/hcHngMwv?download?.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Dishkiyaoon%20S01E01%20675%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Dishkiyaoon%20S01E02%20675%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Dishkiyaoon%20S01E01%20675%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Dishkiyaoon%20S01E02%20675%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -693,8 +729,8 @@
             "2": "https://pub-97c30e4538cf4ec0ba320314c4a2ef1b.r2.dev/Love.Bite.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Love%20Bite%20S01E01%20674%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Love%20Bite%20S01E02%20674%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Love%20Bite%20S01E01%20674%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Love%20Bite%20S01E02%20674%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -720,8 +756,8 @@
             "2": "https://pub-bbf8c7f61d9b45d7962d3c1b9dcdfca3.r2.dev/Kaun.Man.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Kaun%20Man%20S01E01%20673%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Kaun%20Man%20S01E02%20673%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Kaun%20Man%20S01E01%20673%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Kaun%20Man%20S01E02%20673%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -747,8 +783,8 @@
             "2": "https://pub-abd5f225e6fb4b43bfa8e3b1cab9930a.r2.dev/Call.Me.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.to.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Call%20Me%20S01E01%20672%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Call%20Me%20S01E02%20672%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Call%20Me%20S01E01%20672%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Call%20Me%20S01E02%20672%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -774,8 +810,8 @@
             "2": "https://pixeldra.in/api/file/6BqgRvG4?download?.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/Painter%20Babu%20S01E01%20671%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/Painter%20Babu%20S01E02%20671%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Painter%20Babu%20S01E01%20671%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Painter%20Babu%20S01E02%20671%202.mkv"
         },
         "eTape": {},
         "eServer4": {
@@ -801,8 +837,8 @@
             "2": "https://pixeldra.in/api/file/xa3wWvqL?download?.mkv"
         },
         "eServer2": {
-            "1": "https://adult.ringzstudio.online/adult/De%20Dana%20Dan%20S01E01%20670%201.mkv",
-            "2": "https://adult.ringzstudio.online/adult/De%20Dana%20Dan%20S01E02%20670%202.mkv"
+            "1": "http://adult.ringzstudio.online/adult/De%20Dana%20Dan%20S01E01%20670%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/De%20Dana%20Dan%20S01E02%20670%202.mkv"
         },
         "eTape": {},
         "eServer4": {
