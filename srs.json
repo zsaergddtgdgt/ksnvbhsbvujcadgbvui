@@ -50703,47 +50703,6 @@
             }
         },
         {
-            "id": "1466",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Penguin%20Season%201.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Penguin%20Season%201.jpg",
-            "mn": "The Penguin Season 1",
-            "hf": "https://www.19466",
-            "lng": "Hindi+English",
-            "trailer": "sfJG6IiA_s8",
-            "gn": "Crime,Fantasy",
-            "cg": "webSeries",
-            "kn": "The Penguin",
-            "pn": "S01",
-            "eServer1": {
-                "1": "https://pub-dc1f5a53efd24488913d04ca9d3ee1e7.r2.dev/The.Penguin.S01E01.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-                "2": "https://pub-eaa0b12a2d664c569b361b76b00bae42.r2.dev/The.Penguin.S01E02.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-                "3": "https://f69.fastdl.lol/The.Penguin.S01E03.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-                "4": "https://f69.fastdl.lol/The.Penguin.S01E04.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-                "5": "https://pub-39cff04b8d024aea9d19d8295057f049.r2.dev/The.Penguin.S01E05.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E01%2019466%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E02%2019466%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E03%2019466%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E04%2019466%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E05%2019466%205.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/BAWybVGKd0uyeAj/The_Penguin_S01E01_19466_1.mkv.mp4",
-                "2": "https://streamtape.site/v/eAQkAXo4RjCjG8/The_Penguin_S01E02_19466_2.mkv.mp4",
-                "3": "https://streamtape.site/v/mOa9Gr49aQTd8Q/The_Penguin_S01E03_19466_3.mkv",
-                "4": "https://streamtape.site/v/rKGJmYRXGQsbbr9/The_Penguin_S01E04_19466_4.mkv.mp4",
-                "5": "https://streamtape.site/v/BQbYKAdYL7HyJVB/The_Penguin_S01E05_19466_5.mkv"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/AD6GjYFU?download?.mkv",
-                "2": "https://pixeldra.in/api/file/UuZsGgwD?download?.mkv",
-                "3": "https://pixeldra.in/api/file/H1jdLyp6?download?.mkv",
-                "4": "https://pixeldra.in/api/file/4wddsw89?download?.mkv",
-                "5": "https://pixeldra.in/api/file/a459pLL6?download?.mkv"
-            }
-        },
-        {
         "id": "1504",
         "IH": "https://ereviewwala.com/Poster/Series/H1/Territory%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Series/V1/Territory%20Season%201.jpg",
@@ -51084,8 +51043,8 @@
         "eServer4": {
             "1": "https://pixeldra.in/api/file/qvb41ovx?download?.mkv",
             "2": "https://pixeldra.in/api/file/MDjkbrUZ?download?.mkv",
-            "3": "https://pixeldra.in/api/file/woHrsixd?download",
-            "4": "https://pixeldra.in/api/file/vGmCzFRf?download"
+            "3": "https://pixeldra.in/api/file/woHrsixd?download?.mkv",
+            "4": "https://pixeldra.in/api/file/vGmCzFRf?download?.mkv"
         }
     },
         {
@@ -51131,6 +51090,51 @@
                 "4": "https://pixeldra.in/api/file/WmzhuPx1?download?.mkv",
                 "5": "https://pixeldra.in/api/file/QfPip5cx?download?.mkv",
                 "6": "https://pixeldra.in/api/file/QqC3jLDa?download?.mkv"
+            }
+        },
+        {
+            "id": "1466",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Penguin%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Penguin%20Season%201.jpg",
+            "mn": "The Penguin Season 1",
+            "hf": "https://www.19466",
+            "lng": "Hindi+English",
+            "trailer": "sfJG6IiA_s8",
+            "gn": "Crime,Fantasy",
+            "cg": "webSeries",
+            "kn": "The Penguin",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-dc1f5a53efd24488913d04ca9d3ee1e7.r2.dev/The.Penguin.S01E01.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "2": "https://pub-eaa0b12a2d664c569b361b76b00bae42.r2.dev/The.Penguin.S01E02.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "3": "https://f69.fastdl.lol/The.Penguin.S01E03.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "4": "https://f69.fastdl.lol/The.Penguin.S01E04.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "5": "https://pub-39cff04b8d024aea9d19d8295057f049.r2.dev/The.Penguin.S01E05.720p.WEB-DL.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "6": "https://pub-72f0686859e84f918f5a04a7af51a5c1.r2.dev/The.Penguin.S01.E06.WebRip.720p.Hindi.2.0.English.5.1.AAC.x264.MSubs.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E01%2019466%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E02%2019466%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E03%2019466%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E04%2019466%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E05%2019466%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Penguin%20S01E06%2019466%206.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/BAWybVGKd0uyeAj/The_Penguin_S01E01_19466_1.mkv.mp4",
+                "2": "https://streamtape.site/v/eAQkAXo4RjCjG8/The_Penguin_S01E02_19466_2.mkv.mp4",
+                "3": "https://streamtape.site/v/mOa9Gr49aQTd8Q/The_Penguin_S01E03_19466_3.mkv",
+                "4": "https://streamtape.site/v/rKGJmYRXGQsbbr9/The_Penguin_S01E04_19466_4.mkv.mp4",
+                "5": "https://streamtape.site/v/BQbYKAdYL7HyJVB/The_Penguin_S01E05_19466_5.mkv",
+                "6": "https://streamtape.site/v/G62dwb6b98UVzR/The_Penguin_S01E06_19466_6.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/AD6GjYFU?download?.mkv",
+                "2": "https://pixeldra.in/api/file/UuZsGgwD?download?.mkv",
+                "3": "https://pixeldra.in/api/file/H1jdLyp6?download?.mkv",
+                "4": "https://pixeldra.in/api/file/4wddsw89?download?.mkv",
+                "5": "https://pixeldra.in/api/file/a459pLL6?download?.mkv",
+                "6": "https://pixeldra.in/api/file/jShAdXZU?download?.mkv"
             }
         },
     {
