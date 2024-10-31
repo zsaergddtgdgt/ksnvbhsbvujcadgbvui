@@ -20106,8 +20106,8 @@
         },
         {
             "id": "563",
-            "IH": "https://api.aapkipooja.com/Poster/Series/H1/Hellbound Season 1.jpg",
-            "IV": "https://api.aapkipooja.com/Poster/Series/V1/Hellbound Season 1.jpg",
+            "IH": "https://api.aapkipooja.com/Poster/Series/H1/Hellbound%20Season%201.jpg",
+            "IV": "https://api.aapkipooja.com/Poster/Series/V1/Hellbound%20Season%201.jpg",
             "mn": "Hellbound Season 1",
             "hf": "https://www.15453",
             "gn": "Action,Thriller,Drama",
@@ -20116,22 +20116,29 @@
             "cg": "webSeries",
             "kn": "Hellbound",
             "pn": "S1",
-            "eServer1": {},
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/GgZKg1vh?download?.mkv",
+                "2": "https://pixeldra.in/api/file/4AvgJScY?download?.mkv",
+                "3": "https://pixeldra.in/api/file/EspYuZ91?download?.mkv",
+                "4": "https://pixeldra.in/api/file/XDusVCcg?download?.mkv",
+                "5": "https://pixeldra.in/api/file/ajSxZYoA?download?.mkv",
+                "6": "https://pixeldra.in/api/file/e48aacku?download?.mkv"
+            },
             "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/Hellbound.S01E01%2015446.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/Hellbound.S01E02%2015447.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/Hellbound.S01E03%2015448.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/Hellbound.S01E04%2015449.mkv",
-                "5": "http://srsold.aapkipooja.com/srs1/Hellbound.S01E05%2015450.mkv",
-                "6": "http://srsold.aapkipooja.com/srs1/Hellbound.S01E06%2015451.mkv"
+                "1": "http://srs.ringzstudio.online/lst/Hellbound%20S01E01%2015453%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Hellbound%20S01E02%2015453%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Hellbound%20S01E03%2015453%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Hellbound%20S01E04%2015453%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Hellbound%20S01E05%2015453%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Hellbound%20S01E06%2015453%206.mkv"
             },
             "eTape": {
-                "1": "https://streamtape.site/v/OX1JGzVxPOU6O3/Hellbound.S01E01_15446.mkv.mp4",
-                "2": "https://streamtape.site/v/XreOR6L66oTDlv0/Hellbound.S01E02_15447.mkv.mp4",
-                "3": "https://streamtape.site/v/ayAQj0QgrdSxYaX/Hellbound.S01E03_15448.mkv.mp4",
-                "4": "https://streamtape.site/v/Zr6ekyV1JqFqlo8/Hellbound.S01E04_15449.mkv.mp4",
-                "5": "https://streamtape.site/v/wlWLvB3o1PCPDO/Hellbound.S01E05_15450.mkv.mp4",
-                "6": "https://streamtape.site/v/djPBqZWekYtkKBM/Hellbound.S01E06_15451.mkv.mp4"
+                "1": "https://streamtape.site/v/yBkVj3yq3wf1qWJ/Hellbound_S01E01_15453_1.mkv.mp4",
+                "2": "https://streamtape.site/v/zrXKOyyJBgtgM2/Hellbound_S01E02_15453_2.mkv.mp4",
+                "3": "https://streamtape.site/v/BQGD12PzJefy1mB/Hellbound_S01E03_15453_3.mkv.mp4",
+                "4": "https://streamtape.site/v/ayYGm2PGLWuzlp/Hellbound_S01E04_15453_4.mkv.mp4",
+                "5": "https://streamtape.site/v/zbr83W6j7rhY0Dq/Hellbound_S01E05_15453_5.mkv.mp4",
+                "6": "https://streamtape.site/v/ZkVpymgo38u7BG/Hellbound_S01E06_15453_6.mkv.mp4"
             },
             "eServer4": {}
         },
