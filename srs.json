@@ -50963,51 +50963,6 @@
         }
     },
         {
-            "id": "1469",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
-            "mn": "The Great Indian Kapil Show Season 2",
-            "hf": "https://www.19469",
-            "lng": "Hindi",
-            "trailer": "T4NU_FXU5ro",
-            "gn": "Comedy,TalkShow",
-            "cg": "webSeries",
-            "kn": "The Great Indian Kapil Show",
-            "pn": "S02",
-            "eServer1": {
-                "1": "https://pub-3da7af869c2c42c08f906f468c193d3b.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.1.720p.Vegamovies.to.mkv",
-                "2": "https://pub-44c03c4a4ebe4d0db5d3e1ffce654c68.r2.dev/The%20Great%20Indian%20Kapil%20Show.S02EP02.720p.HEVC.WeB-DL.Hindi.AAC5.1.x265.ESub-Vegamovies.is.mkv",
-                "3": "https://f2.fastdl.lol/The.Great.Indian.Kapil.Show.Season.2.Episode.3.720p.Vegamovies.is.mkv",
-                "4": "https://f69.fastdl.lol/The.Great.Indian.Kapil.Show.S02EP04.720p.HEVC.WeB-DL.Hindi.AAC5.1.x265.ESub-Vegamovies.is.mkv",
-                "5": "https://pub-ecf81b99de324eb6849f33f4969f5080.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.5.720p.Vegamovies.is.mkv",
-                "6": "https://pub-5fa13bd166fc4439a42585c67fa8605b.r2.dev/The.Great.Indian.Kapil.Show.S02E06.720p.Hindi.WEB.DL.5.1.ESub.x264.Vegamovies.is.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E01%2019469%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E02%2019469%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E03%2019469%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E04%2019469%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E05%2019469%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E06%2019469%206.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/palPRaklPMUxRP/The_Great_Indian_Kapil_Show_S02E01_19469_1.mkv.mp4",
-                "2": "https://streamtape.site/v/jlZvLbAOGGszOXa/The_Great_Indian_Kapil_Show_S02E02_19469_2.mkv.mp4",
-                "3": "https://streamtape.site/v/BOaJdX1kVZfMPd/The_Great_Indian_Kapil_Show_S02E03_19469_3.mkv.mp4",
-                "4": "https://streamtape.site/v/KyyX8VJKBpu0QJY/The_Great_Indian_Kapil_Show_S02E04_19469_4.mkv",
-                "5": "https://streamtape.site/v/vk1PWw8460c4may/The_Great_Indian_Kapil_Show_S02E05_19469_5.mkv",
-                "6": "https://streamtape.site/v/6X3pD06wKVIoYg/The_Great_Indian_Kapil_Show_S02E06_19469_6.mkv"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/yZy9gBz6?download?.mkv",
-                "2": "https://pixeldra.in/api/file/HyUYfmN9?download?.mkv",
-                "3": "https://pixeldra.in/api/file/cCwsqFTc?download?.mkv",
-                "4": "https://pixeldra.in/api/file/WmzhuPx1?download?.mkv",
-                "5": "https://pixeldra.in/api/file/QfPip5cx?download?.mkv",
-                "6": "https://pixeldra.in/api/file/QqC3jLDa?download?.mkv"
-            }
-        },
-        {
             "id": "1483",
             "IH": "https://ereviewwala.com/Poster/Series/H1/From%20Season%203.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/From%20Season%203.jpg",
@@ -51414,6 +51369,55 @@
             "6": "https://pixeldra.in/api/file/KEZ3K264?download?.mkv"
         }
     },
+        {
+            "id": "1469",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
+            "mn": "The Great Indian Kapil Show Season 2",
+            "hf": "https://www.19469",
+            "lng": "Hindi",
+            "trailer": "T4NU_FXU5ro",
+            "gn": "Comedy,TalkShow",
+            "cg": "webSeries",
+            "kn": "The Great Indian Kapil Show",
+            "pn": "S02",
+            "eServer1": {
+                "1": "https://pub-3da7af869c2c42c08f906f468c193d3b.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.1.720p.Vegamovies.to.mkv",
+                "2": "https://pub-44c03c4a4ebe4d0db5d3e1ffce654c68.r2.dev/The%20Great%20Indian%20Kapil%20Show.S02EP02.720p.HEVC.WeB-DL.Hindi.AAC5.1.x265.ESub-Vegamovies.is.mkv",
+                "3": "https://f2.fastdl.lol/The.Great.Indian.Kapil.Show.Season.2.Episode.3.720p.Vegamovies.is.mkv",
+                "4": "https://f69.fastdl.lol/The.Great.Indian.Kapil.Show.S02EP04.720p.HEVC.WeB-DL.Hindi.AAC5.1.x265.ESub-Vegamovies.is.mkv",
+                "5": "https://pub-ecf81b99de324eb6849f33f4969f5080.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.5.720p.Vegamovies.is.mkv",
+                "6": "https://pub-5fa13bd166fc4439a42585c67fa8605b.r2.dev/The.Great.Indian.Kapil.Show.S02E06.720p.Hindi.WEB.DL.5.1.ESub.x264.Vegamovies.is.mkv",
+                "7": "https://pub-1d303600cac24134aed9826a53c4b508.r2.dev/The.Great.Indian.Kapil.Show.Season.2.Episode.7.720p.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E01%2019469%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E02%2019469%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E03%2019469%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E04%2019469%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E05%2019469%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E06%2019469%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/The%20Great%20Indian%20Kapil%20Show%20S02E07%2019469%207.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/palPRaklPMUxRP/The_Great_Indian_Kapil_Show_S02E01_19469_1.mkv.mp4",
+                "2": "https://streamtape.site/v/jlZvLbAOGGszOXa/The_Great_Indian_Kapil_Show_S02E02_19469_2.mkv.mp4",
+                "3": "https://streamtape.site/v/BOaJdX1kVZfMPd/The_Great_Indian_Kapil_Show_S02E03_19469_3.mkv.mp4",
+                "4": "https://streamtape.site/v/KyyX8VJKBpu0QJY/The_Great_Indian_Kapil_Show_S02E04_19469_4.mkv",
+                "5": "https://streamtape.site/v/vk1PWw8460c4may/The_Great_Indian_Kapil_Show_S02E05_19469_5.mkv",
+                "6": "https://streamtape.site/v/6X3pD06wKVIoYg/The_Great_Indian_Kapil_Show_S02E06_19469_6.mkv",
+                "7": "https://streamtape.site/v/LYLzmlG7kOfRqZk/The_Great_Indian_Kapil_Show_S02E07_19469_7.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/yZy9gBz6?download?.mkv",
+                "2": "https://pixeldra.in/api/file/HyUYfmN9?download?.mkv",
+                "3": "https://pixeldra.in/api/file/cCwsqFTc?download?.mkv",
+                "4": "https://pixeldra.in/api/file/WmzhuPx1?download?.mkv",
+                "5": "https://pixeldra.in/api/file/QfPip5cx?download?.mkv",
+                "6": "https://pixeldra.in/api/file/QqC3jLDa?download?.mkv",
+                "7": "https://pixeldra.in/api/file/7DjXV7X8?download?.mkv"
+            }
+        },
     {
         "id": "1515",
         "IH": "https://ereviewwala.com/Poster/Series/H1/Don%E2%80%99t%20Come%20Home%20Season%201.jpg",
@@ -51457,6 +51461,31 @@
             "4": "https://pub-0b4a2109ed6d41aeb07ab8177c75e197.r2.dev/Dont.Come.Home.S01E04.720p.WEB-DL.HIN-ENG-THAI.x264.ESub-Vegamovies.is.mkv",
             "5": "https://pub-6cbae89685fb4416a02c1724f028eaf3.r2.dev/Dont.Come.Home.S01E05.720p.WEB-DL.HIN-ENG-THAI.x264.ESub-Vegamovies.is.mkv",
             "6": "https://pub-0696154a8b1e42e6bd5d6533f969eb20.r2.dev/Dont.Come.Home.S01E06.720p.WEB-DL.HIN-ENG-THAI.x264.ESub-Vegamovies.is.mkv"
+        }
+    },
+    {
+        "id": "1517",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/Mithya%20Season%202.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/Mithya%20Season%202.jpg",
+        "mn": "Mithya Season 2",
+        "hf": "https://www.19517",
+        "lng": "Hindi",
+        "trailer": "acDQtSp25VE",
+        "gn": "Crime,Thriller",
+        "cg": "webSeries",
+        "kn": "Mithya",
+        "pn": "S02",
+        "eServer1": {
+            "1": "https://f1.fastdl.lol/Mithya.S02.720p.HEVC.WEB-DL.AAC2.0.x265.ESub-SkymoviesHD.Vote.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/Mithya%20S02Complete%2019517%201.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/86Lm3Dpwa0iGXk/Mithya_S02Complete_19517_1.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/cCvnoKAw?download?.mkv"
         }
     }
     ]
