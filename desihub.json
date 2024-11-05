@@ -1,6 +1,30 @@
 {
     "webSeriesDataList": [
     {
+        "id": "697",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Malti%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Malti%20Season%201.jpg",
+        "mn": "Malti Season 1",
+        "hf": "https://www.697",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "uBjh7MJXhr0",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Malti",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-39bc0079d68d4881bca35b248d38453f.r2.dev/Malti.S01P01.720p.WeB-DL.Hindi.AAC2.0.x264-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Malti%20S01E01%20697%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/23GQ6MX4?download?.mkv"
+        }
+    },
+    {
         "id": "696",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Taras%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Adult/V1/Taras%20Season%201.png",
