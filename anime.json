@@ -1,6 +1,56 @@
 {
     "webSeriesDataList": [
     {
+        "id": "105",
+        "IH": "https://ereviewwala.com/Poster/Anime/H1/Bye%20Bye,%20Earth%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Anime/V1/Bye%20Bye,%20Earth%20Season%201.png",
+        "mn": "Bye Bye, Earth Season 1",
+        "hf": "https://www.105",
+        "lng": "Hindi+English+Jap",
+        "trailer": "FALSE",
+        "gn": "Anime,Action",
+        "cg": "webSeries",
+        "kn": "Bye Bye, Earth",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-44018b5117aa44a8837d5399e6b4628a.r2.dev/Bye.Bye.Earth.S01E01.720p..HIN.ENG.JAP.Vegamovies.To.mkv",
+            "2": "https://pixeldra.in/api/file/VBwnWzuG?download?.mkv",
+            "3": "FALSE",
+            "4": "https://f69.fastdl.lol/Bye.Bye.Earth.S01E04.720p.[HIN.ENG.JAP].Vegamovies.To.mkv",
+            "5": "https://f69.fastdl.lol/Bye.Bye.Earth.S01E05.720p.[HIN.ENG.JAP].Vegamovies.To.mkv",
+            "6": "https://f69.fastdl.lol/Bye%20Bye%20Earth.S01E06.720p.[HIN.ENG.JAP].Vegamovies.To.mkv",
+            "7": "https://pixeldra.in/api/file/GVBPapvf?download?.mkv",
+            "8": "https://f69.fastdl.lol/Bye.Bye.Earth.S01E08.720p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+            "9": "https://f69.fastdl.lol/Bye.Bye.Earth.S01E09.720p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+            "10": "https://f69.fastdl.lol/Bye.Bye.Earth.S01E10.720p.HIN.ENG.JAP.Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E01%20105%201.mkv",
+            "2": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E02%20105%202.mkv",
+            "3": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E03%20105%203.mkv",
+            "4": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E04%20105%204.mkv",
+            "5": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E05%20105%205.mkv",
+            "6": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E06%20105%206.mkv",
+            "7": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E07%20105%207.mkv",
+            "8": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E08%20105%208.mkv",
+            "9": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E09%20105%209.mkv",
+            "10": "http://anime.ringzstudio.online/anime/Bye%20Bye%2C%20Earth%20S01E10%20105%2010.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pub-44018b5117aa44a8837d5399e6b4628a.r2.dev/Bye.Bye.Earth.S01E01.720p..HIN.ENG.JAP.Vegamovies.To.mkv",
+            "2": "https://pixeldra.in/api/file/VBwnWzuG?download?.mkv",
+            "3": "https://pixeldra.in/api/file/2Yk89vUa?download?.mkv",
+            "4": "https://pixeldra.in/api/file/EqeyexZQ?download?.mkv",
+            "5": "https://pixeldra.in/api/file/rfrNkz2n?download?.mkv",
+            "6": "https://pixeldra.in/api/file/GeeV4DCw?download?.mkv",
+            "7": "https://pixeldra.in/api/file/GVBPapvf?download?.mkv",
+            "8": "https://pixeldra.in/api/file/RgdehRtN?download?.mkv",
+            "9": "https://pixeldra.in/api/file/HhnxxWjR?download?.mkv",
+            "10": "https://pixeldra.in/api/file/MchraxzT?download?.mkv"
+        }
+    },
+    {
         "id": "102",
         "IH": "https://ereviewwala.com/Poster/Anime/H1/Naruto%20-%20Shippuden%20Season%209.jpg",
         "IV": "https://ereviewwala.com/Poster/Anime/V1/Naruto%20-%20Shippuden%20Season%209.jpg",
@@ -81,6 +131,106 @@
             "19": "https://pixeldra.in/api/file/ngF6Fg23?download?.mkv",
             "20": "https://pixeldra.in/api/file/EoHVJZFk?download?.mkv",
             "21": "https://pixeldra.in/api/file/ywERN8aj?download?.mkv"
+        }
+    },
+    {
+        "id": "104",
+        "IH": "https://ereviewwala.com/Poster/Anime/H1/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Anime/V1/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20Season%201.png",
+        "mn": "The Strongest Magician in the Demon Lord’s Army was a Human Season 1",
+        "hf": "https://www.104",
+        "lng": "Hindi+Japanese",
+        "trailer": "FALSE",
+        "gn": "Anime,Action",
+        "cg": "webSeries",
+        "kn": "The Strongest Magician in the Demon Lord’s Army was a Human",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/8nypGY4Q?download?.mkv",
+            "2": "FALSE",
+            "3": "FALSE",
+            "4": "FALSE",
+            "5": "https://pub-5828d517134741049154b125325ee70e.r2.dev/The.Strongest.Magician.In.The.Demon.Lord.s.Army.Was.A.Human-S01E05-1080p-.HIN-JAP.Vegamovies.To.mkv",
+            "6": "https://pub-0b4a2109ed6d41aeb07ab8177c75e197.r2.dev/The.Strongest.Magician.In.The.Demon.Lords.Army.Was.A.Human.S01E06.1080p.[HIN.JAP].Vegamovies.To.mkv",
+            "7": "FALSE",
+            "8": "FALSE",
+            "9": "https://f69.fastdl.lol/The.Strongest.Magician.In.The.Demon.Lords.Army.Was.A.Human.S01E09.1080p.[HIN.JAP].Vegamovies.To.mkv",
+            "10": "https://f69.fastdl.lol/The.Strongest.Magician.In.The.Demon.Lords.Army.Was.A.Human.S01E10.1080p.[HIN.JAP].Vegamovies.is.mkv",
+            "11": "https://f69.fastdl.lol/The.Strongest.Magician.In.The.Demon.Lords.Army.Was.A.Human.S01E11.1080p.[HIN.JAP].Vegamvoies.is.mkv",
+            "12": "https://f69.fastdl.lol/The.Strongest.Magician.In.The.Demon.Lords.Army.Was.A.Human.S01E12.1080p.[HIN.JAP].Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E01%20104%201.mkv",
+            "2": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E02%20104%202.mkv",
+            "3": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E03%20104%203.mkv",
+            "4": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E04%20104%204.mkv",
+            "5": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E05%20104%205.mkv",
+            "6": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E06%20104%206.mkv",
+            "7": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E07%20104%207.mkv",
+            "8": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E08%20104%208.mkv",
+            "9": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E09%20104%209.mkv",
+            "10": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E10%20104%2010.mkv",
+            "11": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E11%20104%2011.mkv",
+            "12": "http://anime.ringzstudio.online/anime/The%20Strongest%20Magician%20in%20the%20Demon%20Lord%E2%80%99s%20Army%20was%20a%20Human%20S01E12%20104%2012.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/8nypGY4Q?download?.mkv",
+            "2": "FALSE",
+            "3": "FALSE",
+            "4": "FALSE",
+            "5": "https://pixeldra.in/api/file/pS2rkTmQ?download?.mkv",
+            "6": "https://pixeldra.in/api/file/sVNJLnAq?download?.mkv",
+            "7": "FALSE",
+            "8": "FALSE",
+            "9": "https://pixeldra.in/api/file/uGfoLTGG?download?.mkv",
+            "10": "https://pixeldra.in/api/file/io9pPmqw?download?.mkv",
+            "11": "https://pixeldra.in/api/file/anWYZQb6?download?.mkv",
+            "12": "https://pixeldra.in/api/file/cXCwR74i?download?.mkv"
+        }
+    },
+    {
+        "id": "103",
+        "IH": "https://ereviewwala.com/Poster/Anime/H1/Twilight%20of%20the%20Gods%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Anime/V1/Twilight%20of%20the%20Gods%20Season%201.jpg",
+        "mn": "Twilight of the Gods Season 1",
+        "hf": "https://www.103",
+        "lng": "Hindi+English",
+        "trailer": "FALSE",
+        "gn": "Anime,Action",
+        "cg": "webSeries",
+        "kn": "Twilight of the Gods",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-df2a37216ceb4b56b5cc70a9a8c611f1.r2.dev/Twilight.of.the.Gods.S01E01.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "2": "https://pub-b2f30f1bbcf5464598051c4042381a20.r2.dev/Twilight.of.the.Gods.S01E02.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "3": "https://pub-64cf7558f84a4fe49dcde62d47883aea.r2.dev/Twilight.of.the.Gods.S01E03.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "4": "https://pub-4abea7fc1fe4496fbfc773c5f89c4ae9.r2.dev/Twilight.of.the.Gods.S01E04.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "5": "https://pub-9e1b8a2a8ac7449da632476ca492da92.r2.dev/Twilight.of.the.Gods.S01E05.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "6": "https://pub-a20c84ec36574174b086bd3c74310ffe.r2.dev/Twilight.of.the.Gods.S01E06.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "7": "https://pub-ffc8f1d1d98f4839be0d66ac6286dff9.r2.dev/Twilight.of.the.Gods.S01E07.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+            "8": "https://pub-117f374a57404ead81af51609f5b9224.r2.dev/Twilight.of.the.Gods.S01E08.1080p.WEB-DL.HIN-ENG.x265.ESub-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E01%20103%201.mkv",
+            "2": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E02%20103%202.mkv",
+            "3": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E03%20103%203.mkv",
+            "4": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E04%20103%204.mkv",
+            "5": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E05%20103%205.mkv",
+            "6": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E06%20103%206.mkv",
+            "7": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E07%20103%207.mkv",
+            "8": "http://anime.ringzstudio.online/anime/Twilight%20of%20the%20Gods%20S01E08%20103%208.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/yk5LSk83?download?.mkv",
+            "2": "https://pixeldra.in/api/file/55gDv6RU?download?.mkv",
+            "3": "https://pixeldra.in/api/file/QNjdpkmX?download?.mkv",
+            "4": "https://pixeldra.in/api/file/n6U9FKuS?download?.mkv",
+            "5": "https://pixeldra.in/api/file/zw7XVNv1?download?.mkv",
+            "6": "https://pixeldra.in/api/file/KtjUz3mA?download?.mkv",
+            "7": "https://pixeldra.in/api/file/pxFW466E?download?.mkv",
+            "8": "https://pixeldra.in/api/file/PQ8ap9m2?download?.mkv"
         }
     },
     {
