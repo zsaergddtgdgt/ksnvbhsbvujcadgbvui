@@ -52106,6 +52106,47 @@
                 "6": "https://streamtape.site/v/A0mQJJplKWTXlao/Citadel_-_Honey_Bunny_S01E06_19522_6.mkv"
             },
             "eServer4": {}
+        },
+        {
+        "id": "1530",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/Freedom%20at%20Midnight%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/Freedom%20at%20Midnight%20Season%201.jpg",
+        "mn": "Freedom at Midnight Season 1",
+        "hf": "https://www.19530",
+        "lng": "Hindi",
+        "trailer": "Pc3Qhwoi8-Y",
+        "gn": "Drama",
+        "cg": "webSeries",
+        "kn": "Freedom at Midnight",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/Wg39EQSt?download?.mkv",
+            "2": "https://pixeldra.in/api/file/oSUGXAPt?download?.mkv",
+            "3": "https://pixeldra.in/api/file/fUu7SYSq?download?.mkv",
+            "4": "https://pixeldra.in/api/file/joqpmxq9?download?.mkv",
+            "5": "https://pixeldra.in/api/file/MixtE4tz?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/Freedom%20at%20Midnight%20S01E01%2019530%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/Freedom%20at%20Midnight%20S01E02%2019530%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/Freedom%20at%20Midnight%20S01E03%2019530%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/Freedom%20at%20Midnight%20S01E04%2019530%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/Freedom%20at%20Midnight%20S01E05%2019530%205.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/Ke3BRY2l1Gu0XQo/Freedom_at_Midnight_S01E01_19530_1.mkv",
+            "2": "https://streamtape.site/v/3G3X80Q66msdger/Freedom_at_Midnight_S01E02_19530_2.mkv",
+            "3": "https://streamtape.site/v/0LKPDxL8DAFbOgV/Freedom_at_Midnight_S01E03_19530_3.mkv",
+            "4": "https://streamtape.site/v/oDxB3ALqBGUJqBQ/Freedom_at_Midnight_S01E04_19530_4.mkv",
+            "5": "https://streamtape.site/v/xkQPjGBGgYtkRop/Freedom_at_Midnight_S01E05_19530_5.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/Wg39EQSt?download?.mkv",
+            "2": "https://pixeldra.in/api/file/oSUGXAPt?download?.mkv",
+            "3": "https://pixeldra.in/api/file/fUu7SYSq?download?.mkv",
+            "4": "https://pixeldra.in/api/file/joqpmxq9?download?.mkv",
+            "5": "https://pixeldra.in/api/file/MixtE4tz?download?.mkv"
         }
+    }
     ]
 }
