@@ -1,5 +1,56 @@
 {
     "webSeriesDataList": [
+    {
+        "id": "699",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Shaukiya%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Shaukiya%20Season%201.png",
+        "mn": "Shaukiya Season 1",
+        "hf": "https://www.699",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "rfeHroO7y1M",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Shaukiya",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/Pm8bHvGz?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Shaukiya%20S01E01%20699%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/Pm8bHvGz?download?.mkv"
+        }
+    },
+    {
+        "id": "698",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Ek%20Deewana%20Tha%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Ek%20Deewana%20Tha%20Season%201.png",
+        "mn": "Ek Deewana Tha Season 1",
+        "hf": "https://www.698",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "uIw0XVG4HqY",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Ek Deewana Tha",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/AdmgfnUV?download?.mkv",
+            "2": "https://pixeldra.in/api/file/dZSA7ePV?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Ek%20Deewana%20Tha%20S01E01%20698%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Ek%20Deewana%20Tha%20S01E02%20698%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/AdmgfnUV?download?.mkv",
+            "2": "https://pixeldra.in/api/file/dZSA7ePV?download?.mkv"
+        }
+    },
         {
             "id": "697",
             "IH": "https://ereviewwala.com/Poster/Adult/H1/Malti%20Season%201.jpg",
@@ -14,14 +65,17 @@
             "kn": "Malti",
             "pn": "S01",
             "eServer1": {
-                "1": "https://pub-39bc0079d68d4881bca35b248d38453f.r2.dev/Malti.S01P01.720p.WeB-DL.Hindi.AAC2.0.x264-Vegamovies.is.mkv"
+                "1": "https://pub-39bc0079d68d4881bca35b248d38453f.r2.dev/Malti.S01P01.720p.WeB-DL.Hindi.AAC2.0.x264-Vegamovies.is.mkv",
+                "2": "https://pixeldra.in/api/file/TxBKqkEs?download?.mkv"
             },
             "eServer2": {
-                "1": "http://adult.ringzstudio.online/adult/Malti%20S01E01%20697%201.mkv"
+                "1": "http://adult.ringzstudio.online/adult/Malti%20S01E01%20697%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Malti%20S01E02%20697%202.mkv"
             },
             "eTape": {},
             "eServer4": {
-                "1": "https://pixeldra.in/api/file/23GQ6MX4?download?.mkv"
+                "1": "https://pixeldra.in/api/file/23GQ6MX4?download?.mkv",
+                "2": "https://pixeldra.in/api/file/TxBKqkEs?download?.mkv"
             }
         },
         {
