@@ -22160,7 +22160,7 @@
             "hf": "https://www.15990",
             "gn": "FALSE",
             "trailer": "DYocEHikZ_g",
-            "lng": "Dual",
+            "lng": "Hindi+English",
             "cg": "webSeries",
             "kn": "Feria The Darkest Light",
             "pn": "S1",
@@ -26419,35 +26419,53 @@
             "IV": "https://axomark.meddyworld.com/Poster/v1/Suzhal%20The%20Vortex%20Season%201.jpg",
             "mn": "Suzhal The Vortex Season 1",
             "hf": "https://www.17536",
-            "gn": "FALSE",
+            "gn": "Action,Thriller",
             "trailer": "ah0BWt03qHE",
-            "lng": "Hindi",
+            "lng": "Hindi+Multi",
             "cg": "webSeries",
             "kn": "Suzhal The Vortex",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E01%2017528.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E02%2017529.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E03%2017530.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E04%2017531.mkv",
-                "5": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E05%2017532.mkv",
-                "6": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E06%2017533.mkv",
-                "7": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E07%2017534.mkv",
-                "8": "http://srsold.aapkipooja.com/srs1/Suzhal.The.Vortex.S01E08%2017535.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/vzKXoQOglBu49P4/Suzhal.The.Vortex.S01E01_17528.mkv.mp4",
-                "2": "https://streamtape.site/v/6BzXVg9L9pt9rxy/Suzhal.The.Vortex.S01E02_17529.mkv.mp4",
-                "3": "https://streamtape.site/v/0JqL8dpjaDi0bm/Suzhal.The.Vortex.S01E03_17530.mkv.mp4",
-                "4": "https://streamtape.site/v/02ezrV9PLktbqKq/Suzhal.The.Vortex.S01E04_17531.mkv.mp4",
-                "5": "https://streamtape.site/v/pVkd0lKGRyTr9Lp/Suzhal.The.Vortex.S01E05_17532.mkv.mp4",
-                "6": "https://streamtape.site/v/RpxBVB19v6tdQy7/Suzhal.The.Vortex.S01E06_17533.mkv.mp4",
-                "7": "https://streamtape.site/v/y7mwArKlOpU1lJo/Suzhal.The.Vortex.S01E07_17534.mkv.mp4",
-                "8": "https://streamtape.site/v/1zrQQvLgzQSeArZ/Suzhal.The.Vortex.S01E08_17535.mkv.mp4"
-            },
-            "eServer4": {}
+        "eServer1": {
+            "1": "https://pub-eddf8653e4bd4c768d598cd3cb032ab4.r2.dev/Suzhal.The.Vortex.S01E01.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+            "2": "https://pub-9f6385356fef478d99fc449c8061bd0a.r2.dev/Suzhal.The.Vortex.S01E02.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+            "3": "https://pixeldra.in/api/file/5dhbCgUd?download?.mkv",
+            "4": "https://pub-5ede140128d34e71aa10e5ae5de0c944.r2.dev/Suzhal.The.Vortex.S01E04.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+            "5": "https://pixeldra.in/api/file/xLSawPgj?download?.mkv",
+            "6": "https://pub-be351799404b4f929f215f143a9de224.r2.dev/Suzhal.The.Vortex.S01E06.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+            "7": "https://pixeldra.in/api/file/odKNED6L?download?.mkv",
+            "8": "https://pub-b9848aec1ab8498495e23c3a3ac57ee5.r2.dev/Suzhal.The.Vortex.S01E08.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv"
         },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E01%2017536%201.mkv",
+            "2": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E02%2017536%202.mkv",
+            "3": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E03%2017536%203.mkv",
+            "4": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E04%2017536%204.mkv",
+            "5": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E05%2017536%205.mkv",
+            "6": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E06%2017536%206.mkv",
+            "7": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E07%2017536%207.mkv",
+            "8": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E08%2017536%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/mPyxX2pJ6OibAbd/Suzhal_The_Vortex_S01E01_17536_1.mkv",
+            "2": "https://streamtape.site/v/VrZjq91OpVTK2Vb/Suzhal_The_Vortex_S01E02_17536_2.mkv",
+            "3": "https://streamtape.site/v/4R1jZdDXp6FZ8A/Suzhal_The_Vortex_S01E03_17536_3.mkv",
+            "4": "https://streamtape.site/v/B7mrjbjP2PfyAlp/Suzhal_The_Vortex_S01E04_17536_4.mkv",
+            "5": "https://streamtape.site/v/ZD77wdX88kSKmQ/Suzhal_The_Vortex_S01E05_17536_5.mkv",
+            "6": "https://streamtape.site/v/R6dZJZ9G3rSd8A7/Suzhal_The_Vortex_S01E06_17536_6.mkv",
+            "7": "https://streamtape.site/v/aVMR871RZ1iMJB/Suzhal_The_Vortex_S01E07_17536_7.mkv",
+            "8": "https://streamtape.site/v/aY2r7KPXe8s0Px/Suzhal_The_Vortex_S01E08_17536_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/3TedhHTK?download?.mkv",
+            "2": "https://pixeldra.in/api/file/k8yswLwF?download?.mkv",
+            "3": "https://pixeldra.in/api/file/5dhbCgUd?download?.mkv",
+            "4": "https://pixeldra.in/api/file/AUiAymmz?download?.mkv",
+            "5": "https://pixeldra.in/api/file/xLSawPgj?download?.mkv",
+            "6": "https://pixeldra.in/api/file/WvtS7SBA?download?.mkv",
+            "7": "https://pixeldra.in/api/file/odKNED6L?download?.mkv",
+            "8": "https://pixeldra.in/api/file/VMtCUeCT?download?.mkv"
+        }
+    },
         {
             "id": "767",
             "IH": "https://api.aapkipooja.com/Poster/Series/H1/Boundless%20Season%201.jpg",
