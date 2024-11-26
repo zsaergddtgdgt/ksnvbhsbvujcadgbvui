@@ -1,6 +1,33 @@
 {
     "webSeriesDataList": [
     {
+        "id": "700",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Kya%20Khoob%20Lagti%20Ho%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Kya%20Khoob%20Lagti%20Ho%20Season%201.png",
+        "mn": "Kya Khoob Lagti Ho Season 1",
+        "hf": "https://www.700",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "bUO4gzgdSog",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Kya Khoob Lagti Ho",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-150e5289f84443adb52ff1ea1e841ea2.r2.dev/Kya.Khoob.Lagti.Ho.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+            "2": "https://pixeldra.in/api/file/QTWzWHCG?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Kya%20Khoob%20Lagti%20Ho%20S01E01%20700%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Kya%20Khoob%20Lagti%20Ho%20S01E02%20700%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/MpM847Bh?download?.mkv",
+            "2": "https://pixeldra.in/api/file/QTWzWHCG?download?.mkv"
+        }
+    },
+    {
         "id": "699",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Shaukiya%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Adult/V1/Shaukiya%20Season%201.png",
