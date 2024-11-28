@@ -50041,47 +50041,6 @@
             }
         },
         {
-            "id": "1487",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/Outer%20Banks%20Season%204.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/Outer%20Banks%20Season%204.jpg",
-            "mn": "Outer Banks Season 4",
-            "hf": "https://www.19487",
-            "lng": "Hindi+English",
-            "trailer": "RxpoOFUixw4",
-            "gn": "Romance,Crime",
-            "cg": "webSeries",
-            "kn": "Outer Banks",
-            "pn": "S04",
-            "eServer1": {
-                "1": "https://pixeldra.in/api/file/ubzUHQ3F?download?.mkv",
-                "2": "https://pixeldra.in/api/file/CiHKEkHf?download?.mkv",
-                "3": "https://pixeldra.in/api/file/rzcttXuy?download?.mkv",
-                "4": "https://pixeldra.in/api/file/smxhAg2Z?download?.mkv",
-                "5": "https://pixeldra.in/api/file/qhfqPZiZ?download?.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E01%2019487%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E02%2019487%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E03%2019487%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E04%2019487%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E05%2019487%205.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/PwMykw2ABxc0z0e/Outer_Banks_S04E01_19487_1.mkv.mp4",
-                "2": "https://streamtape.site/v/DPR4ayzYaWtkaGy/Outer_Banks_S04E02_19487_2.mkv.mp4",
-                "3": "https://streamtape.site/v/bwK7g1p6v8Cday/Outer_Banks_S04E03_19487_3.mkv.mp4",
-                "4": "https://streamtape.site/v/x3MDZBjmq0Fk60L/Outer_Banks_S04E04_19487_4.mkv.mp4",
-                "5": "https://streamtape.site/v/ZVLyJ0ayKxFqx1y/Outer_Banks_S04E05_19487_5.mkv.mp4"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/ubzUHQ3F?download?.mkv",
-                "2": "https://pixeldra.in/api/file/CiHKEkHf?download?.mkv",
-                "3": "https://pixeldra.in/api/file/rzcttXuy?download?.mkv",
-                "4": "https://pixeldra.in/api/file/smxhAg2Z?download?.mkv",
-                "5": "https://pixeldra.in/api/file/qhfqPZiZ?download?.mkv"
-            }
-        },
-        {
             "id": "1493",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Jai%20Mahendran%20Season%201.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/Jai%20Mahendran%20Season%201.jpg",
@@ -53265,6 +53224,76 @@
             }
         },
         {
+        "id": "1552",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/Based%20on%20a%20True%20Story%20Season%202.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/Based%20on%20a%20True%20Story%20Season%202.jpg",
+        "mn": "Based on a True Story Season 2",
+        "hf": "https://www.19552",
+        "lng": "Hindi+English",
+        "trailer": "pGOGRTidcEg",
+        "gn": "Comedy,Drama",
+        "cg": "webSeries",
+        "kn": "Based on a True Story",
+        "pn": "S02",
+        "eServer1": {
+            "1": "https://pub-1d59df8f66074dc7b740ec8ed861c65a.r2.dev/Based.on.a.True.Story.S02E01-8.Complete.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/Based%20on%20a%20True%20Story%20S02E01%2019552%201.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/JyyKM0qwVqFZL7/Based_on_a_True_Story_S02E01_19552_1.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/6jkEEQsW?download?.mkv"
+        }
+    },
+    {
+        "id": "1550",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/ASAF%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/ASAF%20Season%201.jpg",
+        "mn": "ASAF Season 1",
+        "hf": "https://www.19550",
+        "lng": "Hindi+English",
+        "trailer": "VI0PTINzK2Q",
+        "gn": "Drama",
+        "cg": "webSeries",
+        "kn": "ASAF",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/g1SV9pp7?download?.mkv",
+            "2": "https://pixeldra.in/api/file/oQXb6q53?download?.mkv",
+            "3": "https://pixeldra.in/api/file/vB1S4Wth?download?.mkv",
+            "4": "https://pixeldra.in/api/file/aDmWyMRG?download?.mkv",
+            "5": "https://pixeldra.in/api/file/FePuGKio?download?.mkv",
+            "6": "https://pixeldra.in/api/file/ZpDqfm4W?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/ASAF%20S01E01%2019550%201.mkv",
+            "2": "http://srs.aapkipooja.com/lst/ASAF%20S01E02%2019550%202.mkv",
+            "3": "http://srs.aapkipooja.com/lst/ASAF%20S01E03%2019550%203.mkv",
+            "4": "http://srs.aapkipooja.com/lst/ASAF%20S01E04%2019550%204.mkv",
+            "5": "http://srs.aapkipooja.com/lst/ASAF%20S01E05%2019550%205.mkv",
+            "6": "http://srs.aapkipooja.com/lst/ASAF%20S01E06%2019550%206.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/MJYYoKKXjvimaLv/ASAF_S01E01_19550_1.mkv",
+            "2": "https://streamtape.site/v/AAymx7yMePhXp2d/ASAF_S01E02_19550_2.mkv",
+            "3": "https://streamtape.site/v/pr91Qwo03eHrKMZ/ASAF_S01E03_19550_3.mkv",
+            "4": "https://streamtape.site/v/Q17w2ZDP8zi0Lyl/ASAF_S01E04_19550_4.mkv",
+            "5": "https://streamtape.site/v/XgLPX1AQMPuDpbo/ASAF_S01E05_19550_5.mkv",
+            "6": "https://streamtape.site/v/P8BqVjlJVPtkDr/ASAF_S01E06_19550_6.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/g1SV9pp7?download?.mkv",
+            "2": "https://pixeldra.in/api/file/oQXb6q53?download?.mkv",
+            "3": "https://pixeldra.in/api/file/vB1S4Wth?download?.mkv",
+            "4": "https://pixeldra.in/api/file/aDmWyMRG?download?.mkv",
+            "5": "https://pixeldra.in/api/file/FePuGKio?download?.mkv",
+            "6": "https://pixeldra.in/api/file/ZpDqfm4W?download?.mkv"
+        }
+    },
+        {
             "id": "1469",
             "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
@@ -53386,6 +53415,173 @@
                 "10" : "https://pixeldra.in/api/file/TAS2c7An?download?.mkv"
             }
         },
+        {
+            "id": "1487",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Outer%20Banks%20Season%204.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Outer%20Banks%20Season%204.jpg",
+            "mn": "Outer Banks Season 4",
+            "hf": "https://www.19487",
+            "lng": "Hindi+English",
+            "trailer": "RxpoOFUixw4",
+            "gn": "Romance,Crime",
+            "cg": "webSeries",
+            "kn": "Outer Banks",
+            "pn": "S04",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/ubzUHQ3F?download?.mkv",
+                "2": "https://pixeldra.in/api/file/CiHKEkHf?download?.mkv",
+                "3": "https://pixeldra.in/api/file/rzcttXuy?download?.mkv",
+                "4": "https://pixeldra.in/api/file/smxhAg2Z?download?.mkv",
+                "5": "https://pixeldra.in/api/file/qhfqPZiZ?download?.mkv",
+            "6": "https://pixeldra.in/api/file/ayP9kVdX?download?.mkv",
+            "7": "https://pixeldra.in/api/file/1EHjqVKU?download?.mkv",
+            "8": "https://pub-5ef1f22fbc9e49058cd7c44e714dcee0.r2.dev/Outer.Banks.S04E08.Family.Plot.720P.Hindi.English.Esubs.VegaMovies.is.mkv",
+            "9": "https://pixeldra.in/api/file/6tuuGECF?download?.mkv",
+            "10": "https://pixeldra.in/api/file/S4jjyTjv?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E01%2019487%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E02%2019487%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E03%2019487%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E04%2019487%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E05%2019487%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E06%2019487%206.mkv",
+            "7": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E07%2019487%207.mkv",
+            "8": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E08%2019487%208.mkv",
+            "9": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E09%2019487%209.mkv",
+            "10": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E10%2019487%2010.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/PwMykw2ABxc0z0e/Outer_Banks_S04E01_19487_1.mkv.mp4",
+                "2": "https://streamtape.site/v/DPR4ayzYaWtkaGy/Outer_Banks_S04E02_19487_2.mkv.mp4",
+                "3": "https://streamtape.site/v/bwK7g1p6v8Cday/Outer_Banks_S04E03_19487_3.mkv.mp4",
+                "4": "https://streamtape.site/v/x3MDZBjmq0Fk60L/Outer_Banks_S04E04_19487_4.mkv.mp4",
+                "5": "https://streamtape.site/v/ZVLyJ0ayKxFqx1y/Outer_Banks_S04E05_19487_5.mkv.mp4",
+            "6": "https://streamtape.site/v/1Pja0rX4eJidMd/Outer_Banks_S04E06_19487_6.mkv",
+            "7": "https://streamtape.site/v/v9aYk0Zom4cb02/Outer_Banks_S04E07_19487_7.mkv",
+            "8": "https://streamtape.site/v/Q0vy9qygqecGez/Outer_Banks_S04E08_19487_8.mkv",
+            "9": "https://streamtape.site/v/x2214bbJAVIkKPW/Outer_Banks_S04E09_19487_9.mkv",
+            "10": "https://streamtape.site/v/VGX2mo9ykrHKJGy/Outer_Banks_S04E10_19487_10.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/ubzUHQ3F?download?.mkv",
+                "2": "https://pixeldra.in/api/file/CiHKEkHf?download?.mkv",
+                "3": "https://pixeldra.in/api/file/rzcttXuy?download?.mkv",
+                "4": "https://pixeldra.in/api/file/smxhAg2Z?download?.mkv",
+                "5": "https://pixeldra.in/api/file/qhfqPZiZ?download?.mkv",
+            "6": "https://pixeldra.in/api/file/ayP9kVdX?download?.mkv",
+            "7": "https://pixeldra.in/api/file/1EHjqVKU?download?.mkv",
+            "8": "https://pixeldra.in/api/file/BXBuwGiW?download",
+            "9": "https://pixeldra.in/api/file/6tuuGECF?download?.mkv",
+            "10": "https://pixeldra.in/api/file/S4jjyTjv?download?.mkv"
+            }
+        },
+         {
+        "id": "1553",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Helicopter%20Heist%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Helicopter%20Heist%20Season%201.jpg",
+        "mn": "The Helicopter Heist Season 1",
+        "hf": "https://www.19553",
+        "lng": "Hindi+English",
+        "trailer": "yeClDGZ1sE0",
+        "gn": "Heist,Crime",
+        "cg": "webSeries",
+        "kn": "The Helicopter Heist",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-917253ddfd534aa0902b10d403207bef.r2.dev/The.Helicopter.Heist.S01E01.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "2": "https://pub-192b271d845a45a9b30f0fcdf7af2edd.r2.dev/The.Helicopter.Heist.S01E02.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "3": "https://pub-3cc944ecccb24581b32e6e0eace00f4d.r2.dev/The.Helicopter.Heist.S01E03.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "4": "https://pub-85e1d0c7dc7f4c0d8dcb3c5939611bf7.r2.dev/The.Helicopter.Heist.S01E04.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "5": "https://pub-9043dd0a9e7c403ab68b0a21240fbc45.r2.dev/The.Helicopter.Heist.S01E05.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "6": "https://pub-f4859e87a60744d5976a52e874f482ba.r2.dev/The.Helicopter.Heist.S01E06.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "7": "https://pub-1b8f4bf87bc542b5bb5f6a9d76ea52cd.r2.dev/The.Helicopter.Heist.S01E07.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+            "8": "https://pub-a30952d4950f419aac11b2bd69a5ae91.r2.dev/The.Helicopter.Heist.S01E08.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E01%2019553%201.mkv",
+            "2": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E02%2019553%202.mkv",
+            "3": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E03%2019553%203.mkv",
+            "4": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E04%2019553%204.mkv",
+            "5": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E05%2019553%205.mkv",
+            "6": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E06%2019553%206.mkv",
+            "7": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E07%2019553%207.mkv",
+            "8": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E08%2019553%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/YygJv0Ovlaiv4q0/The_Helicopter_Heist_S01E01_19553_1.mkv",
+            "2": "https://streamtape.site/v/JYmpWezmWGCjve9/The_Helicopter_Heist_S01E02_19553_2.mkv",
+            "3": "https://streamtape.site/v/26XvqepG2qTKWg/The_Helicopter_Heist_S01E03_19553_3.mkv",
+            "4": "https://streamtape.site/v/waJrgVaPBzSJ7oP/The_Helicopter_Heist_S01E04_19553_4.mkv",
+            "5": "https://streamtape.site/v/mkvZwWPZd2iGyD/The_Helicopter_Heist_S01E05_19553_5.mkv",
+            "6": "https://streamtape.site/v/JoOgDPlM34UGLX/The_Helicopter_Heist_S01E06_19553_6.mkv",
+            "7": "https://streamtape.site/v/3BZXP9QjLkSrJD/The_Helicopter_Heist_S01E07_19553_7.mkv",
+            "8": "https://streamtape.site/v/BJ6xXZoj7pFG8g/The_Helicopter_Heist_S01E08_19553_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/2cfKpwpM?download?.mkv",
+            "2": "https://pixeldra.in/api/file/qJbTEgCA?download?.mkv",
+            "3": "https://pixeldra.in/api/file/M18p5MVn?download?.mkv",
+            "4": "https://pixeldra.in/api/file/NUGVLjcH?download?.mkv",
+            "5": "https://pixeldra.in/api/file/mPTYPKfa?download?.mkv",
+            "6": "https://pixeldra.in/api/file/5kCWJDui?download?.mkv",
+            "7": "https://pixeldra.in/api/file/2wTy6k8b?download?.mkv",
+            "8": "https://pixeldra.in/api/file/McJgmj9H?download?.mkv"
+        }
+    },
+    {
+        "id": "1551",
+        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Madness%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Madness%20Season%201.jpg",
+        "mn": "The Madness Season 1",
+        "hf": "https://www.19551",
+        "lng": "Hindi+English",
+        "trailer": "FALSE",
+        "gn": "Crime,Thriller",
+        "cg": "webSeries",
+        "kn": "The Madness",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-e09c7d7027ab4d8abdbc677fefd6edc5.r2.dev/The.Madness.S01E01.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+            "2": "https://pub-e95e38abb578427db8a53e83782b6210.r2.dev/The.Madness.S01E02.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+            "3": "https://pub-392f358d4cbe4e3ea27ab09562aa699d.r2.dev/The.Madness.S01E03.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+            "4": "https://pixeldra.in/api/file/6thnhEyx?download?.mkv",
+            "5": "https://pixeldra.in/api/file/t3XW7fTj?download?.mkv",
+            "6": "https://pixeldra.in/api/file/XoKb9mmS?download?.mkv",
+            "7": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Madness.S01E07.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+            "8": "https://pixeldra.in/api/file/TZa171rS?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E01%2019551%201.mkv",
+            "2": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E02%2019551%202.mkv",
+            "3": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E03%2019551%203.mkv",
+            "4": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E04%2019551%204.mkv",
+            "5": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E05%2019551%205.mkv",
+            "6": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E06%2019551%206.mkv",
+            "7": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E07%2019551%207.mkv",
+            "8": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E08%2019551%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/Kk3BloD922F0ZpD/The_Madness_S01E01_19551_1.mkv",
+            "2": "https://streamtape.site/v/A02j3DVYMoFX7JY/The_Madness_S01E02_19551_2.mkv",
+            "3": "https://streamtape.site/v/0JYXrB0pedCZVA/The_Madness_S01E03_19551_3.mkv",
+            "4": "https://streamtape.site/v/zM2P8rJ3PGIy8q/The_Madness_S01E04_19551_4.mkv",
+            "5": "https://streamtape.site/v/AZByOL0VPxhXdlL/The_Madness_S01E05_19551_5.mkv",
+            "6": "https://streamtape.site/v/ar3A2oAmmvFb2q/The_Madness_S01E06_19551_6.mkv",
+            "7": "https://streamtape.site/v/GXgqGjXbDZFlX8/The_Madness_S01E07_19551_7.mkv",
+            "8": "https://streamtape.site/v/xPwqel4gkZUlL6/The_Madness_S01E08_19551_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/wjxkTbWR?download?.mkv",
+            "2": "https://pixeldra.in/api/file/57oA4C7Z?download?.mkv",
+            "3": "https://pixeldra.in/api/file/HYZYGf1p?download?.mkv",
+            "4": "https://pixeldra.in/api/file/6thnhEyx?download?.mkv",
+            "5": "https://pixeldra.in/api/file/t3XW7fTj?download?.mkv",
+            "6": "https://pixeldra.in/api/file/XoKb9mmS?download?.mkv",
+            "7": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Madness.S01E07.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+            "8": "https://pixeldra.in/api/file/TZa171rS?download?.mkv"
+        }
+    },
         {
             "id": "1549",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Yeh%20Kaali%20Kaali%20Ankhein%20Season%202.jpg",
