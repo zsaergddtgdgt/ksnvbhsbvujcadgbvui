@@ -1,6 +1,57 @@
 {
     "webSeriesDataList": [
     {
+        "id": "702",
+        "IH": "https://ereviewwala.com/Poster/Adult/V1/Ek%20Baar%20Aur%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Ek%20Baar%20Aur%20Season%201.jpg",
+        "mn": "Ek Baar Aur Season 1",
+        "hf": "https://www.702",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "h8RKZ_GIk9k",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Ek Baar Aur",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/pvAbJko4?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Ek%20Baar%20Aur%20S01E01%20702%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/pvAbJko4?download?.mkv"
+        }
+    },
+    {
+        "id": "701",
+        "IH": "https://ereviewwala.com/Poster/Adult/H1/Aakhri%20Sukh%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V1/Aakhri%20Sukh%20Season%201.png",
+        "mn": "Aakhri Sukh Season 1",
+        "hf": "https://www.701",
+        "lng": "Hindi",
+        "ind": "RioPlus",
+        "trailer": "jqfBIu5Y7co",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Aakhri Sukh",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-1b3a955a2d454df9a1ac1caa22d83ec6.r2.dev/Aakhri.Sukh.S01EP01T02.720p.HEVC.WeB-DL.Hindi.x265.Vegamovies.is.mkv",
+            "2": "https://pixeldra.in/api/file/QdtF97Xn?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Aakhri%20Sukh%20S01E01%20701%201.mkv",
+            "2": "http://adult.ringzstudio.online/adult/Aakhri%20Sukh%20S01E02%20701%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/5MkKr1BE?download?.mkv",
+            "2": "https://pixeldra.in/api/file/QdtF97Xn?download?.mkv"
+        }
+    },
+    {
         "id": "700",
         "IH": "https://ereviewwala.com/Poster/Adult/H1/Kya%20Khoob%20Lagti%20Ho%20Season%201.jpg",
         "IV": "https://ereviewwala.com/Poster/Adult/V1/Kya%20Khoob%20Lagti%20Ho%20Season%201.png",
@@ -15,7 +66,7 @@
         "pn": "S01",
         "eServer1": {
             "1": "https://pub-150e5289f84443adb52ff1ea1e841ea2.r2.dev/Kya.Khoob.Lagti.Ho.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-            "2": "https://pixeldra.in/api/file/QTWzWHCG?download?.mkv"
+            "2": "https://pub-074a781d43eb47e2ad18a8e557b2fdfb.r2.dev/Kya.Khoob.Lagti.Ho.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.is.mkv"
         },
         "eServer2": {
             "1": "http://adult.ringzstudio.online/adult/Kya%20Khoob%20Lagti%20Ho%20S01E01%20700%201.mkv",
@@ -24,7 +75,7 @@
         "eTape": {},
         "eServer4": {
             "1": "https://pixeldra.in/api/file/MpM847Bh?download?.mkv",
-            "2": "https://pixeldra.in/api/file/QTWzWHCG?download?.mkv"
+            "2": "https://pixeldra.in/api/file/qeEKSQFd?download?.mkv"
         }
     },
     {
