@@ -22158,34 +22158,52 @@
             "IV": "https://api.aapkipooja.com/Poster/Series/V1/Feria The Darkest Light Season 1.jpg",
             "mn": "Feria The Darkest Light Season 1",
             "hf": "https://www.15990",
-            "gn": "FALSE",
+            "gn": "Crime,Thriller",
             "trailer": "DYocEHikZ_g",
             "lng": "Hindi+English",
             "cg": "webSeries",
             "kn": "Feria The Darkest Light",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E01.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E02.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E03.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E04.mkv",
-                "5": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E05.mkv",
-                "6": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E06.mkv",
-                "7": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E07.mkv",
-                "8": "http://srsold.aapkipooja.com/srs1/Feria%20The%20Darkest%20Light%20S01%20E08.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/LD72lpxOOrcRmkJ/Feria_The_Darkest_Light_S01_E01.mkv.mp4",
-                "2": "https://streamtape.site/v/J6R4YKzvXJSjM2p/Feria_The_Darkest_Light_S01_E02.mkv.mp4",
-                "3": "https://streamtape.site/v/9kqRDX1yPJTaleX/Feria_The_Darkest_Light_S01_E03.mkv.mp4",
-                "4": "https://streamtape.site/v/LM8LJoDbyDUeBj/Feria_The_Darkest_Light_S01_E04.mkv.mp4",
-                "5": "https://streamtape.site/v/ZxlZp39RpwTqa3O/Feria_The_Darkest_Light_S01_E05.mkv.mp4",
-                "6": "https://streamtape.site/v/0rVRV9jabjSbwyL/Feria_The_Darkest_Light_S01_E06.mkv.mp4",
-                "7": "https://streamtape.site/v/AAr6wRMxmBFXdRq/Feria_The_Darkest_Light_S01_E07.mkv.mp4",
-                "8": "https://streamtape.site/v/ZaW1dRAkM2hqQa4/Feria_The_Darkest_Light_S01_E08.mkv.mp4"
-            },
-            "eServer4": {}
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/X1AgatwD?download?.mkv",
+            "2": "https://pixeldra.in/api/file/rirWXCaY?download?.mkv",
+            "3": "https://pixeldra.in/api/file/Y123zbM3?download?.mkv",
+            "4": "https://pixeldra.in/api/file/n3vm7nXU?download?.mkv",
+            "5": "https://pub-bfd90518a3374472b3943fe1412659d8.r2.dev/Feria.The.Darkest.Light.S01E05.720p.10Bit.Hindi.English.Esubs.Vegamovies.NL.mkv",
+            "6": "https://pixeldra.in/api/file/DZJR142v?download?.mkv",
+            "7": "https://pixeldra.in/api/file/eLcTufXK?download?.mkv",
+            "8": "https://pixeldra.in/api/file/Zfjk46eH?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E01%2015990%201.mkv",
+            "2": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E02%2015990%202.mkv",
+            "3": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E03%2015990%203.mkv",
+            "4": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E04%2015990%204.mkv",
+            "5": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E05%2015990%205.mkv",
+            "6": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E06%2015990%206.mkv",
+            "7": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E07%2015990%207.mkv",
+            "8": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E08%2015990%208.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/01yqXgqaBWFbPkq/Feria_The_Darkest_Light_S01E01_15990_1.mkv",
+            "2": "https://streamtape.site/v/lQO2oqOPVQuzJK/Feria_The_Darkest_Light_S01E02_15990_2.mkv",
+            "3": "https://streamtape.site/v/myyeMDowmgIbjqB/Feria_The_Darkest_Light_S01E03_15990_3.mkv.mp4",
+            "4": "https://streamtape.site/v/PZVPVkYa70U0QYb/Feria_The_Darkest_Light_S01E04_15990_4.mkv",
+            "5": "https://streamtape.site/v/BQ6XqpvQeDcWj0/Feria_The_Darkest_Light_S01E05_15990_5.mkv.mp4",
+            "6": "https://streamtape.site/v/RjV7gGlRkWFdzDX/Feria_The_Darkest_Light_S01E06_15990_6.mkv",
+            "7": "https://streamtape.site/v/41VyOGOLmQiKKV6/Feria_The_Darkest_Light_S01E07_15990_7.mkv.mp4",
+            "8": "https://streamtape.site/v/p7QwZA2oOZtrkel/Feria_The_Darkest_Light_S01E08_15990_8.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/X1AgatwD?download?.mkv",
+            "2": "https://pixeldra.in/api/file/rirWXCaY?download?.mkv",
+            "3": "https://pixeldra.in/api/file/Y123zbM3?download?.mkv",
+            "4": "https://pixeldra.in/api/file/n3vm7nXU?download?.mkv",
+            "5": "https://pixeldra.in/api/file/ddNhZAV4?download?.mkv",
+            "6": "https://pixeldra.in/api/file/DZJR142v?download?.mkv",
+            "7": "https://pixeldra.in/api/file/eLcTufXK?download?.mkv",
+            "8": "https://pixeldra.in/api/file/Zfjk46eH?download?.mkv"
+        }
         },
         {
             "id": "627",
@@ -23273,34 +23291,48 @@
         },
         {
             "id": "663",
-            "IH": "https://axomark.meddyworld.com/Poster/h1/Rudra%20the%20Edge%20of%20Darkness%20Season%201.jfif",
-            "IV": "https://api.aapkipooja.com/Poster/Series/V1/Rudra the Edge of Darkness Season 1.jpg",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Rudra%20the%20Edge%20of%20Darkness%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Rudra%20the%20Edge%20of%20Darkness%20Season%201.jpg",
             "mn": "Rudra the Edge of Darkness Season 1",
             "hf": "https://www.16300",
-            "gn": "FALSE",
+            "gn": "Crime,Thriller",
             "trailer": "FyuODiTjoFs",
             "lng": "Hindi",
             "cg": "webSeries",
             "kn": "Rudra the Edge of Darkness",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/Rudra.the.Edge.of.Darkness.S01E01%2016259.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/Rudra.the.Edge.of.Darkness.S01E02%2016260.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/Rudra.the.Edge.of.Darkness.S01E03%2016261.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/Rudra.the.Edge.of.Darkness.S01E04%2016262.mkv",
-                "5": "http://srsold.aapkipooja.com/srs1/Rudra.the.Edge.of.Darkness.S01E05%2016263.mkv",
-                "6": "http://srsold.aapkipooja.com/srs1/Rudra.the.Edge.of.Darkness.S01E06%2016264.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/K4OPBljjZVhaGZ/Rudra.the.Edge.of.Darkness.S01E01_16259.mkv.mp4",
-                "2": "https://streamtape.site/v/6aqmA1qAdycL1x/Rudra.the.Edge.of.Darkness.S01E02_16260.mkv.mp4",
-                "3": "https://streamtape.site/v/YLzDoYX8jYH6O7/Rudra.the.Edge.of.Darkness.S01E03_16261.mkv.mp4",
-                "4": "https://streamtape.site/v/JJ2AJ3K1bBtjK8J/Rudra.the.Edge.of.Darkness.S01E04_16262.mkv.mp4",
-                "5": "https://streamtape.site/v/zVxML4KpXbfgQL/Rudra.the.Edge.of.Darkness.S01E05_16263.mkv.mp4",
-                "6": "https://streamtape.site/v/W8jzw8Z9lxSqG8/Rudra.the.Edge.of.Darkness.S01E06_16264.mkv.mp4"
-            },
-            "eServer4": {}
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/BBTYRa18?download?.mkv",
+            "2": "https://pixeldra.in/api/file/cyGc4rQW?download?.mkv",
+            "3": "https://pixeldra.in/api/file/P2q6mcM6?download?.mkv",
+            "4": "https://pixeldra.in/api/file/YAtpWqTh?download?.mkv",
+            "5": "https://pixeldra.in/api/file/RbM8HRxL?download?.mkv",
+            "6": "https://pixeldra.in/api/file/V6z31mWu?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E01%2016300%201.mkv",
+            "2": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E02%2016300%202.mkv",
+            "3": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E03%2016300%203.mkv",
+            "4": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E04%2016300%204.mkv",
+            "5": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E05%2016300%205.mkv",
+            "6": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E06%2016300%206.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/ajDzmb478BCx30x/Rudra_The_Edge_Of_Darkness_S01E01_16300_1.mkv",
+            "2": "https://streamtape.site/v/ok9yKQ32r2tJ6yg/Rudra_The_Edge_Of_Darkness_S01E02_16300_2.mkv",
+            "3": "https://streamtape.site/v/jZRxMPB73muzz6A/Rudra_The_Edge_Of_Darkness_S01E03_16300_3.mkv",
+            "4": "https://streamtape.site/v/paJGRKqV7eUrpvR/Rudra_The_Edge_Of_Darkness_S01E04_16300_4.mkv",
+            "5": "https://streamtape.site/v/R4QDKmgQW2t9ka/Rudra_The_Edge_Of_Darkness_S01E05_16300_5.mkv",
+            "6": "https://streamtape.site/v/YP3ydPGoLQSv8Oj/Rudra_The_Edge_Of_Darkness_S01E06_16300_6.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/BBTYRa18?download?.mkv",
+            "2": "https://pixeldra.in/api/file/cyGc4rQW?download?.mkv",
+            "3": "https://pixeldra.in/api/file/P2q6mcM6?download?.mkv",
+            "4": "https://pixeldra.in/api/file/YAtpWqTh?download?.mkv",
+            "5": "https://pixeldra.in/api/file/RbM8HRxL?download?.mkv",
+            "6": "https://pixeldra.in/api/file/V6z31mWu?download?.mkv"
+        }
         },
         {
             "id": "664",
@@ -52982,31 +53014,6 @@
             }
         },
         {
-            "id": "1548",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
-            "mn": "Thukra ke mera pyaar Season 1",
-            "hf": "https://www.19548",
-            "lng": "Hindi",
-            "trailer": "RXpR3cfcnSc",
-            "gn": "Romance,Drama",
-            "cg": "webSeries",
-            "kn": "Thukra ke mera pyaar",
-            "pn": "S01",
-            "eServer1": {
-                "1": "https://pub-9f666bdc48344bffb235562322de45d2.r2.dev/Thukra.Ke.Mera.Pyaar.2024.Hindi.HS.720p.x264.Vegamovies.is.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.aapkipooja.com/lst/Thukra%20ke%20mera%20pyaar%20S01E01%2019548%201.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/ZxrZ9lKWQdCqW8b/Thukra_ke_mera_pyaar_S01E01_19548_1.mkv"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/WqC35VCE?download?.mkv"
-            }
-        },
-        {
             "id": "1516",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Bigg%20Boss%20Season%2018.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/Bigg%20Boss%20Season%2018.jpg",
@@ -53625,6 +53632,35 @@
                 "4": "https://pixeldra.in/api/file/dMELPpvf?download?.mkv",
                 "5": "https://pixeldra.in/api/file/24utMxUd?download?.mkv",
                 "6": "https://pixeldra.in/api/file/F54EqwrN?download?.mkv"
+            }
+        },
+        {
+            "id": "1548",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
+            "mn": "Thukra ke mera pyaar Season 1",
+            "hf": "https://www.19548",
+            "lng": "Hindi",
+            "trailer": "RXpR3cfcnSc",
+            "gn": "Romance,Drama",
+            "cg": "webSeries",
+            "kn": "Thukra ke mera pyaar",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-9f666bdc48344bffb235562322de45d2.r2.dev/Thukra.Ke.Mera.Pyaar.2024.Hindi.HS.720p.x264.Vegamovies.is.mkv",
+                "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Thukra%20ke%20mera%20pyaar%20S01E01%2019548%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Thukra%20ke%20mera%20pyaar%20S01E02%2019548%202.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/ZxrZ9lKWQdCqW8b/Thukra_ke_mera_pyaar_S01E01_19548_1.mkv",
+                "2": "https://streamtape.site/v/YpQ4QvxxR0SLqv/Thukra_ke_mera_pyaar_S01E02_19548_2.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/WqC35VCE?download?.mkv",
+                "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv"
             }
         }
     ]
