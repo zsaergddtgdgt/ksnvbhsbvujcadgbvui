@@ -53911,6 +53911,56 @@
                 "1": "https://pixeldra.in/api/file/WqC35VCE?download?.mkv",
                 "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv"
             }
+        },
+        {
+            "id": "1559",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Heartbeats%20-%20Pyaar%20aur%20Armaan%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Heartbeats%20-%20Pyaar%20aur%20Armaan%20Season%201.jpg",
+            "mn": "Heartbeats - Pyaar aur Armaan Season 1",
+            "hf": "https://www.19559",
+            "lng": "Hindi",
+            "trailer": "HQ7LIIBZOwc",
+            "gn": "Romance,Drama",
+            "cg": "webSeries",
+            "kn": "Heartbeats - Pyaar aur Armaan",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-ebf7cf2f2bb44db0a75e7e1de3983a5e.r2.dev/Heartbeats.Pyaar.Aur.Armaan.S01.720p.HEVC.WeB-DL.Hindi.x265.ESub-SkymoviesHD.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Heartbeats%20-%20Pyaar%20aur%20Armaan%20S01E01%2019559%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/rxjQGLzAZVcb2xp/Heartbeats_-_Pyaar_aur_Armaan_S01E01_19559_1.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/oFxab8ii?download?.mkv"
+            }
+        },
+        {
+            "id": "1560",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Divorce%20Ke%20Liye%20Kuch%20Bhi%20Karega%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Divorce%20Ke%20Liye%20Kuch%20Bhi%20Karega%20Season%201.jpg",
+            "mn": "Divorce Ke Liye Kuch Bhi Karega Season 1",
+            "hf": "https://www.19560",
+            "lng": "Hindi",
+            "trailer": "sIAeXXcixwQ",
+            "gn": "Romance,Comedy",
+            "cg": "webSeries",
+            "kn": "Divorce Ke Liye Kuch Bhi Karega",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/K1asFdbH?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Divorce%20Ke%20Liye%20Kuch%20Bhi%20Karega%20S01E01%2019560%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/GPvzQyJmDjFVAJ/Divorce_Ke_Liye_Kuch_Bhi_Karega_S01E01_19560_1.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/K1asFdbH?download?.mkv"
+            }
         }
     ]
 }
