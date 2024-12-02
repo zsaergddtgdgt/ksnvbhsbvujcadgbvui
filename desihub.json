@@ -1,5 +1,89 @@
 {
     "webSeriesDataList": [
+    {
+        "id": "705",
+        "IH": "https://ereviewwala.com/Poster/Adult/H2/Majnu%20Bawlaa%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V2/Majnu%20Bawlaa%20Season%201.jpg",
+        "mn": "Majnu Bawlaa Season 1",
+        "hf": "https://www.705",
+        "lng": "Hindi",
+        "ind": "HulChul",
+        "trailer": "FALSE",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Majnu Bawlaa",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-4dcdfa15929c4628836745af706c9d47.r2.dev/Majnu.Bawla.S01EP01T03.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamoves.is.mkv",
+            "2": "https://pub-a60db46801fe4f969e381c50f61fa04b.r2.dev/Majnu.Bawla.S01EP04T06.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Majnu%20Bawlaa%20S01E01%20705%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Majnu%20Bawlaa%20S01E02%20705%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/T7BjukRX?download?.mkv",
+            "2": "https://pixeldra.in/api/file/eYCbumDV?download?.mkv"
+        }
+    },
+    {
+        "id": "704",
+        "IH": "https://ereviewwala.com/Poster/Adult/H2/Sasur%20Ki%20Nayee%20Dulhan%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V2/Sasur%20Ki%20Nayee%20Dulhan%20Season%201.jpg",
+        "mn": "Sasur Ki Nayee Dulhan Season 1",
+        "hf": "https://www.704",
+        "lng": "Hindi",
+        "ind": "Jugnu",
+        "trailer": "FALSE",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Sasur Ki Nayee Dulhan",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-25daf7c598154ce58f553987dfb1b6df.r2.dev/Sasur.Ki.Nayee.Dulhan.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+            "2": "https://pub-d0bc02c3ad48425aa5bc6d72f65733a1.r2.dev/Sasur.Ki.Nayee.Dulhan.S01EP05T08.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Sasur%20Ki%20Nayee%20Dulhan%20S01E01%20704%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Sasur%20Ki%20Nayee%20Dulhan%20S01E02%20704%202.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/MtH7GYo6?download?.mkv",
+            "2": "https://pixeldra.in/api/file/WiM8DEn2?download?.mkv"
+        }
+    },
+    {
+        "id": "703",
+        "IH": "https://ereviewwala.com/Poster/Adult/H2/Tadap%20CineOn%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V2/Tadap%20CineOn%20Season%201.jpg",
+        "mn": "Tadap CineOn Season 1",
+        "hf": "https://www.703",
+        "lng": "Hindi",
+        "ind": "CineOn",
+        "trailer": "FALSE",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Tadap CineOn",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-bd1e4f61409341d7bd4fc5b67013a3d0.r2.dev/Tadap.S01EP01.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv",
+            "2": "https://pub-a088f0ea10bc4eca8f598f8eb1ff763c.r2.dev/Tadap.S01EP02.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv",
+            "3": "https://pub-17aa05f0dc574b439c7ef91a1216e119.r2.dev/Tadap.S01EP03.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "https://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E01%20703%201.mkv",
+            "2": "https://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E02%20703%202.mkv",
+            "3": "https://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E03%20703%203.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/EcwXa7CS?download?.mkv",
+            "2": "https://pixeldra.in/api/file/tfCpYXFJ?download?.mkv",
+            "3": "https://pixeldra.in/api/file/mxUX6fhT?download?.mkv"
+        }
+    },
         {
             "id": "702",
             "IH": "https://ereviewwala.com/Poster/Adult/H1/Ek%20Baar%20Aur%20Season%201.jpg",
