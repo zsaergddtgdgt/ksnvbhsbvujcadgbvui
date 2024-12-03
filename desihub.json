@@ -1,5 +1,30 @@
 {
     "webSeriesDataList": [
+    
+        {
+            "id": "706",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Dil%20To%20Baccha%20Hai%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Dil%20To%20Baccha%20Hai%20Season%201.jpg",
+            "mn": "Dil To Baccha Hai Season 1",
+            "hf": "https://www.706",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "RTLMrob3AsQ",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Dil To Baccha Hai",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/Qcae2Rn5?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Dil%20To%20Baccha%20Hai%20S01E01%20706%201.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/Qcae2Rn5?download?.mkv"
+            }
+        },
     {
         "id": "705",
         "IH": "https://ereviewwala.com/Poster/Adult/H2/Majnu%20Bawlaa%20Season%201.jpg",
