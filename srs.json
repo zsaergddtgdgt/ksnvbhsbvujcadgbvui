@@ -53944,35 +53944,6 @@
         }
     },
         {
-            "id": "1548",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
-            "mn": "Thukra ke mera pyaar Season 1",
-            "hf": "https://www.19548",
-            "lng": "Hindi",
-            "trailer": "RXpR3cfcnSc",
-            "gn": "Romance,Drama",
-            "cg": "webSeries",
-            "kn": "Thukra ke mera pyaar",
-            "pn": "S01",
-            "eServer1": {
-                "1": "https://pub-9f666bdc48344bffb235562322de45d2.r2.dev/Thukra.Ke.Mera.Pyaar.2024.Hindi.HS.720p.x264.Vegamovies.is.mkv",
-                "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.aapkipooja.com/lst/Thukra%20ke%20mera%20pyaar%20S01E01%2019548%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Thukra%20ke%20mera%20pyaar%20S01E02%2019548%202.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/ZxrZ9lKWQdCqW8b/Thukra_ke_mera_pyaar_S01E01_19548_1.mkv",
-                "2": "https://streamtape.site/v/YpQ4QvxxR0SLqv/Thukra_ke_mera_pyaar_S01E02_19548_2.mkv"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/WqC35VCE?download?.mkv",
-                "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv"
-            }
-        },
-        {
         "id": "1562",
         "IH": "https://ereviewwala.com/Poster/Series/H2/Special%20Ops%20-%20Lioness%20Season%202.jpg",
         "IV": "https://ereviewwala.com/Poster/Series/V2/Special%20Ops%20-%20Lioness%20Season%202.jpg",
@@ -54157,6 +54128,39 @@
             "2": "https://pixeldra.in/api/file/X5CH8Mg9?download?.mkv"
         }
     },
+        {
+            "id": "1548",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
+            "mn": "Thukra ke mera pyaar Season 1",
+            "hf": "https://www.19548",
+            "lng": "Hindi",
+            "trailer": "RXpR3cfcnSc",
+            "gn": "Romance,Drama",
+            "cg": "webSeries",
+            "kn": "Thukra ke mera pyaar",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-9f666bdc48344bffb235562322de45d2.r2.dev/Thukra.Ke.Mera.Pyaar.2024.Hindi.HS.720p.x264.Vegamovies.is.mkv",
+                "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv",
+                "3": "https://pixeldra.in/api/file/pWgKpN5y?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Thukra%20ke%20mera%20pyaar%20S01E01%2019548%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Thukra%20ke%20mera%20pyaar%20S01E02%2019548%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Thukra%20ke%20mera%20pyaar%20S01E03%2019548%203.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/ZxrZ9lKWQdCqW8b/Thukra_ke_mera_pyaar_S01E01_19548_1.mkv",
+                "2": "https://streamtape.site/v/YpQ4QvxxR0SLqv/Thukra_ke_mera_pyaar_S01E02_19548_2.mkv",
+                "3": "https://streamtape.site/v/Y666gmmrbbf2lz/Thukra_ke_mera_pyaar_S01E03_19548_3.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/WqC35VCE?download?.mkv",
+                "2": "https://pixeldra.in/api/file/VAjyxGss?download?.mkv",
+                "3": "https://pixeldra.in/api/file/pWgKpN5y?download?.mkv"
+            }
+        },
         {
             "id": "1560",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Divorce%20Ke%20Liye%20Kuch%20Bhi%20Karega%20Season%201.jpg",
