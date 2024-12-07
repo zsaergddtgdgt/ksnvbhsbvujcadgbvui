@@ -22164,46 +22164,46 @@
             "cg": "webSeries",
             "kn": "Feria The Darkest Light",
             "pn": "S1",
-        "eServer1": {
-            "1": "https://pixeldra.in/api/file/X1AgatwD?download?.mkv",
-            "2": "https://pixeldra.in/api/file/rirWXCaY?download?.mkv",
-            "3": "https://pixeldra.in/api/file/Y123zbM3?download?.mkv",
-            "4": "https://pixeldra.in/api/file/n3vm7nXU?download?.mkv",
-            "5": "https://pub-bfd90518a3374472b3943fe1412659d8.r2.dev/Feria.The.Darkest.Light.S01E05.720p.10Bit.Hindi.English.Esubs.Vegamovies.NL.mkv",
-            "6": "https://pixeldra.in/api/file/DZJR142v?download?.mkv",
-            "7": "https://pixeldra.in/api/file/eLcTufXK?download?.mkv",
-            "8": "https://pixeldra.in/api/file/Zfjk46eH?download?.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E01%2015990%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E02%2015990%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E03%2015990%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E04%2015990%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E05%2015990%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E06%2015990%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E07%2015990%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E08%2015990%208.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/01yqXgqaBWFbPkq/Feria_The_Darkest_Light_S01E01_15990_1.mkv",
-            "2": "https://streamtape.site/v/lQO2oqOPVQuzJK/Feria_The_Darkest_Light_S01E02_15990_2.mkv",
-            "3": "https://streamtape.site/v/myyeMDowmgIbjqB/Feria_The_Darkest_Light_S01E03_15990_3.mkv.mp4",
-            "4": "https://streamtape.site/v/PZVPVkYa70U0QYb/Feria_The_Darkest_Light_S01E04_15990_4.mkv",
-            "5": "https://streamtape.site/v/BQ6XqpvQeDcWj0/Feria_The_Darkest_Light_S01E05_15990_5.mkv.mp4",
-            "6": "https://streamtape.site/v/RjV7gGlRkWFdzDX/Feria_The_Darkest_Light_S01E06_15990_6.mkv",
-            "7": "https://streamtape.site/v/41VyOGOLmQiKKV6/Feria_The_Darkest_Light_S01E07_15990_7.mkv.mp4",
-            "8": "https://streamtape.site/v/p7QwZA2oOZtrkel/Feria_The_Darkest_Light_S01E08_15990_8.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/X1AgatwD?download?.mkv",
-            "2": "https://pixeldra.in/api/file/rirWXCaY?download?.mkv",
-            "3": "https://pixeldra.in/api/file/Y123zbM3?download?.mkv",
-            "4": "https://pixeldra.in/api/file/n3vm7nXU?download?.mkv",
-            "5": "https://pixeldra.in/api/file/ddNhZAV4?download?.mkv",
-            "6": "https://pixeldra.in/api/file/DZJR142v?download?.mkv",
-            "7": "https://pixeldra.in/api/file/eLcTufXK?download?.mkv",
-            "8": "https://pixeldra.in/api/file/Zfjk46eH?download?.mkv"
-        }
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/X1AgatwD?download?.mkv",
+                "2": "https://pixeldra.in/api/file/rirWXCaY?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Y123zbM3?download?.mkv",
+                "4": "https://pixeldra.in/api/file/n3vm7nXU?download?.mkv",
+                "5": "https://pub-bfd90518a3374472b3943fe1412659d8.r2.dev/Feria.The.Darkest.Light.S01E05.720p.10Bit.Hindi.English.Esubs.Vegamovies.NL.mkv",
+                "6": "https://pixeldra.in/api/file/DZJR142v?download?.mkv",
+                "7": "https://pixeldra.in/api/file/eLcTufXK?download?.mkv",
+                "8": "https://pixeldra.in/api/file/Zfjk46eH?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E01%2015990%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E02%2015990%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E03%2015990%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E04%2015990%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E05%2015990%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E06%2015990%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E07%2015990%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/Feria%20The%20Darkest%20Light%20S01E08%2015990%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/01yqXgqaBWFbPkq/Feria_The_Darkest_Light_S01E01_15990_1.mkv",
+                "2": "https://streamtape.site/v/lQO2oqOPVQuzJK/Feria_The_Darkest_Light_S01E02_15990_2.mkv",
+                "3": "https://streamtape.site/v/myyeMDowmgIbjqB/Feria_The_Darkest_Light_S01E03_15990_3.mkv.mp4",
+                "4": "https://streamtape.site/v/PZVPVkYa70U0QYb/Feria_The_Darkest_Light_S01E04_15990_4.mkv",
+                "5": "https://streamtape.site/v/BQ6XqpvQeDcWj0/Feria_The_Darkest_Light_S01E05_15990_5.mkv.mp4",
+                "6": "https://streamtape.site/v/RjV7gGlRkWFdzDX/Feria_The_Darkest_Light_S01E06_15990_6.mkv",
+                "7": "https://streamtape.site/v/41VyOGOLmQiKKV6/Feria_The_Darkest_Light_S01E07_15990_7.mkv.mp4",
+                "8": "https://streamtape.site/v/p7QwZA2oOZtrkel/Feria_The_Darkest_Light_S01E08_15990_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/X1AgatwD?download?.mkv",
+                "2": "https://pixeldra.in/api/file/rirWXCaY?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Y123zbM3?download?.mkv",
+                "4": "https://pixeldra.in/api/file/n3vm7nXU?download?.mkv",
+                "5": "https://pixeldra.in/api/file/ddNhZAV4?download?.mkv",
+                "6": "https://pixeldra.in/api/file/DZJR142v?download?.mkv",
+                "7": "https://pixeldra.in/api/file/eLcTufXK?download?.mkv",
+                "8": "https://pixeldra.in/api/file/Zfjk46eH?download?.mkv"
+            }
         },
         {
             "id": "627",
@@ -23301,38 +23301,38 @@
             "cg": "webSeries",
             "kn": "Rudra the Edge of Darkness",
             "pn": "S1",
-        "eServer1": {
-            "1": "https://pixeldra.in/api/file/BBTYRa18?download?.mkv",
-            "2": "https://pixeldra.in/api/file/cyGc4rQW?download?.mkv",
-            "3": "https://pixeldra.in/api/file/P2q6mcM6?download?.mkv",
-            "4": "https://pixeldra.in/api/file/YAtpWqTh?download?.mkv",
-            "5": "https://pixeldra.in/api/file/RbM8HRxL?download?.mkv",
-            "6": "https://pixeldra.in/api/file/V6z31mWu?download?.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E01%2016300%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E02%2016300%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E03%2016300%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E04%2016300%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E05%2016300%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E06%2016300%206.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/ajDzmb478BCx30x/Rudra_The_Edge_Of_Darkness_S01E01_16300_1.mkv",
-            "2": "https://streamtape.site/v/ok9yKQ32r2tJ6yg/Rudra_The_Edge_Of_Darkness_S01E02_16300_2.mkv",
-            "3": "https://streamtape.site/v/jZRxMPB73muzz6A/Rudra_The_Edge_Of_Darkness_S01E03_16300_3.mkv",
-            "4": "https://streamtape.site/v/paJGRKqV7eUrpvR/Rudra_The_Edge_Of_Darkness_S01E04_16300_4.mkv",
-            "5": "https://streamtape.site/v/R4QDKmgQW2t9ka/Rudra_The_Edge_Of_Darkness_S01E05_16300_5.mkv",
-            "6": "https://streamtape.site/v/YP3ydPGoLQSv8Oj/Rudra_The_Edge_Of_Darkness_S01E06_16300_6.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/BBTYRa18?download?.mkv",
-            "2": "https://pixeldra.in/api/file/cyGc4rQW?download?.mkv",
-            "3": "https://pixeldra.in/api/file/P2q6mcM6?download?.mkv",
-            "4": "https://pixeldra.in/api/file/YAtpWqTh?download?.mkv",
-            "5": "https://pixeldra.in/api/file/RbM8HRxL?download?.mkv",
-            "6": "https://pixeldra.in/api/file/V6z31mWu?download?.mkv"
-        }
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/BBTYRa18?download?.mkv",
+                "2": "https://pixeldra.in/api/file/cyGc4rQW?download?.mkv",
+                "3": "https://pixeldra.in/api/file/P2q6mcM6?download?.mkv",
+                "4": "https://pixeldra.in/api/file/YAtpWqTh?download?.mkv",
+                "5": "https://pixeldra.in/api/file/RbM8HRxL?download?.mkv",
+                "6": "https://pixeldra.in/api/file/V6z31mWu?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E01%2016300%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E02%2016300%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E03%2016300%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E04%2016300%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E05%2016300%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Rudra%20The%20Edge%20Of%20Darkness%20S01E06%2016300%206.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/ajDzmb478BCx30x/Rudra_The_Edge_Of_Darkness_S01E01_16300_1.mkv",
+                "2": "https://streamtape.site/v/ok9yKQ32r2tJ6yg/Rudra_The_Edge_Of_Darkness_S01E02_16300_2.mkv",
+                "3": "https://streamtape.site/v/jZRxMPB73muzz6A/Rudra_The_Edge_Of_Darkness_S01E03_16300_3.mkv",
+                "4": "https://streamtape.site/v/paJGRKqV7eUrpvR/Rudra_The_Edge_Of_Darkness_S01E04_16300_4.mkv",
+                "5": "https://streamtape.site/v/R4QDKmgQW2t9ka/Rudra_The_Edge_Of_Darkness_S01E05_16300_5.mkv",
+                "6": "https://streamtape.site/v/YP3ydPGoLQSv8Oj/Rudra_The_Edge_Of_Darkness_S01E06_16300_6.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/BBTYRa18?download?.mkv",
+                "2": "https://pixeldra.in/api/file/cyGc4rQW?download?.mkv",
+                "3": "https://pixeldra.in/api/file/P2q6mcM6?download?.mkv",
+                "4": "https://pixeldra.in/api/file/YAtpWqTh?download?.mkv",
+                "5": "https://pixeldra.in/api/file/RbM8HRxL?download?.mkv",
+                "6": "https://pixeldra.in/api/file/V6z31mWu?download?.mkv"
+            }
         },
         {
             "id": "664",
@@ -26457,47 +26457,47 @@
             "cg": "webSeries",
             "kn": "Suzhal The Vortex",
             "pn": "S1",
-        "eServer1": {
-            "1": "https://pub-eddf8653e4bd4c768d598cd3cb032ab4.r2.dev/Suzhal.The.Vortex.S01E01.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
-            "2": "https://pub-9f6385356fef478d99fc449c8061bd0a.r2.dev/Suzhal.The.Vortex.S01E02.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
-            "3": "https://pixeldra.in/api/file/5dhbCgUd?download?.mkv",
-            "4": "https://pub-5ede140128d34e71aa10e5ae5de0c944.r2.dev/Suzhal.The.Vortex.S01E04.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
-            "5": "https://pixeldra.in/api/file/xLSawPgj?download?.mkv",
-            "6": "https://pub-be351799404b4f929f215f143a9de224.r2.dev/Suzhal.The.Vortex.S01E06.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
-            "7": "https://pixeldra.in/api/file/odKNED6L?download?.mkv",
-            "8": "https://pub-b9848aec1ab8498495e23c3a3ac57ee5.r2.dev/Suzhal.The.Vortex.S01E08.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv"
+            "eServer1": {
+                "1": "https://pub-eddf8653e4bd4c768d598cd3cb032ab4.r2.dev/Suzhal.The.Vortex.S01E01.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+                "2": "https://pub-9f6385356fef478d99fc449c8061bd0a.r2.dev/Suzhal.The.Vortex.S01E02.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+                "3": "https://pixeldra.in/api/file/5dhbCgUd?download?.mkv",
+                "4": "https://pub-5ede140128d34e71aa10e5ae5de0c944.r2.dev/Suzhal.The.Vortex.S01E04.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+                "5": "https://pixeldra.in/api/file/xLSawPgj?download?.mkv",
+                "6": "https://pub-be351799404b4f929f215f143a9de224.r2.dev/Suzhal.The.Vortex.S01E06.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv",
+                "7": "https://pixeldra.in/api/file/odKNED6L?download?.mkv",
+                "8": "https://pub-b9848aec1ab8498495e23c3a3ac57ee5.r2.dev/Suzhal.The.Vortex.S01E08.720p.AMZN.WebRip.AAC2.0.H.264-Vegamovies.NL.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E01%2017536%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E02%2017536%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E03%2017536%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E04%2017536%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E05%2017536%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E06%2017536%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E07%2017536%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E08%2017536%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/mPyxX2pJ6OibAbd/Suzhal_The_Vortex_S01E01_17536_1.mkv",
+                "2": "https://streamtape.site/v/VrZjq91OpVTK2Vb/Suzhal_The_Vortex_S01E02_17536_2.mkv",
+                "3": "https://streamtape.site/v/4R1jZdDXp6FZ8A/Suzhal_The_Vortex_S01E03_17536_3.mkv",
+                "4": "https://streamtape.site/v/B7mrjbjP2PfyAlp/Suzhal_The_Vortex_S01E04_17536_4.mkv",
+                "5": "https://streamtape.site/v/ZD77wdX88kSKmQ/Suzhal_The_Vortex_S01E05_17536_5.mkv",
+                "6": "https://streamtape.site/v/R6dZJZ9G3rSd8A7/Suzhal_The_Vortex_S01E06_17536_6.mkv",
+                "7": "https://streamtape.site/v/aVMR871RZ1iMJB/Suzhal_The_Vortex_S01E07_17536_7.mkv",
+                "8": "https://streamtape.site/v/aY2r7KPXe8s0Px/Suzhal_The_Vortex_S01E08_17536_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/3TedhHTK?download?.mkv",
+                "2": "https://pixeldra.in/api/file/k8yswLwF?download?.mkv",
+                "3": "https://pixeldra.in/api/file/5dhbCgUd?download?.mkv",
+                "4": "https://pixeldra.in/api/file/AUiAymmz?download?.mkv",
+                "5": "https://pixeldra.in/api/file/xLSawPgj?download?.mkv",
+                "6": "https://pixeldra.in/api/file/WvtS7SBA?download?.mkv",
+                "7": "https://pixeldra.in/api/file/odKNED6L?download?.mkv",
+                "8": "https://pixeldra.in/api/file/VMtCUeCT?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E01%2017536%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E02%2017536%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E03%2017536%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E04%2017536%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E05%2017536%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E06%2017536%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E07%2017536%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/Suzhal%20The%20Vortex%20S01E08%2017536%208.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/mPyxX2pJ6OibAbd/Suzhal_The_Vortex_S01E01_17536_1.mkv",
-            "2": "https://streamtape.site/v/VrZjq91OpVTK2Vb/Suzhal_The_Vortex_S01E02_17536_2.mkv",
-            "3": "https://streamtape.site/v/4R1jZdDXp6FZ8A/Suzhal_The_Vortex_S01E03_17536_3.mkv",
-            "4": "https://streamtape.site/v/B7mrjbjP2PfyAlp/Suzhal_The_Vortex_S01E04_17536_4.mkv",
-            "5": "https://streamtape.site/v/ZD77wdX88kSKmQ/Suzhal_The_Vortex_S01E05_17536_5.mkv",
-            "6": "https://streamtape.site/v/R6dZJZ9G3rSd8A7/Suzhal_The_Vortex_S01E06_17536_6.mkv",
-            "7": "https://streamtape.site/v/aVMR871RZ1iMJB/Suzhal_The_Vortex_S01E07_17536_7.mkv",
-            "8": "https://streamtape.site/v/aY2r7KPXe8s0Px/Suzhal_The_Vortex_S01E08_17536_8.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/3TedhHTK?download?.mkv",
-            "2": "https://pixeldra.in/api/file/k8yswLwF?download?.mkv",
-            "3": "https://pixeldra.in/api/file/5dhbCgUd?download?.mkv",
-            "4": "https://pixeldra.in/api/file/AUiAymmz?download?.mkv",
-            "5": "https://pixeldra.in/api/file/xLSawPgj?download?.mkv",
-            "6": "https://pixeldra.in/api/file/WvtS7SBA?download?.mkv",
-            "7": "https://pixeldra.in/api/file/odKNED6L?download?.mkv",
-            "8": "https://pixeldra.in/api/file/VMtCUeCT?download?.mkv"
-        }
-    },
         {
             "id": "767",
             "IH": "https://api.aapkipooja.com/Poster/Series/H1/Boundless%20Season%201.jpg",
@@ -48701,51 +48701,6 @@
             }
         },
         {
-            "id": "1450",
-            "IH": "https://ereviewwala.com/Poster/Series/H1/Tanaav%20Season%202.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V1/Tanaav%20Season%202.jpg",
-            "mn": "Tanaav Season 2",
-            "hf": "https://www.19450",
-            "lng": "Hindi",
-            "trailer": "crweML3EMiA",
-            "gn": "Action,Thriller",
-            "cg": "webSeries",
-            "kn": "Tanaav",
-            "pn": "S02",
-            "eServer1": {
-                "1": "https://pub-1ba07ee04d9c47c3ab724dec8ca4e33d.r2.dev/Tanaav.S02E01.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
-                "2": "https://pub-6f0718b750d54f8a9de574cea5eb71bf.r2.dev/Tanaav.S02E02.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
-                "3": "https://pub-5ac141efe80448d1932f4040e7c640e2.r2.dev/Tanaav.S02E03.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
-                "4": "https://pub-ade875874f0045bda1ed2969b9d672f9.r2.dev/Tanaav.S02E04.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
-                "5": "https://pub-7d2f7463d3ac4fc68c2109ccc0b2e839.r2.dev/Tanaav.S02E05.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
-                "6": "https://pub-33e1cdc4922a410f8a0e97229b429a95.r2.dev/Tanaav.S02E06.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.ringzstudio.online/lst/Tanaav%20S02E01%2019450%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/Tanaav%20S02E02%2019450%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Tanaav%20S02E03%2019450%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Tanaav%20S02E04%2019450%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/Tanaav%20S02E05%2019450%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/Tanaav%20S02E06%2019450%206.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/PD6a686GxjURmB/Tanaav_S02E01_19450_1.mkv.mp4",
-                "2": "https://streamtape.site/v/7dBDA42ObDsAjby/Tanaav_S02E02_19450_2.mkv",
-                "3": "https://streamtape.site/v/wVbZDdQLwptJmZp/Tanaav_S02E03_19450_3.mkv.mp4",
-                "4": "https://streamtape.site/v/Z2gxOrVqebUq6vz/Tanaav_S02E04_19450_4.mkv.mp4",
-                "5": "https://streamtape.site/v/RmWP08Dw4MCXpV/Tanaav_S02E05_19450_5.mkv.mp4",
-                "6": "https://streamtape.site/v/DXzK1XGDzehk7rz/Tanaav_S02E06_19450_6.mkv.mp4"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/9cJJFccM?download?.mkv",
-                "2": "https://pixeldra.in/api/file/zjZPf1iP?download?.mkv",
-                "3": "https://pixeldra.in/api/file/Gv9EKsmF?download?.mkv",
-                "4": "https://pixeldra.in/api/file/tbtMtj2d?download?.mkv",
-                "5": "https://pixeldra.in/api/file/PJ72o6tq?download?.mkv",
-                "6": "https://pixeldra.in/api/file/rhW7u27B?download?.mkv"
-            }
-        },
-        {
             "id": "1453",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Emily%20in%20Paris%20Season%204.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V1/Emily%20in%20Paris%20Season%204.jpg",
@@ -52978,36 +52933,36 @@
                 "24": "https://pub-526e6bfdeef648bc96a46a1799c130ee.r2.dev/Bigg.Boss.Season.18.Episode.24.720p.Vegamovies.is.mkv",
                 "25": "https://pub-357a9abc91e74b949203f51c6988089d.r2.dev/Bigg.Boss.2024.S18E25.Hindi.JC.720p.x264.Vegamovies.is.mkv",
                 "26": "https://pub-e5c9eac1dc6244ec923ba0d9ee558199.r2.dev/Bigg.Boss.Season.18.Episode.26.720p.Vegamovies.is.mkv",
-            "27": "https://pub-0edd92f905454cc0ba31e90713d56890.r2.dev/Bigg.Boss.Season.18.Episode.27.720p.Vegamovies.is.mkv",
-            "28": "https://pixeldra.in/api/file/tLdcvtC9?download?.mkv",
-            "29": "https://pub-21d21eb9485049a78f30b28d451d5a7b.r2.dev/Bigg.Boss.Season.18.Episode.29.720p.Vegamovies.is.mkv",
-            "30": "https://pub-1f3f977063074534b9703ed5736c5153.r2.dev/Bigg.Boss.Season.18.Episode.30.720p.Vegamovies.is.mkv",
-            "31": "https://pub-4edcbd718df44d0bb65e8c79f1b2c67f.r2.dev/Bigg.Boss.Season.18.Episode.31.720p.Vegamovies.is.mkv",
-            "32": "https://pub-a297de7f07c547bd83ec6d8bdf6e6003.r2.dev/Bigg.Boss.Season.18.Episode.32.720p.Vegamovies.is.mkv",
-            "33": "https://pub-785d75f0b0c841cab76686b469f5db94.r2.dev/Bigg.Boss.Season.18.Episode.33.720p.Vegamovies.is.mkv",
-            "34": "https://pub-4d074892468442c8ab628bc7f94d31b6.r2.dev/Bigg.Boss.2024.S18E34.Hindi.JC.720p.Vegamovies.is.mkv",
-            "35": "https://pub-6a6ac6f4679b426880bed6ae0c61cb82.r2.dev/Bigg.Boss.2024.S18E35.Hindi.JC.720p.Vegamovies.is.mkv",
-            "36": "https://pub-291bf788991a466f8e860287086e0429.r2.dev/Bigg.Boss.2024.S18E36.Hindi.JC.1080p.Vegamovies.is.mkv",
-            "37": "https://pub-0736907dfc4846e2b32fa35a7b36bfa1.r2.dev/Bigg.Boss.Season.18.Episode.37.720p.Vegamovies.is.mkv",
-            "38": "https://pixeldra.in/api/file/c5WiM7Az?download?.mkv",
-            "39": "https://pub-9273ee985a554a0f88cadd3554084394.r2.dev/Bigg.Boss.2024.S18E39.Hindi.JC.720p.Vegamovies.is.mkv",
-            "40": "https://pub-50c3bf75d1a945f3b9a6e04fb7d40eea.r2.dev/Bigg.Boss.2024.S18E40.Hindi.JC.720p.Vegamovies.is.mkv",
-            "41": "https://pub-0f6b48a4ea97488bbba61f36132b9cb4.r2.dev/Bigg%20Boss%20Season%2018%20Episode%2041.720p%20-%20Vegamovies.is.mkv",
-            "42": "https://pub-8237a2cc619643c8904f697462582555.r2.dev/Bigg.Boss.Season.18.Episode.42.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
-            "43": "https://pub-f1580c4d4cdc4052b661ba941c24d95d.r2.dev/Bigg.Boss.Season.18.Episode.43.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
-            "44": "https://pub-748537d8950d4c2aa08749dfebe41b10.r2.dev/Bigg.Boss.Season.18.Episode.44.720p.Vegamovies.is.mkv",
-            "45": "https://pub-c257b1a430314324bfb52dfca7091e40.r2.dev/Bigg.Boss.2024.S18E45.Hindi.JC.720p.Vegamovies.is.mkv",
-            "46": "https://pub-ad75bdacee3947d49e026314c7d7bd3d.r2.dev/Bigg.Boss.Season.18.Episode.46.720p.Vegamovies.is.mkv",
-            "47": "https://pub-4d899f4a5ccf4a5c827095ffb0972093.r2.dev/Bigg.Boss.Season.18.Episode.47.720p.Vegamovies.is.mkv",
-            "48": "https://pub-e6e31b8e41cc4124b80b0c4a908ee671.r2.dev/Bigg.Boss.Season.18.Episode.48.720p.Vegamovies.is.mkv",
-            "49": "https://pub-8769c1ac2b0f4b168171d1428bb2eede.r2.dev/Bigg.Boss.Season.18.Episode.49.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
-            "50": "https://pub-6d7245aaf8ed4a02bb2d2de2dfb56245.r2.dev/Bigg.Boss.Season.18.Episode.50.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
-            "51": "https://pub-c36815fb88c247baa7572158d2a9dbbc.r2.dev/Bigg.Boss.Season.18.Episode.51.720p.Vegamovies.is.mkv",
-            "52": "https://pub-17681b1eb0884f04973d9571534a5aec.r2.dev/Bigg.Boss.Season.18.Episode.52.720p.Vegamovies.is.mkv",
-            "53": "https://pub-31c65b24bd1940df8da9c90594bdf9d7.r2.dev/Bigg.Boss.Season.18.Episode.53.720p.Vegamovies.is.mkv",
-            "54": "https://pub-514914fda14a45039cdc7196cd5deeb8.r2.dev/Bigg.Boss.Season.18.Episode.54.720p.Vegamovies.is.mkv",
-            "55": "https://pub-d4285dd8022d48a294e7895624358f8c.r2.dev/Bigg.Boss.Season.18.Episode.55.720p.Vegamovies.is.mkv",
-            "56": "https://pub-d95435f97fac4b148f6fe9850319032d.r2.dev/Bigg.Boss.Season.18.Episode.56.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv"
+                "27": "https://pub-0edd92f905454cc0ba31e90713d56890.r2.dev/Bigg.Boss.Season.18.Episode.27.720p.Vegamovies.is.mkv",
+                "28": "https://pixeldra.in/api/file/tLdcvtC9?download?.mkv",
+                "29": "https://pub-21d21eb9485049a78f30b28d451d5a7b.r2.dev/Bigg.Boss.Season.18.Episode.29.720p.Vegamovies.is.mkv",
+                "30": "https://pub-1f3f977063074534b9703ed5736c5153.r2.dev/Bigg.Boss.Season.18.Episode.30.720p.Vegamovies.is.mkv",
+                "31": "https://pub-4edcbd718df44d0bb65e8c79f1b2c67f.r2.dev/Bigg.Boss.Season.18.Episode.31.720p.Vegamovies.is.mkv",
+                "32": "https://pub-a297de7f07c547bd83ec6d8bdf6e6003.r2.dev/Bigg.Boss.Season.18.Episode.32.720p.Vegamovies.is.mkv",
+                "33": "https://pub-785d75f0b0c841cab76686b469f5db94.r2.dev/Bigg.Boss.Season.18.Episode.33.720p.Vegamovies.is.mkv",
+                "34": "https://pub-4d074892468442c8ab628bc7f94d31b6.r2.dev/Bigg.Boss.2024.S18E34.Hindi.JC.720p.Vegamovies.is.mkv",
+                "35": "https://pub-6a6ac6f4679b426880bed6ae0c61cb82.r2.dev/Bigg.Boss.2024.S18E35.Hindi.JC.720p.Vegamovies.is.mkv",
+                "36": "https://pub-291bf788991a466f8e860287086e0429.r2.dev/Bigg.Boss.2024.S18E36.Hindi.JC.1080p.Vegamovies.is.mkv",
+                "37": "https://pub-0736907dfc4846e2b32fa35a7b36bfa1.r2.dev/Bigg.Boss.Season.18.Episode.37.720p.Vegamovies.is.mkv",
+                "38": "https://pixeldra.in/api/file/c5WiM7Az?download?.mkv",
+                "39": "https://pub-9273ee985a554a0f88cadd3554084394.r2.dev/Bigg.Boss.2024.S18E39.Hindi.JC.720p.Vegamovies.is.mkv",
+                "40": "https://pub-50c3bf75d1a945f3b9a6e04fb7d40eea.r2.dev/Bigg.Boss.2024.S18E40.Hindi.JC.720p.Vegamovies.is.mkv",
+                "41": "https://pub-0f6b48a4ea97488bbba61f36132b9cb4.r2.dev/Bigg%20Boss%20Season%2018%20Episode%2041.720p%20-%20Vegamovies.is.mkv",
+                "42": "https://pub-8237a2cc619643c8904f697462582555.r2.dev/Bigg.Boss.Season.18.Episode.42.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
+                "43": "https://pub-f1580c4d4cdc4052b661ba941c24d95d.r2.dev/Bigg.Boss.Season.18.Episode.43.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
+                "44": "https://pub-748537d8950d4c2aa08749dfebe41b10.r2.dev/Bigg.Boss.Season.18.Episode.44.720p.Vegamovies.is.mkv",
+                "45": "https://pub-c257b1a430314324bfb52dfca7091e40.r2.dev/Bigg.Boss.2024.S18E45.Hindi.JC.720p.Vegamovies.is.mkv",
+                "46": "https://pub-ad75bdacee3947d49e026314c7d7bd3d.r2.dev/Bigg.Boss.Season.18.Episode.46.720p.Vegamovies.is.mkv",
+                "47": "https://pub-4d899f4a5ccf4a5c827095ffb0972093.r2.dev/Bigg.Boss.Season.18.Episode.47.720p.Vegamovies.is.mkv",
+                "48": "https://pub-e6e31b8e41cc4124b80b0c4a908ee671.r2.dev/Bigg.Boss.Season.18.Episode.48.720p.Vegamovies.is.mkv",
+                "49": "https://pub-8769c1ac2b0f4b168171d1428bb2eede.r2.dev/Bigg.Boss.Season.18.Episode.49.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
+                "50": "https://pub-6d7245aaf8ed4a02bb2d2de2dfb56245.r2.dev/Bigg.Boss.Season.18.Episode.50.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv",
+                "51": "https://pub-c36815fb88c247baa7572158d2a9dbbc.r2.dev/Bigg.Boss.Season.18.Episode.51.720p.Vegamovies.is.mkv",
+                "52": "https://pub-17681b1eb0884f04973d9571534a5aec.r2.dev/Bigg.Boss.Season.18.Episode.52.720p.Vegamovies.is.mkv",
+                "53": "https://pub-31c65b24bd1940df8da9c90594bdf9d7.r2.dev/Bigg.Boss.Season.18.Episode.53.720p.Vegamovies.is.mkv",
+                "54": "https://pub-514914fda14a45039cdc7196cd5deeb8.r2.dev/Bigg.Boss.Season.18.Episode.54.720p.Vegamovies.is.mkv",
+                "55": "https://pub-d4285dd8022d48a294e7895624358f8c.r2.dev/Bigg.Boss.Season.18.Episode.55.720p.Vegamovies.is.mkv",
+                "56": "https://pub-d95435f97fac4b148f6fe9850319032d.r2.dev/Bigg.Boss.Season.18.Episode.56.Weekend.Ka.Vaar.720p.Vegamovies.is.mkv"
             },
             "eServer2": {
                 "1": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E01%2019516%201.mkv",
@@ -53036,95 +52991,95 @@
                 "24": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E24%2019516%2024.mkv",
                 "25": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E25%2019516%2025.mkv",
                 "26": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E26%2019516%2026.mkv",
-            "27": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E27%2019516%2027.mkv",
-            "28": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E28%2019516%2028.mkv",
-            "29": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E29%2019516%2029.mkv",
-            "30": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E30%2019516%2030.mkv",
-            "31": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E31%2019516%2031.mkv",
-            "32": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E32%2019516%2032.mkv",
-            "33": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E33%2019516%2033.mkv",
-            "34": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E34%2019516%2034.mkv",
-            "35": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E35%2019516%2035.mkv",
-            "36": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E36%2019516%2036.mkv",
-            "37": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E37%2019516%2037.mkv",
-            "38": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E38%2019516%2038.mkv",
-            "39": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E39%2019516%2039.mkv",
-            "40": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E40%2019516%2040.mkv",
-            "41": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E41%2019516%2041.mkv",
-            "42": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E42%2019516%2042.mkv",
-            "43": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E43%2019516%2043.mkv",
-            "44": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E44%2019516%2044.mkv",
-            "45": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E45%2019516%2045.mkv",
-            "46": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E46%2019516%2046.mkv",
-            "47": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E47%2019516%2047.mkv",
-            "48": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E48%2019516%2048.mkv",
-            "49": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E49%2019516%2049.mkv",
-            "50": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E50%2019516%2050.mkv",
-            "51": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E51%2019516%2051.mkv",
-            "52": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E52%2019516%2052.mkv",
-            "53": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E53%2019516%2053.mkv",
-            "54": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E54%2019516%2054.mkv",
-            "55": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E55%2019516%2055.mkv",
-            "56": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E56%2019516%2056.mkv"
+                "27": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E27%2019516%2027.mkv",
+                "28": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E28%2019516%2028.mkv",
+                "29": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E29%2019516%2029.mkv",
+                "30": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E30%2019516%2030.mkv",
+                "31": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E31%2019516%2031.mkv",
+                "32": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E32%2019516%2032.mkv",
+                "33": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E33%2019516%2033.mkv",
+                "34": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E34%2019516%2034.mkv",
+                "35": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E35%2019516%2035.mkv",
+                "36": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E36%2019516%2036.mkv",
+                "37": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E37%2019516%2037.mkv",
+                "38": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E38%2019516%2038.mkv",
+                "39": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E39%2019516%2039.mkv",
+                "40": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E40%2019516%2040.mkv",
+                "41": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E41%2019516%2041.mkv",
+                "42": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E42%2019516%2042.mkv",
+                "43": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E43%2019516%2043.mkv",
+                "44": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E44%2019516%2044.mkv",
+                "45": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E45%2019516%2045.mkv",
+                "46": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E46%2019516%2046.mkv",
+                "47": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E47%2019516%2047.mkv",
+                "48": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E48%2019516%2048.mkv",
+                "49": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E49%2019516%2049.mkv",
+                "50": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E50%2019516%2050.mkv",
+                "51": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E51%2019516%2051.mkv",
+                "52": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E52%2019516%2052.mkv",
+                "53": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E53%2019516%2053.mkv",
+                "54": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E54%2019516%2054.mkv",
+                "55": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E55%2019516%2055.mkv",
+                "56": "http://srs.ringzstudio.online/lst/Bigg%20Boss%20S18E56%2019516%2056.mkv"
             },
             "eTape": {
-            "1": "https://streamtape.site/v/qOKrYV48vMhz0rR/Bigg_Boss_S18E01_19516_1.mkv",
-            "2": "https://streamtape.site/v/XzAPqVPWYOCDpB0/Bigg_Boss_S18E02_19516_2.mkv",
-            "3": "https://streamtape.site/v/j6qoDAXzkztzjYp/Bigg_Boss_S18E03_19516_3.mkv",
-            "4": "https://streamtape.site/v/kowgQXXrJeTOKRM/Bigg_Boss_S18E04_19516_4.mkv",
-            "5": "https://streamtape.site/v/2o70qJWWJaUzzD/Bigg_Boss_S18E05_19516_5.mkv",
-            "6": "https://streamtape.site/v/lO8wljLawPi7gVj/Bigg_Boss_S18E06_19516_6.mkv",
-            "7": "https://streamtape.site/v/2aj3r4A3vqHWmB/Bigg_Boss_S18E07_19516_7.mkv",
-            "8": "https://streamtape.site/v/x9bv2woBZeTkkBe/Bigg_Boss_S18E08_19516_8.mkv",
-            "9": "https://streamtape.site/v/pLJmYbzLvJiVQM/Bigg_Boss_S18E09_19516_9.mkv",
-            "10": "https://streamtape.site/v/03LRp6jrgrfbrAx/Bigg_Boss_S18E10_19516_10.mkv",
-            "11": "https://streamtape.site/v/wP4wgowZZMuWMo/Bigg_Boss_S18E11_19516_11.mkv",
-            "12": "https://streamtape.site/v/grwRJBMxo0Iq03A/Bigg_Boss_S18E12_19516_12.mkv",
-            "13": "https://streamtape.site/v/7Yz3pJxpB7sJaD/Bigg_Boss_S18E13_19516_13.mkv",
-            "14": "https://streamtape.site/v/dQAQlYM639fZGO/Bigg_Boss_S18E14_19516_14.mkv",
-            "15": "https://streamtape.site/v/XbdpQRGGXvcD9Wy/Bigg_Boss_S18E15_19516_15.mkv",
-            "16": "https://streamtape.site/v/xyp2qxYvB9Tkrkw/Bigg_Boss_S18E16_19516_16.mkv",
-            "17": "https://streamtape.site/v/6e0mDxYdeQc9MLj/Bigg_Boss_S18E17_19516_17.mkv",
-            "18": "https://streamtape.site/v/X1Jy3MP2eJfDJom/Bigg_Boss_S18E18_19516_18.mkv",
-            "19": "https://streamtape.site/v/O2y21GmdQjhZlAD/Bigg_Boss_S18E19_19516_19.mkv",
-            "20": "https://streamtape.site/v/7XzDwGgvPVCAaA0/Bigg_Boss_S18E20_19516_20.mkv",
-            "21": "https://streamtape.site/v/aqD2Ox0XmKCxGQ3/Bigg_Boss_S18E21_19516_21.mkv",
-            "22": "https://streamtape.site/v/1qpAxkvQpzFeR6G/Bigg_Boss_S18E22_19516_22.mkv",
-            "23": "https://streamtape.site/v/mqwBYe9m62ub4eO/Bigg_Boss_S18E23_19516_23.mkv",
-            "24": "https://streamtape.site/v/1OVQv8D0l1fekP3/Bigg_Boss_S18E24_19516_24.mkv",
-            "25": "https://streamtape.site/v/pDamBKzmw0IrPZz/Bigg_Boss_S18E25_19516_25.mkv",
-            "26": "https://streamtape.site/v/WX3ooj0JjpHbDAD/Bigg_Boss_S18E26_19516_26.mkv",
-            "27": "https://streamtape.site/v/pgBj1VmYjZHrOMb/Bigg_Boss_S18E27_19516_27.mkv",
-            "28": "https://streamtape.site/v/8zlzadP3WWFo9wb/Bigg_Boss_S18E28_19516_28.mkv",
-            "29": "https://streamtape.site/v/lkzY6e9ARVS71ZL/Bigg_Boss_S18E29_19516_29.mkv",
-            "30": "https://streamtape.site/v/V6QobQzPD1uO7d/Bigg_Boss_S18E30_19516_30.mkv",
-            "31": "https://streamtape.site/v/6o2ZQQmW2RF9rmK/Bigg_Boss_S18E31_19516_31.mkv",
-            "32": "https://streamtape.site/v/8JZv07J8ojUomDj/Bigg_Boss_S18E32_19516_32.mkv",
-            "33": "https://streamtape.site/v/BGZXVg1WV2fyZ9z/Bigg_Boss_S18E33_19516_33.mkv",
-            "34": "https://streamtape.site/v/QdvYeyQKAbc0XXx/Bigg_Boss_S18E34_19516_34.mkv",
-            "35": "https://streamtape.site/v/eK8l8bJWxauYgYx/Bigg_Boss_S18E35_19516_35.mkv",
-            "36": "https://streamtape.site/v/2P6lw1jwrpHPql/Bigg_Boss_S18E36_19516_36.mkv",
-            "37": "https://streamtape.site/v/JKBpMYVMaRieyy/Bigg_Boss_S18E37_19516_37.mkv",
-            "38": "https://streamtape.site/v/wd9kaRVKG1uJJZP/Bigg_Boss_S18E38_19516_38.mkv",
-            "39": "https://streamtape.site/v/oG3oVO1ea2UOxm/Bigg_Boss_S18E39_19516_39.mkv",
-            "40": "https://streamtape.site/v/aPR7yYdowXCMMv/Bigg_Boss_S18E40_19516_40.mkv",
-            "41": "https://streamtape.site/v/jYaBqx3gpJszlKG/Bigg_Boss_S18E41_19516_41.mkv",
-            "42": "https://streamtape.site/v/zxj0GkDJ8AuY0yg/Bigg_Boss_S18E42_19516_42.mkv",
-            "43": "https://streamtape.site/v/LLy648qjR4tRmb9/Bigg_Boss_S18E43_19516_43.mkv",
-            "44": "https://streamtape.site/v/ZjxOgJbXp8Iqqj0/Bigg_Boss_S18E44_19516_44.mkv",
-            "45": "https://streamtape.site/v/wJwQ8yz4JoiJKr2/Bigg_Boss_S18E45_19516_45.mkv",
-            "46": "https://streamtape.site/v/R7mMBo16GXHdVdK/Bigg_Boss_S18E46_19516_46.mkv",
-            "47": "https://streamtape.site/v/kkZbRoR3DrSOwDJ/Bigg_Boss_S18E47_19516_47.mkv",
-            "48": "https://streamtape.site/v/O2XjJBla43fZdbb/Bigg_Boss_S18E48_19516_48.mkv",
-            "49": "https://streamtape.site/v/3AL2pZq06QTdK1V/Bigg_Boss_S18E49_19516_49.mkv",
-            "50": "https://streamtape.site/v/Gw172qMmqJF1jxe/Bigg_Boss_S18E50_19516_50.mkv",
-            "51": "https://streamtape.site/v/3aRKqMAPqDfdVdy/Bigg_Boss_S18E51_19516_51.mkv",
-            "52": "https://streamtape.site/v/8qgV61yavltoABr/Bigg_Boss_S18E52_19516_52.mkv",
-            "53": "https://streamtape.site/v/LpD9Dwrpd2cR06W/Bigg_Boss_S18E53_19516_53.mkv",
-            "54": "https://streamtape.site/v/x2veZ4L7pAtkGJz/Bigg_Boss_S18E54_19516_54.mkv",
-            "55": "https://streamtape.site/v/zrygAWp0WQiY1oD/Bigg_Boss_S18E55_19516_55.mkv",
-            "56": "https://streamtape.site/v/ZD3pxGV7D1IP9M/Bigg_Boss_S18E56_19516_56.mkv"
-        },
+                "1": "https://streamtape.site/v/qOKrYV48vMhz0rR/Bigg_Boss_S18E01_19516_1.mkv",
+                "2": "https://streamtape.site/v/XzAPqVPWYOCDpB0/Bigg_Boss_S18E02_19516_2.mkv",
+                "3": "https://streamtape.site/v/j6qoDAXzkztzjYp/Bigg_Boss_S18E03_19516_3.mkv",
+                "4": "https://streamtape.site/v/kowgQXXrJeTOKRM/Bigg_Boss_S18E04_19516_4.mkv",
+                "5": "https://streamtape.site/v/2o70qJWWJaUzzD/Bigg_Boss_S18E05_19516_5.mkv",
+                "6": "https://streamtape.site/v/lO8wljLawPi7gVj/Bigg_Boss_S18E06_19516_6.mkv",
+                "7": "https://streamtape.site/v/2aj3r4A3vqHWmB/Bigg_Boss_S18E07_19516_7.mkv",
+                "8": "https://streamtape.site/v/x9bv2woBZeTkkBe/Bigg_Boss_S18E08_19516_8.mkv",
+                "9": "https://streamtape.site/v/pLJmYbzLvJiVQM/Bigg_Boss_S18E09_19516_9.mkv",
+                "10": "https://streamtape.site/v/03LRp6jrgrfbrAx/Bigg_Boss_S18E10_19516_10.mkv",
+                "11": "https://streamtape.site/v/wP4wgowZZMuWMo/Bigg_Boss_S18E11_19516_11.mkv",
+                "12": "https://streamtape.site/v/grwRJBMxo0Iq03A/Bigg_Boss_S18E12_19516_12.mkv",
+                "13": "https://streamtape.site/v/7Yz3pJxpB7sJaD/Bigg_Boss_S18E13_19516_13.mkv",
+                "14": "https://streamtape.site/v/dQAQlYM639fZGO/Bigg_Boss_S18E14_19516_14.mkv",
+                "15": "https://streamtape.site/v/XbdpQRGGXvcD9Wy/Bigg_Boss_S18E15_19516_15.mkv",
+                "16": "https://streamtape.site/v/xyp2qxYvB9Tkrkw/Bigg_Boss_S18E16_19516_16.mkv",
+                "17": "https://streamtape.site/v/6e0mDxYdeQc9MLj/Bigg_Boss_S18E17_19516_17.mkv",
+                "18": "https://streamtape.site/v/X1Jy3MP2eJfDJom/Bigg_Boss_S18E18_19516_18.mkv",
+                "19": "https://streamtape.site/v/O2y21GmdQjhZlAD/Bigg_Boss_S18E19_19516_19.mkv",
+                "20": "https://streamtape.site/v/7XzDwGgvPVCAaA0/Bigg_Boss_S18E20_19516_20.mkv",
+                "21": "https://streamtape.site/v/aqD2Ox0XmKCxGQ3/Bigg_Boss_S18E21_19516_21.mkv",
+                "22": "https://streamtape.site/v/1qpAxkvQpzFeR6G/Bigg_Boss_S18E22_19516_22.mkv",
+                "23": "https://streamtape.site/v/mqwBYe9m62ub4eO/Bigg_Boss_S18E23_19516_23.mkv",
+                "24": "https://streamtape.site/v/1OVQv8D0l1fekP3/Bigg_Boss_S18E24_19516_24.mkv",
+                "25": "https://streamtape.site/v/pDamBKzmw0IrPZz/Bigg_Boss_S18E25_19516_25.mkv",
+                "26": "https://streamtape.site/v/WX3ooj0JjpHbDAD/Bigg_Boss_S18E26_19516_26.mkv",
+                "27": "https://streamtape.site/v/pgBj1VmYjZHrOMb/Bigg_Boss_S18E27_19516_27.mkv",
+                "28": "https://streamtape.site/v/8zlzadP3WWFo9wb/Bigg_Boss_S18E28_19516_28.mkv",
+                "29": "https://streamtape.site/v/lkzY6e9ARVS71ZL/Bigg_Boss_S18E29_19516_29.mkv",
+                "30": "https://streamtape.site/v/V6QobQzPD1uO7d/Bigg_Boss_S18E30_19516_30.mkv",
+                "31": "https://streamtape.site/v/6o2ZQQmW2RF9rmK/Bigg_Boss_S18E31_19516_31.mkv",
+                "32": "https://streamtape.site/v/8JZv07J8ojUomDj/Bigg_Boss_S18E32_19516_32.mkv",
+                "33": "https://streamtape.site/v/BGZXVg1WV2fyZ9z/Bigg_Boss_S18E33_19516_33.mkv",
+                "34": "https://streamtape.site/v/QdvYeyQKAbc0XXx/Bigg_Boss_S18E34_19516_34.mkv",
+                "35": "https://streamtape.site/v/eK8l8bJWxauYgYx/Bigg_Boss_S18E35_19516_35.mkv",
+                "36": "https://streamtape.site/v/2P6lw1jwrpHPql/Bigg_Boss_S18E36_19516_36.mkv",
+                "37": "https://streamtape.site/v/JKBpMYVMaRieyy/Bigg_Boss_S18E37_19516_37.mkv",
+                "38": "https://streamtape.site/v/wd9kaRVKG1uJJZP/Bigg_Boss_S18E38_19516_38.mkv",
+                "39": "https://streamtape.site/v/oG3oVO1ea2UOxm/Bigg_Boss_S18E39_19516_39.mkv",
+                "40": "https://streamtape.site/v/aPR7yYdowXCMMv/Bigg_Boss_S18E40_19516_40.mkv",
+                "41": "https://streamtape.site/v/jYaBqx3gpJszlKG/Bigg_Boss_S18E41_19516_41.mkv",
+                "42": "https://streamtape.site/v/zxj0GkDJ8AuY0yg/Bigg_Boss_S18E42_19516_42.mkv",
+                "43": "https://streamtape.site/v/LLy648qjR4tRmb9/Bigg_Boss_S18E43_19516_43.mkv",
+                "44": "https://streamtape.site/v/ZjxOgJbXp8Iqqj0/Bigg_Boss_S18E44_19516_44.mkv",
+                "45": "https://streamtape.site/v/wJwQ8yz4JoiJKr2/Bigg_Boss_S18E45_19516_45.mkv",
+                "46": "https://streamtape.site/v/R7mMBo16GXHdVdK/Bigg_Boss_S18E46_19516_46.mkv",
+                "47": "https://streamtape.site/v/kkZbRoR3DrSOwDJ/Bigg_Boss_S18E47_19516_47.mkv",
+                "48": "https://streamtape.site/v/O2XjJBla43fZdbb/Bigg_Boss_S18E48_19516_48.mkv",
+                "49": "https://streamtape.site/v/3AL2pZq06QTdK1V/Bigg_Boss_S18E49_19516_49.mkv",
+                "50": "https://streamtape.site/v/Gw172qMmqJF1jxe/Bigg_Boss_S18E50_19516_50.mkv",
+                "51": "https://streamtape.site/v/3aRKqMAPqDfdVdy/Bigg_Boss_S18E51_19516_51.mkv",
+                "52": "https://streamtape.site/v/8qgV61yavltoABr/Bigg_Boss_S18E52_19516_52.mkv",
+                "53": "https://streamtape.site/v/LpD9Dwrpd2cR06W/Bigg_Boss_S18E53_19516_53.mkv",
+                "54": "https://streamtape.site/v/x2veZ4L7pAtkGJz/Bigg_Boss_S18E54_19516_54.mkv",
+                "55": "https://streamtape.site/v/zrygAWp0WQiY1oD/Bigg_Boss_S18E55_19516_55.mkv",
+                "56": "https://streamtape.site/v/ZD3pxGV7D1IP9M/Bigg_Boss_S18E56_19516_56.mkv"
+            },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/AS4hpvge?download?.mkv",
                 "2": "https://pixeldra.in/api/file/iWyk1vPT?download?.mkv",
@@ -53152,108 +53107,108 @@
                 "24": "https://pixeldra.in/api/file/c66wEgMw?download?.mkv",
                 "25": "https://pub-357a9abc91e74b949203f51c6988089d.r2.dev/Bigg.Boss.2024.S18E25.Hindi.JC.720p.x264.Vegamovies.is.mkv",
                 "26": "https://pub-e5c9eac1dc6244ec923ba0d9ee558199.r2.dev/Bigg.Boss.Season.18.Episode.26.720p.Vegamovies.is.mkv",
-            "27": "https://pixeldra.in/api/file/QgkA5f6f?download?.mkv",
-            "28": "https://pixeldra.in/api/file/tLdcvtC9?download?.mkv",
-            "29": "https://pixeldra.in/api/file/zV9RWmnj?download?.mkv",
-            "30": "https://pixeldra.in/api/file/7bwqg1H2?download?.mkv",
-            "31": "https://pixeldra.in/api/file/kjKjxjfq?download?.mkv",
-            "32": "https://pixeldra.in/api/file/acnAYzpK?download?.mkv",
-            "33": "https://pixeldra.in/api/file/FNVbSZq1?download?.mkv",
-            "34": "https://pixeldra.in/api/file/6zaYF1Pk?download?.mkv",
-            "35": "https://pixeldra.in/api/file/2Xzyt7Gq?download?.mkv",
-            "36": "https://pixeldra.in/api/file/eoC3ZbeR?download?.mkv",
-            "37": "https://pixeldra.in/api/file/bBEResRH?download?.mkv",
-            "38": "https://pixeldra.in/api/file/c5WiM7Az?download?.mkv",
-            "39": "https://pixeldra.in/api/file/HUReTSzm?download?.mkv",
-            "40": "https://pixeldra.in/api/file/LeiiS1QU?download?.mkv",
-            "41": "https://pixeldra.in/api/file/zRbw3Tzr?download?.mkv",
-            "42": "https://pixeldra.in/api/file/zCPsXSrj?download?.mkv",
-            "43": "https://pixeldra.in/api/file/mAEVTWrN?download?.mkv",
-            "44": "https://pixeldra.in/api/file/Jg591rzW?download?.mkv",
-            "45": "https://pixeldra.in/api/file/kVMECNAE?download?.mkv",
-            "46": "https://pixeldra.in/api/file/1u8JbCnf?download?.mkv",
-            "47": "https://pixeldra.in/api/file/RYyVzP1z?download?.mkv",
-            "48": "https://pixeldra.in/api/file/ehkdh7n3?download?.mkv",
-            "49": "https://pixeldra.in/api/file/mYxss4cJ?download?.mkv",
-            "50": "https://pixeldra.in/api/file/3KByssTC?download?.mkv",
-            "51": "https://pixeldra.in/api/file/BjLZuauQ?download?.mkv",
-            "52": "https://pixeldra.in/api/file/gGpn7nga?download?.mkv",
-            "53": "https://pixeldra.in/api/file/eeJa49fj?download?.mkv",
-            "54": "https://pixeldra.in/api/file/WoQ8bN3D?download?.mkv",
-            "55": "https://pixeldra.in/api/file/76tDEYqG?download?.mkv",
-            "56": "https://pixeldra.in/api/file/xjYjLQKC?download?.mkv"
+                "27": "https://pixeldra.in/api/file/QgkA5f6f?download?.mkv",
+                "28": "https://pixeldra.in/api/file/tLdcvtC9?download?.mkv",
+                "29": "https://pixeldra.in/api/file/zV9RWmnj?download?.mkv",
+                "30": "https://pixeldra.in/api/file/7bwqg1H2?download?.mkv",
+                "31": "https://pixeldra.in/api/file/kjKjxjfq?download?.mkv",
+                "32": "https://pixeldra.in/api/file/acnAYzpK?download?.mkv",
+                "33": "https://pixeldra.in/api/file/FNVbSZq1?download?.mkv",
+                "34": "https://pixeldra.in/api/file/6zaYF1Pk?download?.mkv",
+                "35": "https://pixeldra.in/api/file/2Xzyt7Gq?download?.mkv",
+                "36": "https://pixeldra.in/api/file/eoC3ZbeR?download?.mkv",
+                "37": "https://pixeldra.in/api/file/bBEResRH?download?.mkv",
+                "38": "https://pixeldra.in/api/file/c5WiM7Az?download?.mkv",
+                "39": "https://pixeldra.in/api/file/HUReTSzm?download?.mkv",
+                "40": "https://pixeldra.in/api/file/LeiiS1QU?download?.mkv",
+                "41": "https://pixeldra.in/api/file/zRbw3Tzr?download?.mkv",
+                "42": "https://pixeldra.in/api/file/zCPsXSrj?download?.mkv",
+                "43": "https://pixeldra.in/api/file/mAEVTWrN?download?.mkv",
+                "44": "https://pixeldra.in/api/file/Jg591rzW?download?.mkv",
+                "45": "https://pixeldra.in/api/file/kVMECNAE?download?.mkv",
+                "46": "https://pixeldra.in/api/file/1u8JbCnf?download?.mkv",
+                "47": "https://pixeldra.in/api/file/RYyVzP1z?download?.mkv",
+                "48": "https://pixeldra.in/api/file/ehkdh7n3?download?.mkv",
+                "49": "https://pixeldra.in/api/file/mYxss4cJ?download?.mkv",
+                "50": "https://pixeldra.in/api/file/3KByssTC?download?.mkv",
+                "51": "https://pixeldra.in/api/file/BjLZuauQ?download?.mkv",
+                "52": "https://pixeldra.in/api/file/gGpn7nga?download?.mkv",
+                "53": "https://pixeldra.in/api/file/eeJa49fj?download?.mkv",
+                "54": "https://pixeldra.in/api/file/WoQ8bN3D?download?.mkv",
+                "55": "https://pixeldra.in/api/file/76tDEYqG?download?.mkv",
+                "56": "https://pixeldra.in/api/file/xjYjLQKC?download?.mkv"
             }
         },
         {
-        "id": "1552",
-        "IH": "https://ereviewwala.com/Poster/Series/H1/Based%20on%20a%20True%20Story%20Season%202.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V1/Based%20on%20a%20True%20Story%20Season%202.jpg",
-        "mn": "Based on a True Story Season 2",
-        "hf": "https://www.19552",
-        "lng": "Hindi+English",
-        "trailer": "pGOGRTidcEg",
-        "gn": "Comedy,Drama",
-        "cg": "webSeries",
-        "kn": "Based on a True Story",
-        "pn": "S02",
-        "eServer1": {
-            "1": "https://pub-1d59df8f66074dc7b740ec8ed861c65a.r2.dev/Based.on.a.True.Story.S02E01-8.Complete.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
+            "id": "1552",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Based%20on%20a%20True%20Story%20Season%202.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Based%20on%20a%20True%20Story%20Season%202.jpg",
+            "mn": "Based on a True Story Season 2",
+            "hf": "https://www.19552",
+            "lng": "Hindi+English",
+            "trailer": "pGOGRTidcEg",
+            "gn": "Comedy,Drama",
+            "cg": "webSeries",
+            "kn": "Based on a True Story",
+            "pn": "S02",
+            "eServer1": {
+                "1": "https://pub-1d59df8f66074dc7b740ec8ed861c65a.r2.dev/Based.on.a.True.Story.S02E01-8.Complete.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Based%20on%20a%20True%20Story%20S02E01%2019552%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/JyyKM0qwVqFZL7/Based_on_a_True_Story_S02E01_19552_1.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/6jkEEQsW?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Based%20on%20a%20True%20Story%20S02E01%2019552%201.mkv"
+        {
+            "id": "1550",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/ASAF%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/ASAF%20Season%201.jpg",
+            "mn": "ASAF Season 1",
+            "hf": "https://www.19550",
+            "lng": "Hindi+English",
+            "trailer": "VI0PTINzK2Q",
+            "gn": "Drama",
+            "cg": "webSeries",
+            "kn": "ASAF",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/g1SV9pp7?download?.mkv",
+                "2": "https://pixeldra.in/api/file/oQXb6q53?download?.mkv",
+                "3": "https://pixeldra.in/api/file/vB1S4Wth?download?.mkv",
+                "4": "https://pixeldra.in/api/file/aDmWyMRG?download?.mkv",
+                "5": "https://pixeldra.in/api/file/FePuGKio?download?.mkv",
+                "6": "https://pixeldra.in/api/file/ZpDqfm4W?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/ASAF%20S01E01%2019550%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/ASAF%20S01E02%2019550%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/ASAF%20S01E03%2019550%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/ASAF%20S01E04%2019550%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/ASAF%20S01E05%2019550%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/ASAF%20S01E06%2019550%206.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/MJYYoKKXjvimaLv/ASAF_S01E01_19550_1.mkv",
+                "2": "https://streamtape.site/v/AAymx7yMePhXp2d/ASAF_S01E02_19550_2.mkv",
+                "3": "https://streamtape.site/v/pr91Qwo03eHrKMZ/ASAF_S01E03_19550_3.mkv",
+                "4": "https://streamtape.site/v/Q17w2ZDP8zi0Lyl/ASAF_S01E04_19550_4.mkv",
+                "5": "https://streamtape.site/v/XgLPX1AQMPuDpbo/ASAF_S01E05_19550_5.mkv",
+                "6": "https://streamtape.site/v/P8BqVjlJVPtkDr/ASAF_S01E06_19550_6.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/g1SV9pp7?download?.mkv",
+                "2": "https://pixeldra.in/api/file/oQXb6q53?download?.mkv",
+                "3": "https://pixeldra.in/api/file/vB1S4Wth?download?.mkv",
+                "4": "https://pixeldra.in/api/file/aDmWyMRG?download?.mkv",
+                "5": "https://pixeldra.in/api/file/FePuGKio?download?.mkv",
+                "6": "https://pixeldra.in/api/file/ZpDqfm4W?download?.mkv"
+            }
         },
-        "eTape": {
-            "1": "https://streamtape.site/v/JyyKM0qwVqFZL7/Based_on_a_True_Story_S02E01_19552_1.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/6jkEEQsW?download?.mkv"
-        }
-    },
-    {
-        "id": "1550",
-        "IH": "https://ereviewwala.com/Poster/Series/H1/ASAF%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V1/ASAF%20Season%201.jpg",
-        "mn": "ASAF Season 1",
-        "hf": "https://www.19550",
-        "lng": "Hindi+English",
-        "trailer": "VI0PTINzK2Q",
-        "gn": "Drama",
-        "cg": "webSeries",
-        "kn": "ASAF",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pixeldra.in/api/file/g1SV9pp7?download?.mkv",
-            "2": "https://pixeldra.in/api/file/oQXb6q53?download?.mkv",
-            "3": "https://pixeldra.in/api/file/vB1S4Wth?download?.mkv",
-            "4": "https://pixeldra.in/api/file/aDmWyMRG?download?.mkv",
-            "5": "https://pixeldra.in/api/file/FePuGKio?download?.mkv",
-            "6": "https://pixeldra.in/api/file/ZpDqfm4W?download?.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/ASAF%20S01E01%2019550%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/ASAF%20S01E02%2019550%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/ASAF%20S01E03%2019550%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/ASAF%20S01E04%2019550%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/ASAF%20S01E05%2019550%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/ASAF%20S01E06%2019550%206.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/MJYYoKKXjvimaLv/ASAF_S01E01_19550_1.mkv",
-            "2": "https://streamtape.site/v/AAymx7yMePhXp2d/ASAF_S01E02_19550_2.mkv",
-            "3": "https://streamtape.site/v/pr91Qwo03eHrKMZ/ASAF_S01E03_19550_3.mkv",
-            "4": "https://streamtape.site/v/Q17w2ZDP8zi0Lyl/ASAF_S01E04_19550_4.mkv",
-            "5": "https://streamtape.site/v/XgLPX1AQMPuDpbo/ASAF_S01E05_19550_5.mkv",
-            "6": "https://streamtape.site/v/P8BqVjlJVPtkDr/ASAF_S01E06_19550_6.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/g1SV9pp7?download?.mkv",
-            "2": "https://pixeldra.in/api/file/oQXb6q53?download?.mkv",
-            "3": "https://pixeldra.in/api/file/vB1S4Wth?download?.mkv",
-            "4": "https://pixeldra.in/api/file/aDmWyMRG?download?.mkv",
-            "5": "https://pixeldra.in/api/file/FePuGKio?download?.mkv",
-            "6": "https://pixeldra.in/api/file/ZpDqfm4W?download?.mkv"
-        }
-    },
         {
             "id": "1483",
             "IH": "https://ereviewwala.com/Poster/Series/H1/From%20Season%203.jpg",
@@ -53276,7 +53231,7 @@
                 "7": "https://pub-e8bdb9ba4b5c426ea9c0b2bebef20f7c.r2.dev/From.S03E07.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv",
                 "8": "https://pixeldra.in/api/file/Lhr88zQF?download?.mkv",
                 "9": "https://pub-64d7a08dec014aa19e8da5f6f72232d4.r2.dev/FROM.S03E09.720p.WEB.DL.Hindi.5.1.English.5.1.ESub.x264.Vegamovies.is.mkv",
-                "10" : "https://pub-aa622f93e29b48c1bcf4d83882bf6498.r2.dev/From.S03E10.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
+                "10": "https://pub-aa622f93e29b48c1bcf4d83882bf6498.r2.dev/From.S03E10.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
             },
             "eServer2": {
                 "1": "http://srs.ringzstudio.online/lst/From%20S03E01%2019483%201.mkv",
@@ -53288,7 +53243,7 @@
                 "7": "http://srs.ringzstudio.online/lst/From%20S03E07%2019483%207.mkv",
                 "8": "http://srs.ringzstudio.online/lst/From%20S03E08%2019483%208.mkv",
                 "9": "http://srs.ringzstudio.online/lst/From%20S03E09%2019483%209.mkv",
-                "10" : "http://srs.ringzstudio.online/lst/From%20S03E10%2019483%2010.mkv"
+                "10": "http://srs.ringzstudio.online/lst/From%20S03E10%2019483%2010.mkv"
             },
             "eTape": {
                 "1": "https://streamtape.site/v/qKo18qjO1otzJ3J/From_S03E01_19483_1.mkv.mp4",
@@ -53300,7 +53255,7 @@
                 "7": "https://streamtape.site/v/O20AG2eYjGHZvYo/From_S03E07_19483_7.mkv",
                 "8": "https://streamtape.site/v/wadaBV9z4efJbq3/From_S03E08_19483_8.mkv",
                 "9": "https://streamtape.site/v/pzbGm67eloHrg2v/From_S03E09_19483_9.mkv",
-                "10" : "https://streamtape.site/v/AkqPJldXomcX87M/From_S03E10_19483_10.mkv"
+                "10": "https://streamtape.site/v/AkqPJldXomcX87M/From_S03E10_19483_10.mkv"
             },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/mwtzgnhv?download?.mkv",
@@ -53312,7 +53267,7 @@
                 "7": "https://pixeldra.in/api/file/hyYmvcgr?download?.mkv",
                 "8": "https://pixeldra.in/api/file/Lhr88zQF?download?.mkv",
                 "9": "https://pixeldra.in/api/file/xEVqRZT1?download?.mkv",
-                "10" : "https://pixeldra.in/api/file/TAS2c7An?download?.mkv"
+                "10": "https://pixeldra.in/api/file/TAS2c7An?download?.mkv"
             }
         },
         {
@@ -53333,11 +53288,11 @@
                 "3": "https://pixeldra.in/api/file/rzcttXuy?download?.mkv",
                 "4": "https://pixeldra.in/api/file/smxhAg2Z?download?.mkv",
                 "5": "https://pixeldra.in/api/file/qhfqPZiZ?download?.mkv",
-            "6": "https://pixeldra.in/api/file/ayP9kVdX?download?.mkv",
-            "7": "https://pixeldra.in/api/file/1EHjqVKU?download?.mkv",
-            "8": "https://pub-5ef1f22fbc9e49058cd7c44e714dcee0.r2.dev/Outer.Banks.S04E08.Family.Plot.720P.Hindi.English.Esubs.VegaMovies.is.mkv",
-            "9": "https://pixeldra.in/api/file/6tuuGECF?download?.mkv",
-            "10": "https://pixeldra.in/api/file/S4jjyTjv?download?.mkv"
+                "6": "https://pixeldra.in/api/file/ayP9kVdX?download?.mkv",
+                "7": "https://pixeldra.in/api/file/1EHjqVKU?download?.mkv",
+                "8": "https://pub-5ef1f22fbc9e49058cd7c44e714dcee0.r2.dev/Outer.Banks.S04E08.Family.Plot.720P.Hindi.English.Esubs.VegaMovies.is.mkv",
+                "9": "https://pixeldra.in/api/file/6tuuGECF?download?.mkv",
+                "10": "https://pixeldra.in/api/file/S4jjyTjv?download?.mkv"
             },
             "eServer2": {
                 "1": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E01%2019487%201.mkv",
@@ -53345,11 +53300,11 @@
                 "3": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E03%2019487%203.mkv",
                 "4": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E04%2019487%204.mkv",
                 "5": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E05%2019487%205.mkv",
-            "6": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E06%2019487%206.mkv",
-            "7": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E07%2019487%207.mkv",
-            "8": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E08%2019487%208.mkv",
-            "9": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E09%2019487%209.mkv",
-            "10": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E10%2019487%2010.mkv"
+                "6": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E06%2019487%206.mkv",
+                "7": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E07%2019487%207.mkv",
+                "8": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E08%2019487%208.mkv",
+                "9": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E09%2019487%209.mkv",
+                "10": "http://srs.ringzstudio.online/lst/Outer%20Banks%20S04E10%2019487%2010.mkv"
             },
             "eTape": {
                 "1": "https://streamtape.site/v/PwMykw2ABxc0z0e/Outer_Banks_S04E01_19487_1.mkv.mp4",
@@ -53357,11 +53312,11 @@
                 "3": "https://streamtape.site/v/bwK7g1p6v8Cday/Outer_Banks_S04E03_19487_3.mkv.mp4",
                 "4": "https://streamtape.site/v/x3MDZBjmq0Fk60L/Outer_Banks_S04E04_19487_4.mkv.mp4",
                 "5": "https://streamtape.site/v/ZVLyJ0ayKxFqx1y/Outer_Banks_S04E05_19487_5.mkv.mp4",
-            "6": "https://streamtape.site/v/1Pja0rX4eJidMd/Outer_Banks_S04E06_19487_6.mkv",
-            "7": "https://streamtape.site/v/v9aYk0Zom4cb02/Outer_Banks_S04E07_19487_7.mkv",
-            "8": "https://streamtape.site/v/Q0vy9qygqecGez/Outer_Banks_S04E08_19487_8.mkv",
-            "9": "https://streamtape.site/v/x2214bbJAVIkKPW/Outer_Banks_S04E09_19487_9.mkv",
-            "10": "https://streamtape.site/v/VGX2mo9ykrHKJGy/Outer_Banks_S04E10_19487_10.mkv"
+                "6": "https://streamtape.site/v/1Pja0rX4eJidMd/Outer_Banks_S04E06_19487_6.mkv",
+                "7": "https://streamtape.site/v/v9aYk0Zom4cb02/Outer_Banks_S04E07_19487_7.mkv",
+                "8": "https://streamtape.site/v/Q0vy9qygqecGez/Outer_Banks_S04E08_19487_8.mkv",
+                "9": "https://streamtape.site/v/x2214bbJAVIkKPW/Outer_Banks_S04E09_19487_9.mkv",
+                "10": "https://streamtape.site/v/VGX2mo9ykrHKJGy/Outer_Banks_S04E10_19487_10.mkv"
             },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/ubzUHQ3F?download?.mkv",
@@ -53369,250 +53324,250 @@
                 "3": "https://pixeldra.in/api/file/rzcttXuy?download?.mkv",
                 "4": "https://pixeldra.in/api/file/smxhAg2Z?download?.mkv",
                 "5": "https://pixeldra.in/api/file/qhfqPZiZ?download?.mkv",
-            "6": "https://pixeldra.in/api/file/ayP9kVdX?download?.mkv",
-            "7": "https://pixeldra.in/api/file/1EHjqVKU?download?.mkv",
-            "8": "https://pixeldra.in/api/file/BXBuwGiW?download",
-            "9": "https://pixeldra.in/api/file/6tuuGECF?download?.mkv",
-            "10": "https://pixeldra.in/api/file/S4jjyTjv?download?.mkv"
+                "6": "https://pixeldra.in/api/file/ayP9kVdX?download?.mkv",
+                "7": "https://pixeldra.in/api/file/1EHjqVKU?download?.mkv",
+                "8": "https://pixeldra.in/api/file/BXBuwGiW?download",
+                "9": "https://pixeldra.in/api/file/6tuuGECF?download?.mkv",
+                "10": "https://pixeldra.in/api/file/S4jjyTjv?download?.mkv"
             }
         },
         {
-        "id": "1561",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/Special%20Ops%20-%20Lioness%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/Special%20Ops%20-%20Lioness%20Season%201.jpg",
-        "mn": "Special Ops - Lioness Season 1",
-        "hf": "https://www.19561",
-        "lng": "English",
-        "trailer": "n8tqmnpNuNo",
-        "gn": "Spy,Action",
-        "cg": "webSeries",
-        "kn": "Special Ops - Lioness",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pixeldra.in/api/file/ExjKFJj8?download?.mkv",
-            "2": "https://pixeldra.in/api/file/jHSJQ63D?download?.mkv",
-            "3": "https://pixeldra.in/api/file/Btatkcnv?download?.mkv",
-            "4": "https://pub-c2a5c341fa4749e2a78af4ac4f78d463.r2.dev/Special.Ops.Lioness.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-Vegamovies.to.mkv",
-            "5": "https://pub-16f0622ba6c44b32a38e884cc55fd381.r2.dev/Special.Ops.Lioness.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-Vegamovies.to.mkv",
-            "6": "https://pixeldra.in/api/file/XxKSrZJC?download?.mkv",
-            "7": "https://pixeldra.in/api/file/iYDkpv2o?download?.mkv",
-            "8": "https://pixeldra.in/api/file/Fcs856nZ?download?.mkv"
+            "id": "1561",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/Special%20Ops%20-%20Lioness%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/Special%20Ops%20-%20Lioness%20Season%201.jpg",
+            "mn": "Special Ops - Lioness Season 1",
+            "hf": "https://www.19561",
+            "lng": "English",
+            "trailer": "n8tqmnpNuNo",
+            "gn": "Spy,Action",
+            "cg": "webSeries",
+            "kn": "Special Ops - Lioness",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/ExjKFJj8?download?.mkv",
+                "2": "https://pixeldra.in/api/file/jHSJQ63D?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Btatkcnv?download?.mkv",
+                "4": "https://pub-c2a5c341fa4749e2a78af4ac4f78d463.r2.dev/Special.Ops.Lioness.S01E04.720p.10bit.WEBRip.2CH.x265.HEVC-Vegamovies.to.mkv",
+                "5": "https://pub-16f0622ba6c44b32a38e884cc55fd381.r2.dev/Special.Ops.Lioness.S01E05.720p.10bit.WEBRip.2CH.x265.HEVC-Vegamovies.to.mkv",
+                "6": "https://pixeldra.in/api/file/XxKSrZJC?download?.mkv",
+                "7": "https://pixeldra.in/api/file/iYDkpv2o?download?.mkv",
+                "8": "https://pixeldra.in/api/file/Fcs856nZ?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E01%2019561%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E02%2019561%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E03%2019561%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E04%2019561%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E05%2019561%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E06%2019561%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E07%2019561%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E08%2019561%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/2K4rozwQwKSZ4pV/Special_Ops_-_Lioness_S01E01_19561_1.mkv",
+                "2": "https://streamtape.site/v/kz8pvgzYBBiYAg/Special_Ops_-_Lioness_S01E02_19561_2.mkv",
+                "3": "https://streamtape.site/v/3DbrWOrya6tdg6e/Special_Ops_-_Lioness_S01E03_19561_3.mkv",
+                "4": "https://streamtape.site/v/8X7mAjxRL2soAPP/Special_Ops_-_Lioness_S01E04_19561_4.mkv",
+                "5": "https://streamtape.site/v/Xr8erKKWm9fDMkl/Special_Ops_-_Lioness_S01E05_19561_5.mkv",
+                "6": "https://streamtape.site/v/r0MlOb7rbKueqx/Special_Ops_-_Lioness_S01E06_19561_6.mkv",
+                "7": "https://streamtape.site/v/r2DXDAvjDxsbjq2/Special_Ops_-_Lioness_S01E07_19561_7.mkv",
+                "8": "https://streamtape.site/v/ZKAMZlD7d1IokY/Special_Ops_-_Lioness_S01E08_19561_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/ExjKFJj8?download?.mkv",
+                "2": "https://pixeldra.in/api/file/jHSJQ63D?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Btatkcnv?download?.mkv",
+                "4": "https://pixeldra.in/api/file/83bHxrT3?download?.mkv",
+                "5": "https://pixeldra.in/api/file/tPn4xHer?download?.mkv",
+                "6": "https://pixeldra.in/api/file/XxKSrZJC?download?.mkv",
+                "7": "https://pixeldra.in/api/file/iYDkpv2o?download?.mkv",
+                "8": "https://pixeldra.in/api/file/Fcs856nZ?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E01%2019561%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E02%2019561%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E03%2019561%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E04%2019561%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E05%2019561%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E06%2019561%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E07%2019561%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S01E08%2019561%208.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/2K4rozwQwKSZ4pV/Special_Ops_-_Lioness_S01E01_19561_1.mkv",
-            "2": "https://streamtape.site/v/kz8pvgzYBBiYAg/Special_Ops_-_Lioness_S01E02_19561_2.mkv",
-            "3": "https://streamtape.site/v/3DbrWOrya6tdg6e/Special_Ops_-_Lioness_S01E03_19561_3.mkv",
-            "4": "https://streamtape.site/v/8X7mAjxRL2soAPP/Special_Ops_-_Lioness_S01E04_19561_4.mkv",
-            "5": "https://streamtape.site/v/Xr8erKKWm9fDMkl/Special_Ops_-_Lioness_S01E05_19561_5.mkv",
-            "6": "https://streamtape.site/v/r0MlOb7rbKueqx/Special_Ops_-_Lioness_S01E06_19561_6.mkv",
-            "7": "https://streamtape.site/v/r2DXDAvjDxsbjq2/Special_Ops_-_Lioness_S01E07_19561_7.mkv",
-            "8": "https://streamtape.site/v/ZKAMZlD7d1IokY/Special_Ops_-_Lioness_S01E08_19561_8.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/ExjKFJj8?download?.mkv",
-            "2": "https://pixeldra.in/api/file/jHSJQ63D?download?.mkv",
-            "3": "https://pixeldra.in/api/file/Btatkcnv?download?.mkv",
-            "4": "https://pixeldra.in/api/file/83bHxrT3?download?.mkv",
-            "5": "https://pixeldra.in/api/file/tPn4xHer?download?.mkv",
-            "6": "https://pixeldra.in/api/file/XxKSrZJC?download?.mkv",
-            "7": "https://pixeldra.in/api/file/iYDkpv2o?download?.mkv",
-            "8": "https://pixeldra.in/api/file/Fcs856nZ?download?.mkv"
-        }
-    },
         {
-        "id": "1556",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Later%20Daters%20Season%201.jpg",
-        "IV": "FALSE",
-        "mn": "The Later Daters Season 1",
-        "hf": "https://www.19556",
-        "lng": "Hindi+English",
-        "trailer": "kG61MW3z4mo",
-        "gn": "RealityTv,Romance",
-        "cg": "webSeries",
-        "kn": "The Later Daters",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pixeldra.in/api/file/ahCGitz4?download?.mkv",
-            "2": "https://pixeldra.in/api/file/7j97CgqM?download?.mkv",
-            "3": "https://pixeldra.in/api/file/SzgBvx73?download?.mkv",
-            "4": "https://pixeldra.in/api/file/B1aH2fC2?download?.mkv",
-            "5": "https://pixeldra.in/api/file/B9hvobsF?download?.mkv",
-            "6": "https://pixeldra.in/api/file/ELNQaPMJ?download?.mkv",
-            "7": "https://pixeldra.in/api/file/9AEdN1yE?download?.mkv",
-            "8": "https://pixeldra.in/api/file/C1qLoANb?download?.mkv"
+            "id": "1556",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Later%20Daters%20Season%201.jpg",
+            "IV": "FALSE",
+            "mn": "The Later Daters Season 1",
+            "hf": "https://www.19556",
+            "lng": "Hindi+English",
+            "trailer": "kG61MW3z4mo",
+            "gn": "RealityTv,Romance",
+            "cg": "webSeries",
+            "kn": "The Later Daters",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/ahCGitz4?download?.mkv",
+                "2": "https://pixeldra.in/api/file/7j97CgqM?download?.mkv",
+                "3": "https://pixeldra.in/api/file/SzgBvx73?download?.mkv",
+                "4": "https://pixeldra.in/api/file/B1aH2fC2?download?.mkv",
+                "5": "https://pixeldra.in/api/file/B9hvobsF?download?.mkv",
+                "6": "https://pixeldra.in/api/file/ELNQaPMJ?download?.mkv",
+                "7": "https://pixeldra.in/api/file/9AEdN1yE?download?.mkv",
+                "8": "https://pixeldra.in/api/file/C1qLoANb?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E01%2019556%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E02%2019556%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E03%2019556%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E04%2019556%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E05%2019556%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E06%2019556%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E07%2019556%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E08%2019556%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/y7eYmX8WXkU1MbZ/The_Later_Daters_S01E01_19556_1.mkv",
+                "2": "https://streamtape.site/v/aY9OGzK0OjCMxZ/The_Later_Daters_S01E02_19556_2.mkv",
+                "3": "https://streamtape.site/v/beA61VAez8sPgd1/The_Later_Daters_S01E03_19556_3.mkv",
+                "4": "https://streamtape.site/v/86mzJabXMgho9W9/The_Later_Daters_S01E04_19556_4.mkv",
+                "5": "https://streamtape.site/v/y7vKrjxq79s1G8R/The_Later_Daters_S01E05_19556_5.mkv",
+                "6": "https://streamtape.site/v/W1DPqGzzdyCbaM2/The_Later_Daters_S01E06_19556_6.mkv",
+                "7": "https://streamtape.site/v/ygAbJGDL3vU1L1x/The_Later_Daters_S01E07_19556_7.mkv",
+                "8": "https://streamtape.site/v/KgKOGG0oKyH09ZG/The_Later_Daters_S01E08_19556_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/ahCGitz4?download?.mkv",
+                "2": "https://pixeldra.in/api/file/7j97CgqM?download?.mkv",
+                "3": "https://pixeldra.in/api/file/SzgBvx73?download?.mkv",
+                "4": "https://pixeldra.in/api/file/B1aH2fC2?download?.mkv",
+                "5": "https://pixeldra.in/api/file/B9hvobsF?download?.mkv",
+                "6": "https://pixeldra.in/api/file/ELNQaPMJ?download?.mkv",
+                "7": "https://pixeldra.in/api/file/9AEdN1yE?download?.mkv",
+                "8": "https://pixeldra.in/api/file/C1qLoANb?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E01%2019556%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E02%2019556%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E03%2019556%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E04%2019556%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E05%2019556%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E06%2019556%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E07%2019556%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/The%20Later%20Daters%20S01E08%2019556%208.mkv"
+        {
+            "id": "1553",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Helicopter%20Heist%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Helicopter%20Heist%20Season%201.jpg",
+            "mn": "The Helicopter Heist Season 1",
+            "hf": "https://www.19553",
+            "lng": "Hindi+English",
+            "trailer": "yeClDGZ1sE0",
+            "gn": "Heist,Crime",
+            "cg": "webSeries",
+            "kn": "The Helicopter Heist",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-917253ddfd534aa0902b10d403207bef.r2.dev/The.Helicopter.Heist.S01E01.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "2": "https://pub-192b271d845a45a9b30f0fcdf7af2edd.r2.dev/The.Helicopter.Heist.S01E02.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "3": "https://pub-3cc944ecccb24581b32e6e0eace00f4d.r2.dev/The.Helicopter.Heist.S01E03.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "4": "https://pub-85e1d0c7dc7f4c0d8dcb3c5939611bf7.r2.dev/The.Helicopter.Heist.S01E04.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "5": "https://pub-9043dd0a9e7c403ab68b0a21240fbc45.r2.dev/The.Helicopter.Heist.S01E05.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "6": "https://pub-f4859e87a60744d5976a52e874f482ba.r2.dev/The.Helicopter.Heist.S01E06.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "7": "https://pub-1b8f4bf87bc542b5bb5f6a9d76ea52cd.r2.dev/The.Helicopter.Heist.S01E07.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
+                "8": "https://pub-a30952d4950f419aac11b2bd69a5ae91.r2.dev/The.Helicopter.Heist.S01E08.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E01%2019553%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E02%2019553%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E03%2019553%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E04%2019553%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E05%2019553%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E06%2019553%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E07%2019553%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E08%2019553%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/YygJv0Ovlaiv4q0/The_Helicopter_Heist_S01E01_19553_1.mkv",
+                "2": "https://streamtape.site/v/JYmpWezmWGCjve9/The_Helicopter_Heist_S01E02_19553_2.mkv",
+                "3": "https://streamtape.site/v/26XvqepG2qTKWg/The_Helicopter_Heist_S01E03_19553_3.mkv",
+                "4": "https://streamtape.site/v/waJrgVaPBzSJ7oP/The_Helicopter_Heist_S01E04_19553_4.mkv",
+                "5": "https://streamtape.site/v/mkvZwWPZd2iGyD/The_Helicopter_Heist_S01E05_19553_5.mkv",
+                "6": "https://streamtape.site/v/JoOgDPlM34UGLX/The_Helicopter_Heist_S01E06_19553_6.mkv",
+                "7": "https://streamtape.site/v/3BZXP9QjLkSrJD/The_Helicopter_Heist_S01E07_19553_7.mkv",
+                "8": "https://streamtape.site/v/BJ6xXZoj7pFG8g/The_Helicopter_Heist_S01E08_19553_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/2cfKpwpM?download?.mkv",
+                "2": "https://pixeldra.in/api/file/qJbTEgCA?download?.mkv",
+                "3": "https://pixeldra.in/api/file/M18p5MVn?download?.mkv",
+                "4": "https://pixeldra.in/api/file/NUGVLjcH?download?.mkv",
+                "5": "https://pixeldra.in/api/file/mPTYPKfa?download?.mkv",
+                "6": "https://pixeldra.in/api/file/5kCWJDui?download?.mkv",
+                "7": "https://pixeldra.in/api/file/2wTy6k8b?download?.mkv",
+                "8": "https://pixeldra.in/api/file/McJgmj9H?download?.mkv"
+            }
         },
-        "eTape": {
-            "1": "https://streamtape.site/v/y7eYmX8WXkU1MbZ/The_Later_Daters_S01E01_19556_1.mkv",
-            "2": "https://streamtape.site/v/aY9OGzK0OjCMxZ/The_Later_Daters_S01E02_19556_2.mkv",
-            "3": "https://streamtape.site/v/beA61VAez8sPgd1/The_Later_Daters_S01E03_19556_3.mkv",
-            "4": "https://streamtape.site/v/86mzJabXMgho9W9/The_Later_Daters_S01E04_19556_4.mkv",
-            "5": "https://streamtape.site/v/y7vKrjxq79s1G8R/The_Later_Daters_S01E05_19556_5.mkv",
-            "6": "https://streamtape.site/v/W1DPqGzzdyCbaM2/The_Later_Daters_S01E06_19556_6.mkv",
-            "7": "https://streamtape.site/v/ygAbJGDL3vU1L1x/The_Later_Daters_S01E07_19556_7.mkv",
-            "8": "https://streamtape.site/v/KgKOGG0oKyH09ZG/The_Later_Daters_S01E08_19556_8.mkv"
+        {
+            "id": "1551",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Madness%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Madness%20Season%201.jpg",
+            "mn": "The Madness Season 1",
+            "hf": "https://www.19551",
+            "lng": "Hindi+English",
+            "trailer": "O4uieR3ImBs",
+            "gn": "Crime,Thriller",
+            "cg": "webSeries",
+            "kn": "The Madness",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-e09c7d7027ab4d8abdbc677fefd6edc5.r2.dev/The.Madness.S01E01.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+                "2": "https://pub-e95e38abb578427db8a53e83782b6210.r2.dev/The.Madness.S01E02.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+                "3": "https://pub-392f358d4cbe4e3ea27ab09562aa699d.r2.dev/The.Madness.S01E03.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+                "4": "https://pixeldra.in/api/file/6thnhEyx?download?.mkv",
+                "5": "https://pixeldra.in/api/file/t3XW7fTj?download?.mkv",
+                "6": "https://pixeldra.in/api/file/XoKb9mmS?download?.mkv",
+                "7": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Madness.S01E07.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+                "8": "https://pixeldra.in/api/file/TZa171rS?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E01%2019551%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E02%2019551%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E03%2019551%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E04%2019551%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E05%2019551%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E06%2019551%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E07%2019551%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E08%2019551%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/Kk3BloD922F0ZpD/The_Madness_S01E01_19551_1.mkv",
+                "2": "https://streamtape.site/v/A02j3DVYMoFX7JY/The_Madness_S01E02_19551_2.mkv",
+                "3": "https://streamtape.site/v/0JYXrB0pedCZVA/The_Madness_S01E03_19551_3.mkv",
+                "4": "https://streamtape.site/v/zM2P8rJ3PGIy8q/The_Madness_S01E04_19551_4.mkv",
+                "5": "https://streamtape.site/v/AZByOL0VPxhXdlL/The_Madness_S01E05_19551_5.mkv",
+                "6": "https://streamtape.site/v/ar3A2oAmmvFb2q/The_Madness_S01E06_19551_6.mkv",
+                "7": "https://streamtape.site/v/GXgqGjXbDZFlX8/The_Madness_S01E07_19551_7.mkv",
+                "8": "https://streamtape.site/v/xPwqel4gkZUlL6/The_Madness_S01E08_19551_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/wjxkTbWR?download?.mkv",
+                "2": "https://pixeldra.in/api/file/57oA4C7Z?download?.mkv",
+                "3": "https://pixeldra.in/api/file/HYZYGf1p?download?.mkv",
+                "4": "https://pixeldra.in/api/file/6thnhEyx?download?.mkv",
+                "5": "https://pixeldra.in/api/file/t3XW7fTj?download?.mkv",
+                "6": "https://pixeldra.in/api/file/XoKb9mmS?download?.mkv",
+                "7": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Madness.S01E07.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
+                "8": "https://pixeldra.in/api/file/TZa171rS?download?.mkv"
+            }
         },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/ahCGitz4?download?.mkv",
-            "2": "https://pixeldra.in/api/file/7j97CgqM?download?.mkv",
-            "3": "https://pixeldra.in/api/file/SzgBvx73?download?.mkv",
-            "4": "https://pixeldra.in/api/file/B1aH2fC2?download?.mkv",
-            "5": "https://pixeldra.in/api/file/B9hvobsF?download?.mkv",
-            "6": "https://pixeldra.in/api/file/ELNQaPMJ?download?.mkv",
-            "7": "https://pixeldra.in/api/file/9AEdN1yE?download?.mkv",
-            "8": "https://pixeldra.in/api/file/C1qLoANb?download?.mkv"
-        }
-    },
-         {
-        "id": "1553",
-        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Helicopter%20Heist%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Helicopter%20Heist%20Season%201.jpg",
-        "mn": "The Helicopter Heist Season 1",
-        "hf": "https://www.19553",
-        "lng": "Hindi+English",
-        "trailer": "yeClDGZ1sE0",
-        "gn": "Heist,Crime",
-        "cg": "webSeries",
-        "kn": "The Helicopter Heist",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-917253ddfd534aa0902b10d403207bef.r2.dev/The.Helicopter.Heist.S01E01.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "2": "https://pub-192b271d845a45a9b30f0fcdf7af2edd.r2.dev/The.Helicopter.Heist.S01E02.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "3": "https://pub-3cc944ecccb24581b32e6e0eace00f4d.r2.dev/The.Helicopter.Heist.S01E03.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "4": "https://pub-85e1d0c7dc7f4c0d8dcb3c5939611bf7.r2.dev/The.Helicopter.Heist.S01E04.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "5": "https://pub-9043dd0a9e7c403ab68b0a21240fbc45.r2.dev/The.Helicopter.Heist.S01E05.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "6": "https://pub-f4859e87a60744d5976a52e874f482ba.r2.dev/The.Helicopter.Heist.S01E06.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "7": "https://pub-1b8f4bf87bc542b5bb5f6a9d76ea52cd.r2.dev/The.Helicopter.Heist.S01E07.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv",
-            "8": "https://pub-a30952d4950f419aac11b2bd69a5ae91.r2.dev/The.Helicopter.Heist.S01E08.720p.HIN-ENG.x264.ESub.Vegamovies.is.mkv"
+        {
+            "id": "1557",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Magic%20of%20Shiri%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Magic%20of%20Shiri%20Season%201.jpg",
+            "mn": "The Magic of Shiri Season 1",
+            "hf": "https://www.19557",
+            "lng": "Hindi",
+            "trailer": "uRDjC7rItI4",
+            "gn": "Fantasy,Drama",
+            "cg": "webSeries",
+            "kn": "The Magic of Shiri",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-f2a54ef4e8dd4395beaad3dcfbf5c3eb.r2.dev/The.Magic.of.Shiri.S01.720p.HEVC.WeB-DL.Hindi.x265.ESub.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/The%20Magic%20of%20Shiri%20S01E01%2019557%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/VXKwZaMM4AHKvBx/The_Magic_of_Shiri_S01E01_19557_1.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/X6EBD1fU?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E01%2019553%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E02%2019553%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E03%2019553%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E04%2019553%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E05%2019553%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E06%2019553%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E07%2019553%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/The%20Helicopter%20Heist%20S01E08%2019553%208.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/YygJv0Ovlaiv4q0/The_Helicopter_Heist_S01E01_19553_1.mkv",
-            "2": "https://streamtape.site/v/JYmpWezmWGCjve9/The_Helicopter_Heist_S01E02_19553_2.mkv",
-            "3": "https://streamtape.site/v/26XvqepG2qTKWg/The_Helicopter_Heist_S01E03_19553_3.mkv",
-            "4": "https://streamtape.site/v/waJrgVaPBzSJ7oP/The_Helicopter_Heist_S01E04_19553_4.mkv",
-            "5": "https://streamtape.site/v/mkvZwWPZd2iGyD/The_Helicopter_Heist_S01E05_19553_5.mkv",
-            "6": "https://streamtape.site/v/JoOgDPlM34UGLX/The_Helicopter_Heist_S01E06_19553_6.mkv",
-            "7": "https://streamtape.site/v/3BZXP9QjLkSrJD/The_Helicopter_Heist_S01E07_19553_7.mkv",
-            "8": "https://streamtape.site/v/BJ6xXZoj7pFG8g/The_Helicopter_Heist_S01E08_19553_8.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/2cfKpwpM?download?.mkv",
-            "2": "https://pixeldra.in/api/file/qJbTEgCA?download?.mkv",
-            "3": "https://pixeldra.in/api/file/M18p5MVn?download?.mkv",
-            "4": "https://pixeldra.in/api/file/NUGVLjcH?download?.mkv",
-            "5": "https://pixeldra.in/api/file/mPTYPKfa?download?.mkv",
-            "6": "https://pixeldra.in/api/file/5kCWJDui?download?.mkv",
-            "7": "https://pixeldra.in/api/file/2wTy6k8b?download?.mkv",
-            "8": "https://pixeldra.in/api/file/McJgmj9H?download?.mkv"
-        }
-    },
-    {
-        "id": "1551",
-        "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Madness%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Madness%20Season%201.jpg",
-        "mn": "The Madness Season 1",
-        "hf": "https://www.19551",
-        "lng": "Hindi+English",
-        "trailer": "O4uieR3ImBs",
-        "gn": "Crime,Thriller",
-        "cg": "webSeries",
-        "kn": "The Madness",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-e09c7d7027ab4d8abdbc677fefd6edc5.r2.dev/The.Madness.S01E01.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
-            "2": "https://pub-e95e38abb578427db8a53e83782b6210.r2.dev/The.Madness.S01E02.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
-            "3": "https://pub-392f358d4cbe4e3ea27ab09562aa699d.r2.dev/The.Madness.S01E03.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
-            "4": "https://pixeldra.in/api/file/6thnhEyx?download?.mkv",
-            "5": "https://pixeldra.in/api/file/t3XW7fTj?download?.mkv",
-            "6": "https://pixeldra.in/api/file/XoKb9mmS?download?.mkv",
-            "7": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Madness.S01E07.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
-            "8": "https://pixeldra.in/api/file/TZa171rS?download?.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E01%2019551%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E02%2019551%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E03%2019551%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E04%2019551%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E05%2019551%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E06%2019551%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E07%2019551%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/The%20Madness%20S01E08%2019551%208.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/Kk3BloD922F0ZpD/The_Madness_S01E01_19551_1.mkv",
-            "2": "https://streamtape.site/v/A02j3DVYMoFX7JY/The_Madness_S01E02_19551_2.mkv",
-            "3": "https://streamtape.site/v/0JYXrB0pedCZVA/The_Madness_S01E03_19551_3.mkv",
-            "4": "https://streamtape.site/v/zM2P8rJ3PGIy8q/The_Madness_S01E04_19551_4.mkv",
-            "5": "https://streamtape.site/v/AZByOL0VPxhXdlL/The_Madness_S01E05_19551_5.mkv",
-            "6": "https://streamtape.site/v/ar3A2oAmmvFb2q/The_Madness_S01E06_19551_6.mkv",
-            "7": "https://streamtape.site/v/GXgqGjXbDZFlX8/The_Madness_S01E07_19551_7.mkv",
-            "8": "https://streamtape.site/v/xPwqel4gkZUlL6/The_Madness_S01E08_19551_8.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/wjxkTbWR?download?.mkv",
-            "2": "https://pixeldra.in/api/file/57oA4C7Z?download?.mkv",
-            "3": "https://pixeldra.in/api/file/HYZYGf1p?download?.mkv",
-            "4": "https://pixeldra.in/api/file/6thnhEyx?download?.mkv",
-            "5": "https://pixeldra.in/api/file/t3XW7fTj?download?.mkv",
-            "6": "https://pixeldra.in/api/file/XoKb9mmS?download?.mkv",
-            "7": "https://pub-e039d5a750c2421dbae86aa11f943aae.r2.dev/The.Madness.S01E07.720p.WEB-DL.x264.DD+.5.1.-.192kbps.Hin.+.Eng.ESub.Vegamovies.is.mkv",
-            "8": "https://pixeldra.in/api/file/TZa171rS?download?.mkv"
-        }
-    },
-    {
-        "id": "1557",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Magic%20of%20Shiri%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Magic%20of%20Shiri%20Season%201.jpg",
-        "mn": "The Magic of Shiri Season 1",
-        "hf": "https://www.19557",
-        "lng": "Hindi",
-        "trailer": "uRDjC7rItI4",
-        "gn": "Fantasy,Drama",
-        "cg": "webSeries",
-        "kn": "The Magic of Shiri",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-f2a54ef4e8dd4395beaad3dcfbf5c3eb.r2.dev/The.Magic.of.Shiri.S01.720p.HEVC.WeB-DL.Hindi.x265.ESub.Vegamovies.is.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/The%20Magic%20of%20Shiri%20S01E01%2019557%201.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/VXKwZaMM4AHKvBx/The_Magic_of_Shiri_S01E01_19557_1.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/X6EBD1fU?download?.mkv"
-        }
-    },
         {
             "id": "1549",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Yeh%20Kaali%20Kaali%20Ankhein%20Season%202.jpg",
@@ -53659,103 +53614,103 @@
             }
         },
         {
-        "id": "1555",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Trunk%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Trunk%20Season%201.jpg",
-        "mn": "The Trunk Season 1",
-        "hf": "https://www.19555",
-        "lng": "Hindi+Eng+Kor",
-        "trailer": "ZAOUUUBzCYA",
-        "gn": "Romance,Mystery",
-        "cg": "webSeries",
-        "kn": "The Trunk",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-982030f32d5f4d26b57debb4e69cfca7.r2.dev/The.Trunk.S01E01.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "2": "https://pub-e09bc5dff43c4e4bbf35c0dbee67a8da.r2.dev/The.Trunk.S01E02.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "3": "https://pub-7e4215565fba4b60908eb73fe114e569.r2.dev/The.Trunk.S01E03.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "4": "https://pub-ec7878095c8b424795fd0f2eea764c79.r2.dev/The.Trunk.S01E04.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "5": "https://pub-ea2eb20edc2e49c69282fdbc6b28bc7d.r2.dev/The.Trunk.S01E05.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "6": "https://pub-9a2be19ce3124426a455abf9d743b5cd.r2.dev/The.Trunk.S01E06.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "7": "https://pub-d1b2d63ee88943f1bc0fae19eed28861.r2.dev/The.Trunk.S01E07.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
-            "8": "https://pixeldra.in/api/file/MgevWxgL?download?.mkv"
+            "id": "1555",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Trunk%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Trunk%20Season%201.jpg",
+            "mn": "The Trunk Season 1",
+            "hf": "https://www.19555",
+            "lng": "Hindi+Eng+Kor",
+            "trailer": "ZAOUUUBzCYA",
+            "gn": "Romance,Mystery",
+            "cg": "webSeries",
+            "kn": "The Trunk",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-982030f32d5f4d26b57debb4e69cfca7.r2.dev/The.Trunk.S01E01.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "2": "https://pub-e09bc5dff43c4e4bbf35c0dbee67a8da.r2.dev/The.Trunk.S01E02.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "3": "https://pub-7e4215565fba4b60908eb73fe114e569.r2.dev/The.Trunk.S01E03.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "4": "https://pub-ec7878095c8b424795fd0f2eea764c79.r2.dev/The.Trunk.S01E04.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "5": "https://pub-ea2eb20edc2e49c69282fdbc6b28bc7d.r2.dev/The.Trunk.S01E05.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "6": "https://pub-9a2be19ce3124426a455abf9d743b5cd.r2.dev/The.Trunk.S01E06.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "7": "https://pub-d1b2d63ee88943f1bc0fae19eed28861.r2.dev/The.Trunk.S01E07.720p.HIN-ENG.KOR.x264.ESub.Vegamovies.is.mkv",
+                "8": "https://pixeldra.in/api/file/MgevWxgL?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E01%2019555%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E02%2019555%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E03%2019555%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E04%2019555%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E05%2019555%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E06%2019555%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E07%2019555%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E08%2019555%208.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/O27AaRrVamIZPrX/The_Trunk_S01E01_19555_1.mkv",
+                "2": "https://streamtape.site/v/lwJgw9yJj9sBM0/The_Trunk_S01E02_19555_2.mkv",
+                "3": "https://streamtape.site/v/qJq7YXBllgszpKl/The_Trunk_S01E03_19555_3.mkv",
+                "4": "https://streamtape.site/v/2Bl2Bpp0a3uZOxP/The_Trunk_S01E04_19555_4.mkv",
+                "5": "https://streamtape.site/v/qKdlZDQpk9HzB8Q/The_Trunk_S01E05_19555_5.mkv",
+                "6": "https://streamtape.site/v/q9r0lmB912HzbVK/The_Trunk_S01E06_19555_6.mkv",
+                "7": "https://streamtape.site/v/8KVbRxWbaPClOm/The_Trunk_S01E07_19555_7.mkv",
+                "8": "https://streamtape.site/v/XrkBWeZmbxCD6Xo/The_Trunk_S01E08_19555_8.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/my3BXdXP?download?.mkv",
+                "2": "https://pixeldra.in/api/file/jW9C4hCA?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Ec61s7tP?download?.mkv",
+                "4": "https://pixeldra.in/api/file/SPdP7tJt?download?.mkv",
+                "5": "https://pixeldra.in/api/file/mrpRq7GE?download?.mkv",
+                "6": "https://pixeldra.in/api/file/9shQiQwC?download?.mkv",
+                "7": "https://pixeldra.in/api/file/wuavgU6S?download?.mkv",
+                "8": "https://pixeldra.in/api/file/MgevWxgL?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E01%2019555%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E02%2019555%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E03%2019555%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E04%2019555%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E05%2019555%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E06%2019555%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E07%2019555%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/The%20Trunk%20S01E08%2019555%208.mkv"
+        {
+            "id": "1554",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/Senna%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/Senna%20Season%201.jpg",
+            "mn": "Senna Season 1",
+            "hf": "https://www.19554",
+            "lng": "Hindi+English+Portu",
+            "trailer": "s_gYue_c3TM",
+            "gn": "Sports,Drama",
+            "cg": "webSeries",
+            "kn": "Senna",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-3c9909572e1543a3a2a2d77305e96cc8.r2.dev/Senna.S01E01.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv",
+                "2": "https://pixeldra.in/api/file/iki7dA6M?download?.mkv",
+                "3": "https://pixeldra.in/api/file/jzRFwhp3?download?.mkv",
+                "4": "https://pub-08093af1a0544fa0b96ea06240d9f35a.r2.dev/Senna.S01E04.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv",
+                "5": "https://pub-dc4d40e38157473283b546044caa5bea.r2.dev/Senna.S01E05.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv",
+                "6": "https://pub-a81c17f0330c4f569f6f59e3052e75b3.r2.dev/Senna.S01E06.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Senna%20S01E01%2019554%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Senna%20S01E02%2019554%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Senna%20S01E03%2019554%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Senna%20S01E04%2019554%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Senna%20S01E05%2019554%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Senna%20S01E06%2019554%206.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/M6QXkerbajfmm72/Senna_S01E01_19554_1.mkv",
+                "2": "https://streamtape.site/v/6WwPAl86YGu91bx/Senna_S01E02_19554_2.mkv",
+                "3": "https://streamtape.site/v/AkDrV1q9XycXPyX/Senna_S01E03_19554_3.mkv",
+                "4": "https://streamtape.site/v/VWl647mzp9CKdJP/Senna_S01E04_19554_4.mkv.mp4",
+                "5": "https://streamtape.site/v/1DRMrQYBbBIeeKx/Senna_S01E05_19554_5.mkv.mp4",
+                "6": "https://streamtape.site/v/bed7Bq9kQ3uP9qM/Senna_S01E06_19554_6.mkv.mp4"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/q34HRmeB?download?.mkv",
+                "2": "https://pixeldra.in/api/file/iki7dA6M?download?.mkv",
+                "3": "https://pixeldra.in/api/file/jzRFwhp3?download?.mkv",
+                "4": "https://pixeldra.in/api/file/m7okQfEd?download?.mkv",
+                "5": "https://pixeldra.in/api/file/9Pvfoj4s?download?.mkv",
+                "6": "https://pixeldra.in/api/file/752CYmy2?download?.mkv"
+            }
         },
-        "eTape": {
-            "1": "https://streamtape.site/v/O27AaRrVamIZPrX/The_Trunk_S01E01_19555_1.mkv",
-            "2": "https://streamtape.site/v/lwJgw9yJj9sBM0/The_Trunk_S01E02_19555_2.mkv",
-            "3": "https://streamtape.site/v/qJq7YXBllgszpKl/The_Trunk_S01E03_19555_3.mkv",
-            "4": "https://streamtape.site/v/2Bl2Bpp0a3uZOxP/The_Trunk_S01E04_19555_4.mkv",
-            "5": "https://streamtape.site/v/qKdlZDQpk9HzB8Q/The_Trunk_S01E05_19555_5.mkv",
-            "6": "https://streamtape.site/v/q9r0lmB912HzbVK/The_Trunk_S01E06_19555_6.mkv",
-            "7": "https://streamtape.site/v/8KVbRxWbaPClOm/The_Trunk_S01E07_19555_7.mkv",
-            "8": "https://streamtape.site/v/XrkBWeZmbxCD6Xo/The_Trunk_S01E08_19555_8.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/my3BXdXP?download?.mkv",
-            "2": "https://pixeldra.in/api/file/jW9C4hCA?download?.mkv",
-            "3": "https://pixeldra.in/api/file/Ec61s7tP?download?.mkv",
-            "4": "https://pixeldra.in/api/file/SPdP7tJt?download?.mkv",
-            "5": "https://pixeldra.in/api/file/mrpRq7GE?download?.mkv",
-            "6": "https://pixeldra.in/api/file/9shQiQwC?download?.mkv",
-            "7": "https://pixeldra.in/api/file/wuavgU6S?download?.mkv",
-            "8": "https://pixeldra.in/api/file/MgevWxgL?download?.mkv"
-        }
-    },
-    {
-        "id": "1554",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/Senna%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/Senna%20Season%201.jpg",
-        "mn": "Senna Season 1",
-        "hf": "https://www.19554",
-        "lng": "Hindi+English+Portu",
-        "trailer": "s_gYue_c3TM",
-        "gn": "Sports,Drama",
-        "cg": "webSeries",
-        "kn": "Senna",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-3c9909572e1543a3a2a2d77305e96cc8.r2.dev/Senna.S01E01.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv",
-            "2": "https://pixeldra.in/api/file/iki7dA6M?download?.mkv",
-            "3": "https://pixeldra.in/api/file/jzRFwhp3?download?.mkv",
-            "4": "https://pub-08093af1a0544fa0b96ea06240d9f35a.r2.dev/Senna.S01E04.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv",
-            "5": "https://pub-dc4d40e38157473283b546044caa5bea.r2.dev/Senna.S01E05.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv",
-            "6": "https://pub-a81c17f0330c4f569f6f59e3052e75b3.r2.dev/Senna.S01E06.720p.WEB-DL.HIN-ENG.x264.Esubs.Vegamovies.is.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Senna%20S01E01%2019554%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Senna%20S01E02%2019554%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Senna%20S01E03%2019554%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Senna%20S01E04%2019554%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Senna%20S01E05%2019554%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Senna%20S01E06%2019554%206.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/M6QXkerbajfmm72/Senna_S01E01_19554_1.mkv",
-            "2": "https://streamtape.site/v/6WwPAl86YGu91bx/Senna_S01E02_19554_2.mkv",
-            "3": "https://streamtape.site/v/AkDrV1q9XycXPyX/Senna_S01E03_19554_3.mkv",
-            "4": "https://streamtape.site/v/VWl647mzp9CKdJP/Senna_S01E04_19554_4.mkv.mp4",
-            "5": "https://streamtape.site/v/1DRMrQYBbBIeeKx/Senna_S01E05_19554_5.mkv.mp4",
-            "6": "https://streamtape.site/v/bed7Bq9kQ3uP9qM/Senna_S01E06_19554_6.mkv.mp4"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/q34HRmeB?download?.mkv",
-            "2": "https://pixeldra.in/api/file/iki7dA6M?download?.mkv",
-            "3": "https://pixeldra.in/api/file/jzRFwhp3?download?.mkv",
-            "4": "https://pixeldra.in/api/file/m7okQfEd?download?.mkv",
-            "5": "https://pixeldra.in/api/file/9Pvfoj4s?download?.mkv",
-            "6": "https://pixeldra.in/api/file/752CYmy2?download?.mkv"
-        }
-    },
         {
             "id": "1469",
             "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Great%20Indian%20Kapil%20Show%20Season%202.jpg",
@@ -53822,176 +53777,176 @@
             }
         },
         {
-        "id": "1558",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/Parachute%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/Parachute%20Season%201.jpg",
-        "mn": "Parachute Season 1",
-        "hf": "https://www.19558",
-        "lng": "Hindi",
-        "trailer": "XXdDYCg1L1M",
-        "gn": "Drama",
-        "cg": "webSeries",
-        "kn": "Parachute",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-afa703c2e4a44edbbddb03387d6d4c1d.r2.dev/Parachute.S01.E01.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
-            "2": "https://pub-291bf788991a466f8e860287086e0429.r2.dev/Parachute.S01.E02.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
-            "3": "https://pub-275943856cea44fa9ad2f3764ae36483.r2.dev/Parachute.S01.E03.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
-            "4": "https://pub-5a5a477637f246738a7f79dbc8b4e1a4.r2.dev/Parachute.S01.E04.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
-            "5": "https://pixeldra.in/api/file/RJA17JmD?download?.mkv"
+            "id": "1558",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/Parachute%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/Parachute%20Season%201.jpg",
+            "mn": "Parachute Season 1",
+            "hf": "https://www.19558",
+            "lng": "Hindi",
+            "trailer": "XXdDYCg1L1M",
+            "gn": "Drama",
+            "cg": "webSeries",
+            "kn": "Parachute",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-afa703c2e4a44edbbddb03387d6d4c1d.r2.dev/Parachute.S01.E01.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "2": "https://pub-291bf788991a466f8e860287086e0429.r2.dev/Parachute.S01.E02.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "3": "https://pub-275943856cea44fa9ad2f3764ae36483.r2.dev/Parachute.S01.E03.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "4": "https://pub-5a5a477637f246738a7f79dbc8b4e1a4.r2.dev/Parachute.S01.E04.WEB-DL.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "5": "https://pixeldra.in/api/file/RJA17JmD?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Parachute%20S01E01%2019558%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Parachute%20S01E02%2019558%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Parachute%20S01E03%2019558%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Parachute%20S01E04%2019558%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Parachute%20S01E05%2019558%205.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/1R9pP3pgLMSr9z/Parachute_S01E01_19558_1.mkv",
+                "2": "https://streamtape.site/v/xlRQjOJraGukP6K/Parachute_S01E02_19558_2.mkv",
+                "3": "https://streamtape.site/v/W9gMzO9BLjhb2g7/Parachute_S01E03_19558_3.mkv",
+                "4": "https://streamtape.site/v/RQGdDDb4kQtdPPO/Parachute_S01E04_19558_4.mkv",
+                "5": "https://streamtape.site/v/Qy9aVqzdmjs0M9m/Parachute_S01E05_19558_5.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/FGYWsL9C?download?.mkv",
+                "2": "https://pixeldra.in/api/file/SwkSSQRv?download?.mkv",
+                "3": "https://pixeldra.in/api/file/oGBmc8zU?download?.mkv",
+                "4": "https://pixeldra.in/api/file/m32CQag8?download?.mkv",
+                "5": "https://pixeldra.in/api/file/RJA17JmD?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Parachute%20S01E01%2019558%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Parachute%20S01E02%2019558%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Parachute%20S01E03%2019558%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Parachute%20S01E04%2019558%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Parachute%20S01E05%2019558%205.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/1R9pP3pgLMSr9z/Parachute_S01E01_19558_1.mkv",
-            "2": "https://streamtape.site/v/xlRQjOJraGukP6K/Parachute_S01E02_19558_2.mkv",
-            "3": "https://streamtape.site/v/W9gMzO9BLjhb2g7/Parachute_S01E03_19558_3.mkv",
-            "4": "https://streamtape.site/v/RQGdDDb4kQtdPPO/Parachute_S01E04_19558_4.mkv",
-            "5": "https://streamtape.site/v/Qy9aVqzdmjs0M9m/Parachute_S01E05_19558_5.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/FGYWsL9C?download?.mkv",
-            "2": "https://pixeldra.in/api/file/SwkSSQRv?download?.mkv",
-            "3": "https://pixeldra.in/api/file/oGBmc8zU?download?.mkv",
-            "4": "https://pixeldra.in/api/file/m32CQag8?download?.mkv",
-            "5": "https://pixeldra.in/api/file/RJA17JmD?download?.mkv"
-        }
-    },
-    {
-        "id": "1564",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/Superman%20and%20Lois%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/Superman%20and%20Lois%20Season%201.jpg",
-        "mn": "Superman and Lois Season 1",
-        "hf": "https://www.195644",
-        "lng": "English",
-        "trailer": "SJPJPUpNvDw",
-        "gn": "Action,Adventure",
-        "cg": "webSeries",
-        "kn": "Superman and Lois",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-7dc0a331cc34420dad2e36dcc5826f6b.r2.dev/Superman.and.Lois.S01E01.720p.English.Esubs.Vegamovies.NL.mkv",
-            "2": "https://pub-f7c98f29e757450b8160306f7153b876.r2.dev/Superman.and.Lois.S01E02.720p.English.Esubs.Vegamovies.NL.mkv",
-            "3": "https://pub-dd3d9ddbbf9b4bdf8e67fd8a9d08c219.r2.dev/Superman.and.Lois.S01E03.720p.English.Esubs.Vegamovies.NL.mkv",
-            "4": "https://pub-9ff5706042f049f29334a945da094663.r2.dev/Superman.and.Lois.S01E04.720p.English.Esubs.Vegamovies.NL.mkv",
-            "5": "https://pub-402b2206d8be4e7a886de5d121bb8e3f.r2.dev/Superman.and.Lois.S01E05.720p.English.Esubs.Vegamovies.NL.mkv",
-            "6": "https://pub-61b740e254c3418db7ceb2669556e4c9.r2.dev/Superman.and.Lois.S01E06.720p.English.Esubs.Vegamovies.NL.mkv",
-            "7": "https://pub-bb4f78cee9044e4899180bbc788f7f56.r2.dev/Superman.and.Lois.S01E07.720p.English.Esubs.Vegamovies.NL.mkv",
-            "8": "https://pub-635200797002418984ed1cc4349dcb4b.r2.dev/Superman.and.Lois.S01E08.720p.English.Esubs.Vegamovies.NL.mkv",
-            "9": "https://pub-b365ce67f1904a779b18c3f685ed4afb.r2.dev/Superman.and.Lois.S01E09.720p.English.Esubs.Vegamovies.NL.mkv",
-            "10": "https://pub-622d71a971c44d3c98841de56059a57c.r2.dev/Superman.and.Lois.S01E10.720p.English.Esubs.Vegamovies.NL.mkv",
-            "11": "https://pub-ede501ee67e441d787beeb52478c1993.r2.dev/Superman.and.Lois.S01E11.720p.English.Esubs.Vegamovies.NL.mkv",
-            "12": "https://pub-653b080363f14d8fa0ff89e2edf601d0.r2.dev/Superman.and.Lois.S01E12.720p.English.Esubs.Vegamovies.NL.mkv",
-            "13": "https://pub-479c7072cc7a43669082a17c43bc816d.r2.dev/Superman.and.Lois.S01E13.720p.English.Esubs.Vegamovies.NL.mkv",
-            "14": "https://pub-f956a8b3581343088a3dc1461b152e6c.r2.dev/Superman.and.Lois.S01E14.720p.English.Esubs.Vegamovies.NL.mkv",
-            "15": "https://pub-f4b0c347ac624bd890bfbe01ffdcbab5.r2.dev/Superman.and.Lois.S01E15.720p.English.Esubs.Vegamovies.NL.mkv"
-        },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E01%20195644%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E02%20195644%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E03%20195644%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E04%20195644%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E05%20195644%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E06%20195644%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E07%20195644%207.mkv",
-            "8": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E08%20195644%208.mkv",
-            "9": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E09%20195644%209.mkv",
-            "10": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E10%20195644%2010.mkv",
-            "11": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E11%20195644%2011.mkv",
-            "12": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E12%20195644%2012.mkv",
-            "13": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E13%20195644%2013.mkv",
-            "14": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E14%20195644%2014.mkv",
-            "15": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E15%20195644%2015.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/AP7KggrlAZCXA3K/Superman_and_Lois_S01E01_195644_1.mkv",
-            "2": "https://streamtape.site/v/3AOew6gK86SDRw/Superman_and_Lois_S01E02_195644_2.mkv",
-            "3": "https://streamtape.site/v/J9AROmLDdbf6w1/Superman_and_Lois_S01E03_195644_3.mkv",
-            "4": "https://streamtape.site/v/PkV04BJ4z2fbv3/Superman_and_Lois_S01E04_195644_4.mkv",
-            "5": "https://streamtape.site/v/rekDlVja69HylZ/Superman_and_Lois_S01E05_195644_5.mkv",
-            "6": "https://streamtape.site/v/pk3Mzx9pP6frd8q/Superman_and_Lois_S01E06_195644_6.mkv",
-            "7": "https://streamtape.site/v/78mYRDqkO3IxVM/Superman_and_Lois_S01E07_195644_7.mkv",
-            "8": "https://streamtape.site/v/DeqvZkPq6ZFwrb/Superman_and_Lois_S01E08_195644_8.mkv",
-            "9": "https://streamtape.site/v/Xry2lv9Gj1HDl9x/Superman_and_Lois_S01E09_195644_9.mkv",
-            "10": "https://streamtape.site/v/179jLYrXxWSezyz/Superman_and_Lois_S01E10_195644_10.mkv",
-            "11": "https://streamtape.site/v/xo2Z1wwZBjTkJY3/Superman_and_Lois_S01E11_195644_11.mkv",
-            "12": "https://streamtape.site/v/oZ2wy7oq1dF3oR/Superman_and_Lois_S01E12_195644_12.mkv",
-            "13": "https://streamtape.site/v/XPRMdx9dWgFDqda/Superman_and_Lois_S01E13_195644_13.mkv",
-            "14": "https://streamtape.site/v/r0qmRZpmkWtbb17/Superman_and_Lois_S01E14_195644_14.mkv",
-            "15": "https://streamtape.site/v/rJylWd6qzotbwa8/Superman_and_Lois_S01E15_195644_15.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/JTd9tUFo?download?.mkv",
-            "2": "https://pixeldra.in/api/file/uVN9pB5P?download?.mkv",
-            "3": "https://pixeldra.in/api/file/W2WqrMqg?download?.mkv",
-            "4": "https://pixeldra.in/api/file/teFpeBJF?download?.mkv",
-            "5": "https://pixeldra.in/api/file/VRrFx4Gz?download?.mkv",
-            "6": "https://pixeldra.in/api/file/baxZdv3r?download?.mkv",
-            "7": "https://pixeldra.in/api/file/f2QNgnE2?download?.mkv",
-            "8": "https://pixeldra.in/api/file/VVq7pYuj?download?.mkv",
-            "9": "https://pixeldra.in/api/file/YFLFKBH1?download?.mkv",
-            "10": "https://pixeldra.in/api/file/B15CfZhi?download?.mkv",
-            "11": "https://pixeldra.in/api/file/9oY9kdwB?download?.mkv",
-            "12": "https://pixeldra.in/api/file/3ur4r1ta?download?.mkv",
-            "13": "https://pixeldra.in/api/file/rp42Zm2y?download?.mkv",
-            "14": "https://pixeldra.in/api/file/P9cnvojt?download?.mkv",
-            "15": "https://pixeldra.in/api/file/aySg3sKK?download?.mkv"
-        }
-    },
         {
-        "id": "1562",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/Special%20Ops%20-%20Lioness%20Season%202.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/Special%20Ops%20-%20Lioness%20Season%202.jpg",
-        "mn": "Special Ops - Lioness Season 2",
-        "hf": "https://www.19562",
-        "lng": "English",
-        "trailer": "Kc1Basl-pMU",
-        "gn": "Spy,Action",
-        "cg": "webSeries",
-        "kn": "Special Ops - Lioness",
-        "pn": "S02",
-        "eServer1": {
-            "1": "https://pub-9a9a31b24412439295895ca9b3c2e850.r2.dev/Lioness.S02E01.Beware.the.Old.Soldier.720p..WEB-DL.x264.400MB-Vegamovies.is.mkv",
-            "2": "https://pub-b2cf8838e264495d853aa631ca55ad16.r2.dev/Lioness.S02E02.I.Love.My.Country.720p.WEB-DL.x264.400MB-Vegamovies.is.mkv",
-            "3": "https://pub-78d6794171f54bb595a9aeffcfd5cde5.r2.dev/Lioness.2023.S02E03.1080p.WEB.H264-VegaMovies.is.mkv",
-            "4": "https://pub-fbaca0d22b8140bd9f8a09c10c392194.r2.dev/Special.Ops.Lioness.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-Vegamovies.is.mkv",
-            "5": "https://pub-3b666f654b6b44adbf827bbd23c0ef0f.r2.dev/Special.Ops.Lioness.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC.Vegamovies.is.mkv",
-            "6": "https://pub-47ff99795628407a8594da0c98bffed8.r2.dev/Lioness.S02E06.2831.720p.WEB-DL.x264.Vegamovies.is.mkv",
-            "7": "https://pub-7a5fbbedabbb4886841ef448b4387133.r2.dev/Lioness.2023.S02E07.720p.WEB.x264-Vegamovies.is.mkv"
+            "id": "1564",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/Superman%20and%20Lois%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/Superman%20and%20Lois%20Season%201.jpg",
+            "mn": "Superman and Lois Season 1",
+            "hf": "https://www.195644",
+            "lng": "English",
+            "trailer": "SJPJPUpNvDw",
+            "gn": "Action,Adventure",
+            "cg": "webSeries",
+            "kn": "Superman and Lois",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-7dc0a331cc34420dad2e36dcc5826f6b.r2.dev/Superman.and.Lois.S01E01.720p.English.Esubs.Vegamovies.NL.mkv",
+                "2": "https://pub-f7c98f29e757450b8160306f7153b876.r2.dev/Superman.and.Lois.S01E02.720p.English.Esubs.Vegamovies.NL.mkv",
+                "3": "https://pub-dd3d9ddbbf9b4bdf8e67fd8a9d08c219.r2.dev/Superman.and.Lois.S01E03.720p.English.Esubs.Vegamovies.NL.mkv",
+                "4": "https://pub-9ff5706042f049f29334a945da094663.r2.dev/Superman.and.Lois.S01E04.720p.English.Esubs.Vegamovies.NL.mkv",
+                "5": "https://pub-402b2206d8be4e7a886de5d121bb8e3f.r2.dev/Superman.and.Lois.S01E05.720p.English.Esubs.Vegamovies.NL.mkv",
+                "6": "https://pub-61b740e254c3418db7ceb2669556e4c9.r2.dev/Superman.and.Lois.S01E06.720p.English.Esubs.Vegamovies.NL.mkv",
+                "7": "https://pub-bb4f78cee9044e4899180bbc788f7f56.r2.dev/Superman.and.Lois.S01E07.720p.English.Esubs.Vegamovies.NL.mkv",
+                "8": "https://pub-635200797002418984ed1cc4349dcb4b.r2.dev/Superman.and.Lois.S01E08.720p.English.Esubs.Vegamovies.NL.mkv",
+                "9": "https://pub-b365ce67f1904a779b18c3f685ed4afb.r2.dev/Superman.and.Lois.S01E09.720p.English.Esubs.Vegamovies.NL.mkv",
+                "10": "https://pub-622d71a971c44d3c98841de56059a57c.r2.dev/Superman.and.Lois.S01E10.720p.English.Esubs.Vegamovies.NL.mkv",
+                "11": "https://pub-ede501ee67e441d787beeb52478c1993.r2.dev/Superman.and.Lois.S01E11.720p.English.Esubs.Vegamovies.NL.mkv",
+                "12": "https://pub-653b080363f14d8fa0ff89e2edf601d0.r2.dev/Superman.and.Lois.S01E12.720p.English.Esubs.Vegamovies.NL.mkv",
+                "13": "https://pub-479c7072cc7a43669082a17c43bc816d.r2.dev/Superman.and.Lois.S01E13.720p.English.Esubs.Vegamovies.NL.mkv",
+                "14": "https://pub-f956a8b3581343088a3dc1461b152e6c.r2.dev/Superman.and.Lois.S01E14.720p.English.Esubs.Vegamovies.NL.mkv",
+                "15": "https://pub-f4b0c347ac624bd890bfbe01ffdcbab5.r2.dev/Superman.and.Lois.S01E15.720p.English.Esubs.Vegamovies.NL.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E01%20195644%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E02%20195644%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E03%20195644%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E04%20195644%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E05%20195644%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E06%20195644%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E07%20195644%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E08%20195644%208.mkv",
+                "9": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E09%20195644%209.mkv",
+                "10": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E10%20195644%2010.mkv",
+                "11": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E11%20195644%2011.mkv",
+                "12": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E12%20195644%2012.mkv",
+                "13": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E13%20195644%2013.mkv",
+                "14": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E14%20195644%2014.mkv",
+                "15": "http://srs.aapkipooja.com/lst/Superman%20and%20Lois%20S01E15%20195644%2015.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/AP7KggrlAZCXA3K/Superman_and_Lois_S01E01_195644_1.mkv",
+                "2": "https://streamtape.site/v/3AOew6gK86SDRw/Superman_and_Lois_S01E02_195644_2.mkv",
+                "3": "https://streamtape.site/v/J9AROmLDdbf6w1/Superman_and_Lois_S01E03_195644_3.mkv",
+                "4": "https://streamtape.site/v/PkV04BJ4z2fbv3/Superman_and_Lois_S01E04_195644_4.mkv",
+                "5": "https://streamtape.site/v/rekDlVja69HylZ/Superman_and_Lois_S01E05_195644_5.mkv",
+                "6": "https://streamtape.site/v/pk3Mzx9pP6frd8q/Superman_and_Lois_S01E06_195644_6.mkv",
+                "7": "https://streamtape.site/v/78mYRDqkO3IxVM/Superman_and_Lois_S01E07_195644_7.mkv",
+                "8": "https://streamtape.site/v/DeqvZkPq6ZFwrb/Superman_and_Lois_S01E08_195644_8.mkv",
+                "9": "https://streamtape.site/v/Xry2lv9Gj1HDl9x/Superman_and_Lois_S01E09_195644_9.mkv",
+                "10": "https://streamtape.site/v/179jLYrXxWSezyz/Superman_and_Lois_S01E10_195644_10.mkv",
+                "11": "https://streamtape.site/v/xo2Z1wwZBjTkJY3/Superman_and_Lois_S01E11_195644_11.mkv",
+                "12": "https://streamtape.site/v/oZ2wy7oq1dF3oR/Superman_and_Lois_S01E12_195644_12.mkv",
+                "13": "https://streamtape.site/v/XPRMdx9dWgFDqda/Superman_and_Lois_S01E13_195644_13.mkv",
+                "14": "https://streamtape.site/v/r0qmRZpmkWtbb17/Superman_and_Lois_S01E14_195644_14.mkv",
+                "15": "https://streamtape.site/v/rJylWd6qzotbwa8/Superman_and_Lois_S01E15_195644_15.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/JTd9tUFo?download?.mkv",
+                "2": "https://pixeldra.in/api/file/uVN9pB5P?download?.mkv",
+                "3": "https://pixeldra.in/api/file/W2WqrMqg?download?.mkv",
+                "4": "https://pixeldra.in/api/file/teFpeBJF?download?.mkv",
+                "5": "https://pixeldra.in/api/file/VRrFx4Gz?download?.mkv",
+                "6": "https://pixeldra.in/api/file/baxZdv3r?download?.mkv",
+                "7": "https://pixeldra.in/api/file/f2QNgnE2?download?.mkv",
+                "8": "https://pixeldra.in/api/file/VVq7pYuj?download?.mkv",
+                "9": "https://pixeldra.in/api/file/YFLFKBH1?download?.mkv",
+                "10": "https://pixeldra.in/api/file/B15CfZhi?download?.mkv",
+                "11": "https://pixeldra.in/api/file/9oY9kdwB?download?.mkv",
+                "12": "https://pixeldra.in/api/file/3ur4r1ta?download?.mkv",
+                "13": "https://pixeldra.in/api/file/rp42Zm2y?download?.mkv",
+                "14": "https://pixeldra.in/api/file/P9cnvojt?download?.mkv",
+                "15": "https://pixeldra.in/api/file/aySg3sKK?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E01%2019562%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E02%2019562%202.mkv",
-            "3": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E03%2019562%203.mkv",
-            "4": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E04%2019562%204.mkv",
-            "5": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E05%2019562%205.mkv",
-            "6": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E06%2019562%206.mkv",
-            "7": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E07%2019562%207.mkv"
+        {
+            "id": "1562",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/Special%20Ops%20-%20Lioness%20Season%202.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/Special%20Ops%20-%20Lioness%20Season%202.jpg",
+            "mn": "Special Ops - Lioness Season 2",
+            "hf": "https://www.19562",
+            "lng": "English",
+            "trailer": "Kc1Basl-pMU",
+            "gn": "Spy,Action",
+            "cg": "webSeries",
+            "kn": "Special Ops - Lioness",
+            "pn": "S02",
+            "eServer1": {
+                "1": "https://pub-9a9a31b24412439295895ca9b3c2e850.r2.dev/Lioness.S02E01.Beware.the.Old.Soldier.720p..WEB-DL.x264.400MB-Vegamovies.is.mkv",
+                "2": "https://pub-b2cf8838e264495d853aa631ca55ad16.r2.dev/Lioness.S02E02.I.Love.My.Country.720p.WEB-DL.x264.400MB-Vegamovies.is.mkv",
+                "3": "https://pub-78d6794171f54bb595a9aeffcfd5cde5.r2.dev/Lioness.2023.S02E03.1080p.WEB.H264-VegaMovies.is.mkv",
+                "4": "https://pub-fbaca0d22b8140bd9f8a09c10c392194.r2.dev/Special.Ops.Lioness.S02E04.720p.10bit.WEBRip.2CH.x265.HEVC-Vegamovies.is.mkv",
+                "5": "https://pub-3b666f654b6b44adbf827bbd23c0ef0f.r2.dev/Special.Ops.Lioness.S02E05.720p.10bit.WEBRip.2CH.x265.HEVC.Vegamovies.is.mkv",
+                "6": "https://pub-47ff99795628407a8594da0c98bffed8.r2.dev/Lioness.S02E06.2831.720p.WEB-DL.x264.Vegamovies.is.mkv",
+                "7": "https://pub-7a5fbbedabbb4886841ef448b4387133.r2.dev/Lioness.2023.S02E07.720p.WEB.x264-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E01%2019562%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E02%2019562%202.mkv",
+                "3": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E03%2019562%203.mkv",
+                "4": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E04%2019562%204.mkv",
+                "5": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E05%2019562%205.mkv",
+                "6": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E06%2019562%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Special%20Ops%20-%20Lioness%20S02E07%2019562%207.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/2W7V2zRlOYcZ3yz/Special_Ops_-_Lioness_S02E01_19562_1.mkv",
+                "2": "https://streamtape.site/v/K4Y7Zq3dWzt0x09/Special_Ops_-_Lioness_S02E02_19562_2.mkv",
+                "3": "https://streamtape.site/v/ggl7DQjqJVTqM1e/Special_Ops_-_Lioness_S02E03_19562_3.mkv",
+                "4": "https://streamtape.site/v/G9Y3qO1vAKI1gBM/Special_Ops_-_Lioness_S02E04_19562_4.mkv",
+                "5": "https://streamtape.site/v/LDwP30gpOQhRKzY/Special_Ops_-_Lioness_S02E05_19562_5.mkv",
+                "6": "https://streamtape.site/v/OVBaAvm2P9u7P3/Special_Ops_-_Lioness_S02E06_19562_6.mkv",
+                "7": "https://streamtape.site/v/OYJZZrPBeaiZrWp/Special_Ops_-_Lioness_S02E07_19562_7.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/R1Swe97i?download?.mkv",
+                "2": "https://pixeldra.in/api/file/LiBwfvev?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Hjtpcrot?download?.mkv",
+                "4": "https://pixeldra.in/api/file/VrEd7hQu?download?.mkv",
+                "5": "https://pixeldra.in/api/file/JKjH4R1j?download?.mkv",
+                "6": "https://pixeldra.in/api/file/boJwGfTA?download?.mkv",
+                "7": "https://pixeldra.in/api/file/T9KkzooZ?download?.mkv"
+            }
         },
-        "eTape": {
-            "1": "https://streamtape.site/v/2W7V2zRlOYcZ3yz/Special_Ops_-_Lioness_S02E01_19562_1.mkv",
-            "2": "https://streamtape.site/v/K4Y7Zq3dWzt0x09/Special_Ops_-_Lioness_S02E02_19562_2.mkv",
-            "3": "https://streamtape.site/v/ggl7DQjqJVTqM1e/Special_Ops_-_Lioness_S02E03_19562_3.mkv",
-            "4": "https://streamtape.site/v/G9Y3qO1vAKI1gBM/Special_Ops_-_Lioness_S02E04_19562_4.mkv",
-            "5": "https://streamtape.site/v/LDwP30gpOQhRKzY/Special_Ops_-_Lioness_S02E05_19562_5.mkv",
-            "6": "https://streamtape.site/v/OVBaAvm2P9u7P3/Special_Ops_-_Lioness_S02E06_19562_6.mkv",
-            "7": "https://streamtape.site/v/OYJZZrPBeaiZrWp/Special_Ops_-_Lioness_S02E07_19562_7.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/R1Swe97i?download?.mkv",
-            "2": "https://pixeldra.in/api/file/LiBwfvev?download?.mkv",
-            "3": "https://pixeldra.in/api/file/Hjtpcrot?download?.mkv",
-            "4": "https://pixeldra.in/api/file/VrEd7hQu?download?.mkv",
-            "5": "https://pixeldra.in/api/file/JKjH4R1j?download?.mkv",
-            "6": "https://pixeldra.in/api/file/boJwGfTA?download?.mkv",
-            "7": "https://pixeldra.in/api/file/T9KkzooZ?download?.mkv"
-        }
-    },
         {
             "id": "1559",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Heartbeats%20-%20Pyaar%20aur%20Armaan%20Season%201.jpg",
@@ -54100,34 +54055,34 @@
             }
         },
         {
-        "id": "1563",
-        "IH": "https://ereviewwala.com/Poster/Series/H2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Series/V2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
-        "mn": "Star Wars - Skeleton Crew Season 1",
-        "hf": "https://www.19563",
-        "lng": "Hindi+English",
-        "trailer": "f19gfOMZTtg",
-        "gn": "Action,Sci-Fi",
-        "cg": "webSeries",
-        "kn": "Star Wars - Skeleton Crew",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-9409a3433494412c83d75491d81d64f7.r2.dev/Star.Wars.Skeleton.Crew.S01.E01.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
-            "2": "https://pub-be33d17e669540ce9e60ccae8f1136ae.r2.dev/Star.Wars.Skeleton.Crew.S01.E02.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv"
+            "id": "1563",
+            "IH": "https://ereviewwala.com/Poster/Series/H2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
+            "mn": "Star Wars - Skeleton Crew Season 1",
+            "hf": "https://www.19563",
+            "lng": "Hindi+English",
+            "trailer": "f19gfOMZTtg",
+            "gn": "Action,Sci-Fi",
+            "cg": "webSeries",
+            "kn": "Star Wars - Skeleton Crew",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-9409a3433494412c83d75491d81d64f7.r2.dev/Star.Wars.Skeleton.Crew.S01.E01.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+                "2": "https://pub-be33d17e669540ce9e60ccae8f1136ae.r2.dev/Star.Wars.Skeleton.Crew.S01.E02.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E01%2019563%201.mkv",
+                "2": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E02%2019563%202.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/opyLaG8PbKSJQq4/Star_Wars_-_Skeleton_Crew_S01E01_19563_1.mkv",
+                "2": "https://streamtape.site/v/dRXj24VwdyI9Q1/Star_Wars_-_Skeleton_Crew_S01E02_19563_2.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/2QfUd8ec?download?.mkv",
+                "2": "https://pixeldra.in/api/file/X5CH8Mg9?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E01%2019563%201.mkv",
-            "2": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E02%2019563%202.mkv"
-        },
-        "eTape": {
-            "1": "https://streamtape.site/v/opyLaG8PbKSJQq4/Star_Wars_-_Skeleton_Crew_S01E01_19563_1.mkv",
-            "2": "https://streamtape.site/v/dRXj24VwdyI9Q1/Star_Wars_-_Skeleton_Crew_S01E02_19563_2.mkv"
-        },
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/2QfUd8ec?download?.mkv",
-            "2": "https://pixeldra.in/api/file/X5CH8Mg9?download?.mkv"
-        }
-    },
         {
             "id": "1548",
             "IH": "https://ereviewwala.com/Poster/Series/H1/Thukra%20ke%20mera%20pyaar%20Season%201.jpg",
@@ -54184,6 +54139,75 @@
             },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/K1asFdbH?download?.mkv"
+            }
+        },
+        {
+            "id": "1450",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Tanaav%20Season%202.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Tanaav%20Season%202.jpg",
+            "mn": "Tanaav Season 2",
+            "hf": "https://www.19450",
+            "lng": "Hindi",
+            "trailer": "crweML3EMiA",
+            "gn": "Action,Thriller",
+            "cg": "webSeries",
+            "kn": "Tanaav",
+            "pn": "S02",
+            "eServer1": {
+                "1": "https://pub-1ba07ee04d9c47c3ab724dec8ca4e33d.r2.dev/Tanaav.S02E01.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+                "2": "https://pub-6f0718b750d54f8a9de574cea5eb71bf.r2.dev/Tanaav.S02E02.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+                "3": "https://pub-5ac141efe80448d1932f4040e7c640e2.r2.dev/Tanaav.S02E03.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+                "4": "https://pub-ade875874f0045bda1ed2969b9d672f9.r2.dev/Tanaav.S02E04.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+                "5": "https://pub-7d2f7463d3ac4fc68c2109ccc0b2e839.r2.dev/Tanaav.S02E05.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+                "6": "https://pub-33e1cdc4922a410f8a0e97229b429a95.r2.dev/Tanaav.S02E06.720p.Hindi.WEB-DL.5.1.ESub.x264.Vegamovies.to.mkv",
+                "7": "https://pub-16f7e5cfae3d4283809a453eaefc0c5a.r2.dev/Tanaav.S02.E07.WebRip.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "8": "https://pub-2c458be5bf0f48e590c2969cac8aaf12.r2.dev/Tanaav.S02.E08.WebRip.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "9": "https://pub-191acff8ef7146899008f06a6595068c.r2.dev/Tanaav.S02.E09.WebRip.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "10": "https://pub-24633b1977e146749badabe3c3f5c117.r2.dev/Tanaav.S02.E10.WebRip.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "11": "https://pub-bbfca47213b8400eb295b97edf1266b3.r2.dev/Tanaav.S02.E11.WebRip.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv",
+                "12": "https://pub-d8c2c696ff844cc6afea20be4546d4c8.r2.dev/Tanaav.S02.E12.WebRip.720p.Hindi.AAC.5.1.x264.ESub.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.ringzstudio.online/lst/Tanaav%20S02E01%2019450%201.mkv",
+                "2": "http://srs.ringzstudio.online/lst/Tanaav%20S02E02%2019450%202.mkv",
+                "3": "http://srs.ringzstudio.online/lst/Tanaav%20S02E03%2019450%203.mkv",
+                "4": "http://srs.ringzstudio.online/lst/Tanaav%20S02E04%2019450%204.mkv",
+                "5": "http://srs.ringzstudio.online/lst/Tanaav%20S02E05%2019450%205.mkv",
+                "6": "http://srs.ringzstudio.online/lst/Tanaav%20S02E06%2019450%206.mkv",
+                "7": "http://srs.aapkipooja.com/lst/Tanaav%20S02E07%2019450%207.mkv",
+                "8": "http://srs.aapkipooja.com/lst/Tanaav%20S02E08%2019450%208.mkv",
+                "9": "http://srs.aapkipooja.com/lst/Tanaav%20S02E09%2019450%209.mkv",
+                "10": "http://srs.aapkipooja.com/lst/Tanaav%20S02E10%2019450%2010.mkv",
+                "11": "http://srs.aapkipooja.com/lst/Tanaav%20S02E11%2019450%2011.mkv",
+                "12": "http://srs.aapkipooja.com/lst/Tanaav%20S02E12%2019450%2012.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/PD6a686GxjURmB/Tanaav_S02E01_19450_1.mkv.mp4",
+                "2": "https://streamtape.site/v/7dBDA42ObDsAjby/Tanaav_S02E02_19450_2.mkv",
+                "3": "https://streamtape.site/v/wVbZDdQLwptJmZp/Tanaav_S02E03_19450_3.mkv.mp4",
+                "4": "https://streamtape.site/v/Z2gxOrVqebUq6vz/Tanaav_S02E04_19450_4.mkv.mp4",
+                "5": "https://streamtape.site/v/RmWP08Dw4MCXpV/Tanaav_S02E05_19450_5.mkv.mp4",
+                "6": "https://streamtape.site/v/DXzK1XGDzehk7rz/Tanaav_S02E06_19450_6.mkv.mp4",
+                "7": "https://streamtape.site/v/ZDGBoRrrbqFqJ3z/Tanaav_S02E07_19450_7.mkv",
+                "8": "https://streamtape.site/v/BzjBKXDMRwIKpO/Tanaav_S02E08_19450_8.mkv",
+                "9": "https://streamtape.site/v/6BXRwgZzW4cpyP/Tanaav_S02E09_19450_9.mkv",
+                "10": "https://streamtape.site/v/MYqbj0O6xKhmKdP/Tanaav_S02E10_19450_10.mkv",
+                "11": "https://streamtape.site/v/ZVxLv419KzsqVr9/Tanaav_S02E11_19450_11.mkv",
+                "12": "https://streamtape.site/v/bvXaza2eJKUPPDz/Tanaav_S02E12_19450_12.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/9cJJFccM?download?.mkv",
+                "2": "https://pixeldra.in/api/file/zjZPf1iP?download?.mkv",
+                "3": "https://pixeldra.in/api/file/Gv9EKsmF?download?.mkv",
+                "4": "https://pixeldra.in/api/file/tbtMtj2d?download?.mkv",
+                "5": "https://pixeldra.in/api/file/PJ72o6tq?download?.mkv",
+                "6": "https://pixeldra.in/api/file/rhW7u27B?download?.mkv",
+                "7": "https://pixeldra.in/api/file/Am6pY3Jx?download?.mkv",
+                "8": "https://pixeldra.in/api/file/dZVxGSM6?download?.mkv",
+                "9": "https://pixeldra.in/api/file/EGGqkExH?download?.mkv",
+                "10": "https://pixeldra.in/api/file/P93ARECK?download?.mkv",
+                "11": "https://pixeldra.in/api/file/7oZZoBej?download?.mkv",
+                "12": "https://pixeldra.in/api/file/roB4oVNT?download?.mkv"
             }
         }
     ]
