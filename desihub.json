@@ -2,6 +2,33 @@
     "webSeriesDataList": [
     
         {
+            "id": "702",
+            "IH": "https://ereviewwala.com/Poster/Adult/H1/Ek%20Baar%20Aur%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V1/Ek%20Baar%20Aur%20Season%201.jpg",
+            "mn": "Ek Baar Aur Season 1",
+            "hf": "https://www.702",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "h8RKZ_GIk9k",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Ek Baar Aur",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-b1cdc534d0c0460a92cd9c12ee879736.r2.dev/Ek.Baar.Aur.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-66c5cb11c0044aca80996565f29db296.r2.dev/Ek.Baar.Aur.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Ek%20Baar%20Aur%20S01E01%20702%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Ek%20Baar%20Aur%20S01E02%20702%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pub-b1cdc534d0c0460a92cd9c12ee879736.r2.dev/Ek.Baar.Aur.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pixeldra.in/api/file/LkZqcbGm?download?.mkv"
+            }
+        },
+        {
             "id": "706",
             "IH": "https://ereviewwala.com/Poster/Adult/H2/Dil%20To%20Baccha%20Hai%20Season%201.jpg",
             "IV": "https://ereviewwala.com/Poster/Adult/V2/Dil%20To%20Baccha%20Hai%20Season%201.jpg",
@@ -109,30 +136,6 @@
             "3": "https://pixeldra.in/api/file/mxUX6fhT?download?.mkv"
         }
     },
-        {
-            "id": "702",
-            "IH": "https://ereviewwala.com/Poster/Adult/H1/Ek%20Baar%20Aur%20Season%201.jpg",
-            "IV": "https://ereviewwala.com/Poster/Adult/V1/Ek%20Baar%20Aur%20Season%201.jpg",
-            "mn": "Ek Baar Aur Season 1",
-            "hf": "https://www.702",
-            "lng": "Hindi",
-            "ind": "Ullu",
-            "trailer": "h8RKZ_GIk9k",
-            "gn": "Adult",
-            "cg": "webSeries",
-            "kn": "Ek Baar Aur",
-            "pn": "S01",
-            "eServer1": {
-                "1": "https://pub-b1cdc534d0c0460a92cd9c12ee879736.r2.dev/Ek.Baar.Aur.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-            },
-            "eServer2": {
-                "1": "http://adult.ringzstudio.online/adult/Ek%20Baar%20Aur%20S01E01%20702%201.mkv"
-            },
-            "eTape": {},
-            "eServer4": {
-                "1": "https://pub-b1cdc534d0c0460a92cd9c12ee879736.r2.dev/Ek.Baar.Aur.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-            }
-        },
         {
             "id": "701",
             "IH": "https://ereviewwala.com/Poster/Adult/H1/Aakhri%20Sukh%20Season%201.jpg",
