@@ -54359,6 +54359,31 @@
         }
     },
         {
+            "id": "1571",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/The%20Sticky%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/The%20Sticky%20Season%201.jpg",
+            "mn": "The Sticky Season 1",
+            "hf": "https://www.19571",
+            "lng": "Hindi+English",
+            "trailer": "DWLjv9Wb-vc",
+            "gn": "Crime,Comedy",
+            "cg": "webSeries",
+            "kn": "The Sticky",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/byaJ8ZdZ?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/The%20Sticky%20S01Complete%2019571%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/Jw9mroVPvPFjdZq/The_Sticky_S01Complete_19571_1.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/byaJ8ZdZ?download?.mkv"
+            }
+        },
+        {
             "id": "1568",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Black%20Doves%20Season%201.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V2/Black%20Doves%20Season%201.jpg",
@@ -54577,6 +54602,31 @@
                 "6": "https://pixeldra.in/api/file/boJwGfTA?download?.mkv",
                 "7": "https://pixeldra.in/api/file/T9KkzooZ?download?.mkv",
                 "8": "https://pixeldra.in/api/file/eycpd7zK?download?.mkv"
+            }
+        },
+        {
+            "id": "1572",
+            "IH": "https://ereviewwala.com/Poster/Series/H1/Mohrey%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Series/V1/Mohrey%20Season%201.jpg",
+            "mn": "Mohrey Season 1",
+            "hf": "https://www.19572",
+            "lng": "Hindi",
+            "trailer": "4d68YGvjQxY",
+            "gn": "Crime,Drama",
+            "cg": "webSeries",
+            "kn": "Mohrey",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pixeldra.in/api/file/q5HymKZh?download?.mkv"
+            },
+            "eServer2": {
+                "1": "http://srs.aapkipooja.com/lst/Mohrey%20S01E01%2019572%201.mkv"
+            },
+            "eTape": {
+                "1": "https://streamtape.site/v/8vgoq8jbKMh4OG/Mohrey_S01E01_19572_1.mkv"
+            },
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/q5HymKZh?download?.mkv"
             }
         },
         {
