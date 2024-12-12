@@ -369,7 +369,7 @@
         "link2": "ksnvbhsbvujcadgbvui.pages.dev",
         "tab": "52",
         "otherAppLink": "https://bit.ly/songsmodapk",
-        "otherAppText": "🔥 🔥 Spotify Moded APK ( All Songs Apk) 🔥 🔥",
+        "otherAppText": "FALSE",
         "categoryAds": "FALSE",
         "hindiNoti": "ध्यान दें : यदि सर्वर फिल्में चलाने में बहुत अधिक समय ले रहा है तो ऐप को पुनरारंभ करें और पुनः प्रयास करें।\r\n\r\nयदि किसी भी समस्या का सामना करना पड़ रहा है तो हमारे टेलीग्राम चैनल पर रिपोर्ट करें",
         "engNoti": "Note : If server taking too much time to play movies/series then restart the app & try again.\r\n\r\nIf facing any issue then report us on Telegram channel.\r\nRecommended Server : Server 1",
