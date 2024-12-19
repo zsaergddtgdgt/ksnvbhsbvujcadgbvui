@@ -16191,33 +16191,6 @@
             "eServer4": {}
         },
         {
-            "id": "448",
-            "IH": "https://api.aapkipooja.com/Poster/Series/H1/qqjst4tjnpq7odh6g.jpg",
-            "IV": "https://api.aapkipooja.com/Poster/Series/V1/ecuuwmo8qezlqf86g.jpg",
-            "mn": "The Falcon and the Winter Soldier Season 1",
-            "hf": "https://www.13475",
-            "gn": "Fantasy,Action,Popular",
-            "trailer": "IWBsDaFWyTE",
-            "lng": "Dual",
-            "cg": "webSeries",
-            "kn": "The Falcon and the Winter Soldier",
-            "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E01%2013473.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E02%2013599.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/The.Falcon.and.the.Winter.Soldier.S01.E03%2013643.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/The.Falcon.and.the.Winter.Soldier.S01.E04%2013678.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/D2RPb12vkDSkapk/The_Falcon_and_the_Winter_Soldier_S01E01_13473.mkv.mp4",
-                "2": "https://streamtape.site/v/ZymmaaRv8GfqbWy/The_Falcon_and_the_Winter_Soldier_S01E02_13599.mkv.mp4",
-                "3": "https://streamtape.site/v/Lk4jxQdxL8FR08Z/The.Falcon.and.the.Winter.Soldier.S01.E03_13643.mkv.mp4",
-                "4": "https://streamtape.site/v/a72RJZDJ6aCx4d6/The.Falcon.and.the.Winter.Soldier.S01.E04_13678.mkv.mp4"
-            },
-            "eServer4": {}
-        },
-        {
             "id": "449",
             "IH": "https://api.aapkipooja.com/Poster/Series/H1/h2dpwknsjbc0kbc6g.jpg",
             "IV": "https://api.aapkipooja.com/Poster/Series/V1/b8vc07ep8w38xwl6g.jpg",
@@ -55233,6 +55206,112 @@
                 "1": "https://pixeldra.in/api/file/UNGZuHxR?download?.mkv"
             }
         },
+        {
+        "id": "1586",
+        "IH": "https://ereviewwala.com/Poster/Series/H2/Virgin%20River%20Season%206.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V2/Virgin%20River%20Season%206.jpg",
+        "mn": "Virgin River Season 6",
+        "hf": "https://www.19586",
+        "lng": "Hindi+English",
+        "trailer": "aikKSzY14mc",
+        "gn": "Romance,Drama",
+        "cg": "webSeries",
+        "kn": "Virgin River",
+        "pn": "S06",
+        "eServer1": {
+            "1": "https://pixeldra.in/api/file/gmqXCTHm?download?.mkv",
+            "2": "https://pixeldra.in/api/file/atw9L7Ci?download?.mkv",
+            "3": "https://pixeldra.in/api/file/Fs2pvSjM?download?.mkv",
+            "4": "https://pixeldra.in/api/file/H7ABtW5s?download?.mkv",
+            "5": "https://pixeldra.in/api/file/tuFBojUB?download?.mkv",
+            "6": "https://pixeldra.in/api/file/WJCnwEr8?download?.mkv",
+            "7": "https://pixeldra.in/api/file/aALfRU4f?download?.mkv",
+            "8": "https://pixeldra.in/api/file/NxQxrDzR?download?.mkv",
+            "9": "https://pixeldra.in/api/file/c1PQ22mv?download?.mkv",
+            "10": "https://pixeldra.in/api/file/fnx13z8q?download?.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E01%2019586%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E02%2019586%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E03%2019586%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E04%2019586%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E05%2019586%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E06%2019586%206.mkv",
+            "7": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E07%2019586%207.mkv",
+            "8": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E08%2019586%208.mkv",
+            "9": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E09%2019586%209.mkv",
+            "10": "http://srs.ringzstudio.online/lst/Virgin%20River%20S06E10%2019586%2010.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/e0BYvvZV9RuYbkY/Virgin_River_S06E01_19586_1.mkv",
+            "2": "https://streamtape.site/v/aoRGzZ7zkxUxqBO/Virgin_River_S06E02_19586_2.mkv",
+            "3": "https://streamtape.site/v/z7w2Je2dQXHY1zK/Virgin_River_S06E03_19586_3.mkv",
+            "4": "https://streamtape.site/v/4zWrDrv83BSKmLl/Virgin_River_S06E04_19586_4.mkv",
+            "5": "https://streamtape.site/v/6XOPapL71wh9XlK/Virgin_River_S06E05_19586_5.mkv",
+            "6": "https://streamtape.site/v/032GxVPgoxib31V/Virgin_River_S06E06_19586_6.mkv",
+            "7": "https://streamtape.site/v/yG0A91ql9mc1L8e/Virgin_River_S06E07_19586_7.mkv",
+            "8": "https://streamtape.site/v/DPAJ7ZdxroSkzZ8/Virgin_River_S06E08_19586_8.mkv",
+            "9": "https://streamtape.site/v/8Jambd3XLZHovx4/Virgin_River_S06E09_19586_9.mkv",
+            "10": "https://streamtape.site/v/8ZgjAKMx9MSok8v/Virgin_River_S06E10_19586_10.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/gmqXCTHm?download?.mkv",
+            "2": "https://pixeldra.in/api/file/atw9L7Ci?download?.mkv",
+            "3": "https://pixeldra.in/api/file/Fs2pvSjM?download?.mkv",
+            "4": "https://pixeldra.in/api/file/H7ABtW5s?download?.mkv",
+            "5": "https://pixeldra.in/api/file/tuFBojUB?download?.mkv",
+            "6": "https://pixeldra.in/api/file/WJCnwEr8?download?.mkv",
+            "7": "https://pixeldra.in/api/file/aALfRU4f?download?.mkv",
+            "8": "https://pixeldra.in/api/file/NxQxrDzR?download?.mkv",
+            "9": "https://pixeldra.in/api/file/c1PQ22mv?download?.mkv",
+            "10": "https://pixeldra.in/api/file/fnx13z8q?download?.mkv"
+        }
+    },
+    {
+        "id": "1585",
+        "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Falcon%20and%20the%20Winter%20Soldier%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Falcon%20and%20the%20Winter%20Soldier%20Season%201.jpg",
+        "mn": "The Falcon and the Winter Soldier Season 1",
+        "hf": "https://www.19585",
+        "lng": "Hindi+English",
+        "trailer": "f1lJA95IzBM",
+        "gn": "Action",
+        "cg": "webSeries",
+        "kn": "The Falcon and the Winter Soldier",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-b8fbec383f974a1492bb873aeed0e50e.r2.dev/The.Falcon.and.the.Winter.Soldier.S01E01.720p.Hindi-English.WEB-DL.x264-Vegamovies.is.mkv",
+            "2": "https://pub-b69f86f603894e4499139e408d785833.r2.dev/The.Falcon.and.the.Winter.Soldier.S01E02.720p.Hindi-English.WEB-DL.x264-Vegamovies.is.mkv",
+            "3": "https://pub-8cdf0e5382b545aeae09b1a480c244b1.r2.dev/The.Falcon.and.the.Winter.Soldier.S01E03.720p.Hindi-English.WEB-DL.x264-Vegamovies.is.mkv",
+            "4": "https://pub-ec68b196ceaf4d1682902b32a540c6cf.r2.dev/The.Falcon.and.the.Winter.Soldier.S01E04.720p.Hindi-English.WEB-DL.x264-Vegamovies.is.mkv",
+            "5": "https://pub-16e03336ff6f4ce7a06d164f79b6c02d.r2.dev/The.Falcon.and.the.Winter.Soldier.S01E05.720p.Hindi-English.WEB-DL.x264-Vegamovies.is.mkv",
+            "6": "https://pub-e7f343135f844cfeabf0143eeeb870f3.r2.dev/The.Falcon.and.the.Winter.Soldier.S01E06.720p.Hindi-English.WEB-DL.x264-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://srs.ringzstudio.online/lst/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E01%2019585%201.mkv",
+            "2": "http://srs.ringzstudio.online/lst/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E02%2019585%202.mkv",
+            "3": "http://srs.ringzstudio.online/lst/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E03%2019585%203.mkv",
+            "4": "http://srs.ringzstudio.online/lst/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E04%2019585%204.mkv",
+            "5": "http://srs.ringzstudio.online/lst/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E05%2019585%205.mkv",
+            "6": "http://srs.ringzstudio.online/lst/The%20Falcon%20and%20the%20Winter%20Soldier%20S01E06%2019585%206.mkv"
+        },
+        "eTape": {
+            "1": "https://streamtape.site/v/ZojyWJ8d0XHqAeB/The_Falcon_and_the_Winter_Soldier_S01E01_19585_1.mkv",
+            "2": "https://streamtape.site/v/olK1GwvaaqtJ4qG/The_Falcon_and_the_Winter_Soldier_S01E02_19585_2.mkv",
+            "3": "https://streamtape.site/v/V6Rbzx7qjzczJG/The_Falcon_and_the_Winter_Soldier_S01E03_19585_3.mkv",
+            "4": "https://streamtape.site/v/reLGY26MDmsxV9/The_Falcon_and_the_Winter_Soldier_S01E04_19585_4.mkv",
+            "5": "https://streamtape.site/v/3BWX8bJ9XPFdQxa/The_Falcon_and_the_Winter_Soldier_S01E05_19585_5.mkv",
+            "6": "https://streamtape.site/v/LXDvYAkBVLsRGlM/The_Falcon_and_the_Winter_Soldier_S01E06_19585_6.mkv"
+        },
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/QUULJxB7?download?.mkv",
+            "2": "https://pixeldra.in/api/file/FvGLBesf?download?.mkv",
+            "3": "https://pixeldra.in/api/file/dWZxjaVV?download?.mkv",
+            "4": "https://pixeldra.in/api/file/q7dgQS2f?download?.mkv",
+            "5": "https://pixeldra.in/api/file/xyQLis9s?download?.mkv",
+            "6": "https://pixeldra.in/api/file/htGpBuvQ?download?.mkv"
+        }
+    },
         {
             "id": "1580",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Mismatched%20Season%203.jpg",
