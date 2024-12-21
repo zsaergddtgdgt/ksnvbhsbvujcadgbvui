@@ -1,5 +1,53 @@
 {
     "webSeriesDataList": [
+    {
+        "id": "708",
+        "IH": "https://ereviewwala.com/Poster/Adult/H2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
+        "mn": "Aah Se Aaha Tak Season 1",
+        "hf": "https://www.708",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "ETwV7wLcyho",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Aah Se Aaha Tak",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-7e5fbd5bcef7455c84555618c475a9b6.r2.dev/Aah.Se.Aaha.Tak.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E01%20708%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/gdoPxvBJ?download?.mkv"
+        }
+    },
+    {
+        "id": "707",
+        "IH": "https://ereviewwala.com/Poster/Adult/H2/Kaanta%20Laga%20Season%201.jpg",
+        "IV": "https://ereviewwala.com/Poster/Adult/V2/Kaanta%20Laga%20Season%201.jpg",
+        "mn": "Kaanta Laga Season 1",
+        "hf": "https://www.707",
+        "lng": "Hindi",
+        "ind": "Ullu",
+        "trailer": "xYRPzEBA51g",
+        "gn": "Adult",
+        "cg": "webSeries",
+        "kn": "Kaanta Laga",
+        "pn": "S01",
+        "eServer1": {
+            "1": "https://pub-102ba1cff57f43489999ab70f41175bb.r2.dev/Kaanta.Laga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        },
+        "eServer2": {
+            "1": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E01%20707%201.mkv"
+        },
+        "eTape": {},
+        "eServer4": {
+            "1": "https://pixeldra.in/api/file/UUB6RMRc?download?.mkv"
+        }
+    },
     
         {
             "id": "706",
