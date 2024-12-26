@@ -14,14 +14,17 @@
         "kn": "Aah Se Aaha Tak",
         "pn": "S01",
         "eServer1": {
-            "1": "https://pub-7e5fbd5bcef7455c84555618c475a9b6.r2.dev/Aah.Se.Aaha.Tak.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            "1": "https://pub-7e5fbd5bcef7455c84555618c475a9b6.r2.dev/Aah.Se.Aaha.Tak.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+			"2": "https://pub-ee3a5c02764a4d838c843b50f9b97f62.r2.dev/Aah.Se.Aaha.Tak.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E01%20708%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E01%20708%201.mkv",
+			"2": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E02%20708%202.mkv"	
         },
         "eTape": {},
         "eServer4": {
-            "1": "https://pixeldra.in/api/file/gdoPxvBJ?download?.mkv"
+            "1": "https://pixeldra.in/api/file/gdoPxvBJ?download?.mkv",
+			"2": "https://pixeldra.in/api/file/idG1sK1k?download?.mkv"
         }
     },
     {
@@ -38,14 +41,17 @@
         "kn": "Kaanta Laga",
         "pn": "S01",
         "eServer1": {
-            "1": "https://pub-102ba1cff57f43489999ab70f41175bb.r2.dev/Kaanta.Laga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            "1": "https://pub-102ba1cff57f43489999ab70f41175bb.r2.dev/Kaanta.Laga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+			"2": "https://pub-e4d84ad19a7d44aeab691457e81c679f.r2.dev/Kaanta.Laga.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
         },
         "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E01%20707%201.mkv"
+            "1": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E01%20707%201.mkv",
+			"2": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E02%20707%202.mkv"
         },
         "eTape": {},
         "eServer4": {
-            "1": "https://pixeldra.in/api/file/UUB6RMRc?download?.mkv"
+            "1": "https://pixeldra.in/api/file/UUB6RMRc?download?.mkv",
+			"2": "https://pixeldra.in/api/file/CnoY4vtP?download?.mkv"
         }
     },
     
