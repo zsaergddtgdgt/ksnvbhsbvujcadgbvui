@@ -361,7 +361,7 @@
         "desihub": "/desihub.json",
         "anime": "/anime.json",
         "tapLinkLoader": "https://streamtape",
-        "notification": "\r\nJoin Telegram Channel for update..\r\n If face any issue you can report on telegram also\r\n.\r\nRecommended Server : Server 1 then Server 2.\r\n",
+        "notification": "\r\nJoin Telegram Channel for update..\r\n If face any issue you can report on telegram also\r\n.\r\nRecommended Server : Server 1 then Server 4.\r\n",
         "version": "5.5.0",
         "closeVersion": "1.0.0",
         "playlink": "https://ringzapk.com/",
