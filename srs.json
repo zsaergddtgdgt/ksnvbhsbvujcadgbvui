@@ -55610,47 +55610,6 @@
                 "10": "https://pixeldra.in/api/file/eBY7kcPg?download?.mkv"
             }
         },
-		{
-		        "id": "1595",
-		        "IH": "https://ereviewwala.com/Poster/Series/H2/What%20If%E2%80%A6%3F%20Season%203.jpg",
-		        "IV": "https://ereviewwala.com/Poster/Series/V2/What%20If%E2%80%A6%3F%20Season%203.jpg",
-		        "mn": "What If…? Season 3",
-		        "hf": "https://www.19595",
-		        "lng": "English",
-		        "trailer": "umiKiW4En9g",
-		        "gn": "Action,Animation",
-		        "cg": "webSeries",
-		        "kn": "What If…?",
-		        "pn": "S03",
-		        "eServer1": {
-		            "1": "https://pub-cff282e9dcc94460b43f0d73761f5bb7.r2.dev/What.If.2021.S03E01.720p.WEB-DL.x264.200MB-Vegamovies.is.mkv",
-		            "2": "https://pub-dad1798c4a244438b5a1a6633212c9b7.r2.dev/What.If.2021.S03E02.720p.DSNP.WEB-DL.DDP5.1.x264-Vegamovies.is.mkv",
-		            "3": "https://pub-3d924c582d7547368d8764ca57fb68a6.r2.dev/What.If.2021.S03E03.720p.WEB-DL.x264-Vegamovies.is.mkv",
-		            "4": "https://pub-aff92564314c403eb2793be6c20180f7.r2.dev/What.If.2021.S03E04.720P.WEB.X264-Vegamovies.is.mkv",
-		            "5": "https://pub-f6694d1c444d4ac0b4f59c33b7b35df2.r2.dev/What.If.2021.S03E05.720P.WEB.X264-Vegamovies.is.mkv"
-		        },
-		        "eServer2": {
-		            "1": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E01%2019595%201.mkv",
-		            "2": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E02%2019595%202.mkv",
-		            "3": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E03%2019595%203.mkv",
-		            "4": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E04%2019595%204.mkv",
-		            "5": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E05%2019595%205.mkv"
-		        },
-		        "eTape": {
-		            "1": "https://streamtape.site/v/JAGBgARK1PCjdJO/What_If…?_S03E01_19595_1.mkv",
-		            "2": "https://streamtape.site/v/3paR67OVzAidwpb/What_If…?_S03E02_19595_2.mkv",
-		            "3": "https://streamtape.site/v/4zmmJ69JVGuJGb/What_If…?_S03E03_19595_3.mkv",
-		            "4": "https://streamtape.site/v/mlDZaLLPBKTbYqo/What_If…?_S03E04_19595_4.mkv",
-		            "5": "https://streamtape.site/v/zXk7ab2pwmHXwY/What_If…?_S03E05_19595_5.mkv"
-		        },
-		        "eServer4": {
-		            "1": "https://pixeldra.in/api/file/vfaNyHb4?download?.mkv",
-		            "2": "https://pixeldra.in/api/file/WZbKbqQb?download?.mkv",
-		            "3": "https://pixeldra.in/api/file/je2mvmnJ?download?.mkv",
-		            "4": "https://pixeldra.in/api/file/5AjqZddj?download?.mkv",
-		            "5": "https://pixeldra.in/api/file/pZVdtGDY?download?.mkv"
-		        }
-		    },
 			{
 			    "id": "1587",
 			    "IH": "https://ereviewwala.com/Poster/Series/H2/Beast%20Games%20Season%201.jpg",
@@ -55685,6 +55644,59 @@
 				}
 			},
 			{
+			        "id": "1595",
+			        "IH": "https://ereviewwala.com/Poster/Series/H2/What%20If%E2%80%A6%3F%20Season%203.jpg",
+			        "IV": "https://ereviewwala.com/Poster/Series/V2/What%20If%E2%80%A6%3F%20Season%203.jpg",
+			        "mn": "What If…? Season 3",
+			        "hf": "https://www.19595",
+			        "lng": "English",
+			        "trailer": "umiKiW4En9g",
+			        "gn": "Action,Animation",
+			        "cg": "webSeries",
+			        "kn": "What If…?",
+			        "pn": "S03",
+					    "eServer1": {
+					        "1": "https://pub-cff282e9dcc94460b43f0d73761f5bb7.r2.dev/What.If.2021.S03E01.720p.WEB-DL.x264.200MB-Vegamovies.is.mkv",
+					        "2": "https://pub-dad1798c4a244438b5a1a6633212c9b7.r2.dev/What.If.2021.S03E02.720p.DSNP.WEB-DL.DDP5.1.x264-Vegamovies.is.mkv",
+					        "3": "https://pub-3d924c582d7547368d8764ca57fb68a6.r2.dev/What.If.2021.S03E03.720p.WEB-DL.x264-Vegamovies.is.mkv",
+					        "4": "https://pub-aff92564314c403eb2793be6c20180f7.r2.dev/What.If.2021.S03E04.720P.WEB.X264-Vegamovies.is.mkv",
+					        "5": "https://pub-f6694d1c444d4ac0b4f59c33b7b35df2.r2.dev/What.If.2021.S03E05.720P.WEB.X264-Vegamovies.is.mkv",
+					        "6": "https://pub-55e1ae91bbd14b8b89cea37c19458ad1.r2.dev/What.If.2021.S03E06.720P.WEB.H264-Vegamovies.is.mkv",
+					        "7": "https://pub-233d6fbc00f34c89b82c010124e05d9a.r2.dev/What.If.2021.S03E07.720p.WEB.720p.x264-Vegamovies.is.mkv",
+					        "8": "https://pub-343a86181ba74ec1af217930374d866e.r2.dev/What.If.2021.S03E08.720p.WEB.x264-Vegamovies.is.mkv"
+					    },
+					    "eServer2": {
+					        "1": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E01%2019595%201.mkv",
+					        "2": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E02%2019595%202.mkv",
+					        "3": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E03%2019595%203.mkv",
+					        "4": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E04%2019595%204.mkv",
+					        "5": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E05%2019595%205.mkv",
+					        "6": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E06%2019595%206.mkv",
+					        "7": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E07%2019595%207.mkv",
+					        "8": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E08%2019595%208.mkv"
+					    },
+					    "eTape": {
+					        "1": "https://streamtape.site/v/JAGBgARK1PCjdJO/What_If…?_S03E01_19595_1.mkv",
+					        "2": "https://streamtape.site/v/3paR67OVzAidwpb/What_If…?_S03E02_19595_2.mkv",
+					        "3": "https://streamtape.site/v/4zmmJ69JVGuJGb/What_If…?_S03E03_19595_3.mkv",
+					        "4": "https://streamtape.site/v/mlDZaLLPBKTbYqo/What_If…?_S03E04_19595_4.mkv",
+					        "5": "https://streamtape.site/v/zXk7ab2pwmHXwY/What_If…?_S03E05_19595_5.mkv",
+					        "6": "https://streamtape.site/v/LOmgG6JxpxSRoje/What_If…?_S03E06_19595_6.mkv",
+					        "7": "https://streamtape.site/v/wyA8b9bmj0FJMwy/What_If…?_S03E07_19595_7.mkv",
+					        "8": "https://streamtape.site/v/27GAQR1K1kfZvZR/What_If…?_S03E08_19595_8.mkv"
+					    },
+					    "eServer4": {
+					        "1": "https://pixeldra.in/api/file/vfaNyHb4?download?.mkv",
+					        "2": "https://pixeldra.in/api/file/WZbKbqQb?download?.mkv",
+					        "3": "https://pixeldra.in/api/file/je2mvmnJ?download?.mkv",
+					        "4": "https://pixeldra.in/api/file/5AjqZddj?download?.mkv",
+					        "5": "https://pixeldra.in/api/file/pZVdtGDY?download?.mkv",
+					        "6": "https://pixeldra.in/api/file/LiX734SU?download?.mkv",
+					        "7": "https://pixeldra.in/api/file/LuVDrN3a?download?.mkv",
+					        "8": "https://pixeldra.in/api/file/UVnHA1y7?download?.mkv"
+					    }
+					},
+			{
 			    "id": "1593",
 			    "IH": "https://ereviewwala.com/Poster/Series/H2/CID%20Season%202.jpg",
 			    "IV": "https://ereviewwala.com/Poster/Series/V2/CID%20Season%202.jpg",
@@ -55696,27 +55708,173 @@
 			    "cg": "webSeries",
 			    "kn": "CID",
 			    "pn": "S02",
-				"eServer1": {
-				    "1": "https://pub-738888330b664924be5fcbd66e592aa7.r2.dev/CID.Season.2.Episode.1.720p.WEB-DL.x264.Vegamovies.is.mkv",
-				    "2": "https://pub-33f3eb2861ad475eb2d26e2b273015bb.r2.dev/CID.Season.2.Episode.2.720p-Vegamovies.is.mkv",
-				    "3": "https://pub-b4214a3ea0cb4a8289045af29006d966.r2.dev/CID.Season.2.Episode.3.720p-Vegamovies.is.mkv"
+				    "eServer1": {
+				        "1": "https://pub-738888330b664924be5fcbd66e592aa7.r2.dev/CID.Season.2.Episode.1.720p.WEB-DL.x264.Vegamovies.is.mkv",
+				        "2": "https://pub-33f3eb2861ad475eb2d26e2b273015bb.r2.dev/CID.Season.2.Episode.2.720p-Vegamovies.is.mkv",
+				        "3": "https://pub-b4214a3ea0cb4a8289045af29006d966.r2.dev/CID.Season.2.Episode.3.720p-Vegamovies.is.mkv",
+				        "4": "https://pub-1f7f901f05494794a7b58f60c21b7c63.r2.dev/CiD.S02.E04.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/CID%20S02E01%2019593%201.mkv",
+				        "2": "http://srs.ringzstudio.online/lst/CID%20S02E02%2019593%202.mkv",
+				        "3": "http://srs.ringzstudio.online/lst/CID%20S02E03%2019593%203.mkv",
+				        "4": "http://srs.ringzstudio.online/lst/CID%20S02E04%2019593%204.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/k90bM3yKLATOom2/CID_S02E01_19593_1.mkv",
+				        "2": "https://streamtape.site/v/z3XWADQVXRCvVz/CID_S02E02_19593_2.mkv",
+				        "3": "https://streamtape.site/v/VrPrgJoW3BfZrP/CID_S02E03_19593_3.mkv",
+				        "4": "https://streamtape.site/v/zwB97wVwldso7l/CID_S02E04_19593_4.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/hSPyhupx?download?.mkv",
+				        "2": "https://pixeldra.in/api/file/kc4RkEFB?download?.mkv",
+				        "3": "https://pixeldra.in/api/file/GsbJhYF6?download?.mkv",
+				        "4": "https://pixeldra.in/api/file/sPVL9oTv?download?.mkv"
+				    }
 				},
-				"eServer2": {
-				    "1": "http://srs.ringzstudio.online/lst/CID%20S02E01%2019593%201.mkv",
-				    "2": "http://srs.ringzstudio.online/lst/CID%20S02E02%2019593%202.mkv",
-				    "3": "http://srs.ringzstudio.online/lst/CID%20S02E03%2019593%203.mkv"
+
+				{
+				    "id": "1600",
+				    "IH": "https://ereviewwala.com/Poster/Series/H2/Khoj%20-%20Parchaiyo%20Ke%20Uss%20Paar%20Season%201.jpg",
+				    "IV": "https://ereviewwala.com/Poster/Series/V2/Khoj%20-%20Parchaiyo%20Ke%20Uss%20Paar%20Season%201.jpg",
+				    "mn": "Khoj - Parchaiyo Ke Uss Paar Season 1",
+				    "hf": "https://www.19600",
+				    "lng": "Hindi",
+				    "trailer": "0ewVlsKQu_8",
+				    "gn": "Suspense,Mystery",
+				    "cg": "webSeries",
+				    "kn": "Khoj - Parchaiyo Ke Uss Paar",
+				    "pn": "S01",
+				    "eServer1": {
+				        "1": "https://pub-4eacb16e15b3464693d43155598729b0.r2.dev/Khoj.Parchaiyo.Ke.Uss.Paar.2024.Complete.S01.Hindi.Zee5.720p.Vegamovies.is.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/Khoj%20-%20Parchaiyo%20Ke%20Uss%20Paar%20S01E01%2019600%201.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/4PlRZKDOA1uKYWw/Khoj_-_Parchaiyo_Ke_Uss_Paar_S01E01_19600_1.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/XmnyXgaU?download?.mkv"
+				    }
 				},
-				"eTape": {
-				    "1": "https://streamtape.site/v/k90bM3yKLATOom2/CID_S02E01_19593_1.mkv",
-				    "2": "https://streamtape.site/v/z3XWADQVXRCvVz/CID_S02E02_19593_2.mkv",
-				    "3": "https://streamtape.site/v/VrPrgJoW3BfZrP/CID_S02E03_19593_3.mkv"
+				{
+				    "id": "1599",
+				    "IH": "https://ereviewwala.com/Poster/Series/H2/Doctors%20Season%201.jpg",
+				    "IV": "https://ereviewwala.com/Poster/Series/V2/Doctors%20Season%201.jpg",
+				    "mn": "Doctors Season 1",
+				    "hf": "https://www.19599",
+				    "lng": "Hindi",
+				    "trailer": "pAM7PlcuCUU",
+				    "gn": "Drama",
+				    "cg": "webSeries",
+				    "kn": "Doctors",
+				    "pn": "S01",
+				    "eServer1": {
+				        "1": "https://pub-1e63c56c1c7942268b82f4bee8b3c801.r2.dev/Doctors.2024.Complete.S01.Hindi.JC.WEB.DL.720p.Vegamovies.is.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/Doctors%20S01E01%2019599%201.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/rD6x3aqoBvubwJV/Doctors_S01E01_19599_1.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/gGXJAnLG?download?.mkv"
+				    }
 				},
-				"eServer4": {
-				    "1": "https://pixeldra.in/api/file/hSPyhupx?download?.mkv",
-				    "2": "https://pixeldra.in/api/file/kc4RkEFB?download?.mkv",
-				    "3": "https://pixeldra.in/api/file/GsbJhYF6?download?.mkv"
-				}
-			},
+				{
+				    "id": "1598",
+				    "IH": "https://ereviewwala.com/Poster/Series/H2/Pyramid%20%E2%80%93%20Scheme%20Ya%20Scam%20Season%201.jpg",
+				    "IV": "https://ereviewwala.com/Poster/Series/V2/Pyramid%20%E2%80%93%20Scheme%20Ya%20Scam%20Season%201.jpg",
+				    "mn": "Pyramid – Scheme Ya Scam Season 1",
+				    "hf": "https://www.19598",
+				    "lng": "Hindi",
+				    "trailer": "Y14E-KTjmuo",
+				    "gn": "Crime,Drama",
+				    "cg": "webSeries",
+				    "kn": "Pyramid – Scheme Ya Scam",
+				    "pn": "S01",
+				    "eServer1": {
+				        "1": "https://pub-2f09200a75f54929b32ad1726a8be1ae.r2.dev/Pyramid.Scheme.Ya.Scam.S01.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265.ESub-Vegamovies.is.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/Pyramid%20%E2%80%93%20Scheme%20Ya%20Scam%20S01E01%2019598%201.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/QPrdXgXly2H0LAJ/Pyramid_–_Scheme_Ya_Scam_S01E01_19598_1.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/wkiAgcUt?download?.mkv"
+				    }
+				},
+				{
+				    "id": "1597",
+				    "IH": "https://ereviewwala.com/Poster/Series/H2/Party%20Till%20I%20Die%20Season%201.jpg",
+				    "IV": "https://ereviewwala.com/Poster/Series/V2/Party%20Till%20I%20Die%20Season%201.jpg",
+				    "mn": "Party Till I Die Season 1",
+				    "hf": "https://www.19597",
+				    "lng": "Hindi",
+				    "trailer": "ROa6bElWjfU",
+				    "gn": "Mystery,Drama",
+				    "cg": "webSeries",
+				    "kn": "Party Till I Die",
+				    "pn": "S01",
+				    "eServer1": {
+				        "1": "https://pub-a05364d42985473badd9f3d2f5db9933.r2.dev/Party.Till.I.Die.S01.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265.ESub-Vegamovies.is.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/Party%20Till%20I%20Die%20S01E01%2019597%201.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/LpqOOQwxDrT7vv/Party_Till_I_Die_S01E01_19597_1.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/H4HTRCba?download?.mkv"
+				    }
+				},
+				{
+				    "id": "1596",
+				    "IH": "https://ereviewwala.com/Poster/Series/H2/Missing%20You%20Season%201.jpg",
+				    "IV": "https://ereviewwala.com/Poster/Series/V2/Missing%20You%20Season%201.jpg",
+				    "mn": "Missing You Season 1",
+				    "hf": "https://www.19596",
+				    "lng": "Hindi+English",
+				    "trailer": "GN5fzi1sI8Q",
+				    "gn": "Crime,Thriller",
+				    "cg": "webSeries",
+				    "kn": "Missing You",
+				    "pn": "S01",
+				    "eServer1": {
+				        "1": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Missing.You.S01E01.720p.WEB-DL.HIN-ENG.x264.Subs-Vegamovies.is.mkv",
+				        "2": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Missing.You.S01E02.720p.WEB-DL.HIN-ENG.x264.Subs-Vegamovies.is.mkv",
+				        "3": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Missing.You.S01E03.720p.WEB-DL.HIN-ENG.x264.Subs-Vegamovies.is.mkv",
+				        "4": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Missing.You.S01E04.720p.WEB-DL.HIN-ENG.x264.Subs-Vegamovies.is.mkv",
+				        "5": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Missing.You.S01E05.720p.WEB-DL.HIN-ENG.x264.Subs-Vegamovies.is.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/Missing%20You%20S01E01%2019596%201.mkv",
+				        "2": "http://srs.ringzstudio.online/lst/Missing%20You%20S01E02%2019596%202.mkv",
+				        "3": "http://srs.ringzstudio.online/lst/Missing%20You%20S01E03%2019596%203.mkv",
+				        "4": "http://srs.ringzstudio.online/lst/Missing%20You%20S01E04%2019596%204.mkv",
+				        "5": "http://srs.ringzstudio.online/lst/Missing%20You%20S01E05%2019596%205.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/8KKKqRLKlvuod8L/Missing_You_S01E01_19596_1.mkv",
+				        "2": "https://streamtape.site/v/MJ1pkX3jR6CDJ8/Missing_You_S01E02_19596_2.mkv",
+				        "3": "https://streamtape.site/v/KJej1Wa6mpf0Ml9/Missing_You_S01E03_19596_3.mkv",
+				        "4": "https://streamtape.site/v/K7b0KJoB8Gt09lb/Missing_You_S01E04_19596_4.mkv",
+				        "5": "https://streamtape.site/v/LX4JzGABg7CR19Y/Missing_You_S01E05_19596_5.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/Qakn435N?download?.mkv",
+				        "2": "https://pixeldra.in/api/file/go5RW7u3?download?.mkv",
+				        "3": "https://pixeldra.in/api/file/heQehdUc?download?.mkv",
+				        "4": "https://pixeldra.in/api/file/4v6XBaVY?download?.mkv",
+				        "5": "https://pixeldra.in/api/file/2DoqZuLq?download?.mkv"
+				    }
+				},
         {
             "id": "1594",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Squid%20Game%20Season%202.jpg",
