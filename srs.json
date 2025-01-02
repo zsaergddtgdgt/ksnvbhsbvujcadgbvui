@@ -55411,47 +55411,6 @@
             }
         },
         {
-            "id": "1563",
-            "IH": "https://ereviewwala.com/Poster/Series/H2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
-            "mn": "Star Wars - Skeleton Crew Season 1",
-            "hf": "https://www.19563",
-            "lng": "Hindi+English",
-            "trailer": "f19gfOMZTtg",
-            "gn": "Action,Sci-Fi",
-            "cg": "webSeries",
-            "kn": "Star Wars - Skeleton Crew",
-            "pn": "S01",
-            "eServer1": {
-                "1": "https://pub-9409a3433494412c83d75491d81d64f7.r2.dev/Star.Wars.Skeleton.Crew.S01.E01.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
-                "2": "https://pub-be33d17e669540ce9e60ccae8f1136ae.r2.dev/Star.Wars.Skeleton.Crew.S01.E02.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
-                "3": "https://pub-46a17b943dea4b0098da30417990ec96.r2.dev/Star.Wars.Skeleton.Crew.S01.E03.Web-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
-                "4": "https://pub-40669735a662445f8230ebd6c8c40ba7.r2.dev/Star.Wars.Skeleton.Crew.S01.E04.WebRip.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
-				"5": "https://pub-63e48a1efaa24f44a177c55bc0443907.r2.dev/Star.Wars.Skeleton.Crew.S01E05.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E01%2019563%201.mkv",
-                "2": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E02%2019563%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E03%2019563%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E04%2019563%204.mkv",
-				"5": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E05%2019563%205.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/vgo9VmPl7RF40Pl/Star_Wars_-_Skeleton_Crew_S01E01_19563_1.mkv.mp4",
-                "2": "https://streamtape.site/v/R7RJ9WK6prsd3rP/Star_Wars_-_Skeleton_Crew_S01E02_19563_2.mkv",
-                "3": "https://streamtape.site/v/O4RPmO87OPuzAY/Star_Wars_-_Skeleton_Crew_S01E03_19563_3.mkv.mp4",
-                "4": "https://streamtape.site/v/oAAvwdxL0JsJqJg/Star_Wars_-_Skeleton_Crew_S01E04_19563_4.mkv"				,
-								"5": "https://streamtape.site/v/D4pGZPPrM2HkX7d/Star_Wars_-_Skeleton_Crew_S01E05_19563_5.mkv"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/2QfUd8ec?download?.mkv",
-                "2": "https://pixeldra.in/api/file/X5CH8Mg9?download?.mkv",
-                "3": "https://pixeldra.in/api/file/aiG5xJej?download?.mkv",
-                "4": "https://pixeldra.in/api/file/uEBFPiog?download?.mkv"				,
-								"5": "https://pixeldra.in/api/file/tqqrZsEY?download?.mkv"
-            }
-        },
-        {
             "id": "1591",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Moonwalk%20Season%201.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V2/Moonwalk%20Season%201.jpg",
@@ -55610,6 +55569,51 @@
                 "10": "https://pixeldra.in/api/file/eBY7kcPg?download?.mkv"
             }
         },
+			{
+			    "id": "1563",
+			    "IH": "https://ereviewwala.com/Poster/Series/H2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
+			    "IV": "https://ereviewwala.com/Poster/Series/V2/Star%20Wars%20-%20Skeleton%20Crew%20Season%201.jpg",
+			    "mn": "Star Wars - Skeleton Crew Season 1",
+			    "hf": "https://www.19563",
+			    "lng": "Hindi+English",
+			    "trailer": "f19gfOMZTtg",
+			    "gn": "Action,Sci-Fi",
+			    "cg": "webSeries",
+			    "kn": "Star Wars - Skeleton Crew",
+			    "pn": "S01",
+			    "eServer1": {
+			        "1": "https://pub-9409a3433494412c83d75491d81d64f7.r2.dev/Star.Wars.Skeleton.Crew.S01.E01.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+			        "2": "https://pub-be33d17e669540ce9e60ccae8f1136ae.r2.dev/Star.Wars.Skeleton.Crew.S01.E02.WEB-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+			        "3": "https://pub-46a17b943dea4b0098da30417990ec96.r2.dev/Star.Wars.Skeleton.Crew.S01.E03.Web-DL.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+			        "4": "https://pub-40669735a662445f8230ebd6c8c40ba7.r2.dev/Star.Wars.Skeleton.Crew.S01.E04.WebRip.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+					"5": "https://pub-63e48a1efaa24f44a177c55bc0443907.r2.dev/Star.Wars.Skeleton.Crew.S01E05.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv",
+					"6": "https://pub-b9135ebd1a41462a98a7b2b0b81718a8.r2.dev/Star.Wars.Skeleton.Crew.S01E06.720p.WEB-DL.HIN-ENG.x264.ESub-Vegamovies.is.mkv"
+			    },
+			    "eServer2": {
+			        "1": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E01%2019563%201.mkv",
+			        "2": "http://srs.aapkipooja.com/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E02%2019563%202.mkv",
+			        "3": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E03%2019563%203.mkv",
+			        "4": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E04%2019563%204.mkv",
+					"5": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E05%2019563%205.mkv",
+					"6": "http://srs.ringzstudio.online/lst/Star%20Wars%20-%20Skeleton%20Crew%20S01E06%2019563%206.mkv"
+			    },
+			    "eTape": {
+			        "1": "https://streamtape.site/v/vgo9VmPl7RF40Pl/Star_Wars_-_Skeleton_Crew_S01E01_19563_1.mkv.mp4",
+			        "2": "https://streamtape.site/v/R7RJ9WK6prsd3rP/Star_Wars_-_Skeleton_Crew_S01E02_19563_2.mkv",
+			        "3": "https://streamtape.site/v/O4RPmO87OPuzAY/Star_Wars_-_Skeleton_Crew_S01E03_19563_3.mkv.mp4",
+			        "4": "https://streamtape.site/v/oAAvwdxL0JsJqJg/Star_Wars_-_Skeleton_Crew_S01E04_19563_4.mkv",
+					"5": "https://streamtape.site/v/D4pGZPPrM2HkX7d/Star_Wars_-_Skeleton_Crew_S01E05_19563_5.mkv",
+					"6": "https://streamtape.site/v/8dMZL0R8QJsokPQ/Star_Wars_-_Skeleton_Crew_S01E06_19563_6.mkv"
+			    },
+			    "eServer4": {
+			        "1": "https://pixeldra.in/api/file/2QfUd8ec?download?.mkv",
+			        "2": "https://pixeldra.in/api/file/X5CH8Mg9?download?.mkv",
+			        "3": "https://pixeldra.in/api/file/aiG5xJej?download?.mkv",
+			        "4": "https://pixeldra.in/api/file/uEBFPiog?download?.mkv",
+					"5": "https://pixeldra.in/api/file/tqqrZsEY?download?.mkv",
+					"6": "https://pixeldra.in/api/file/SxEPFayR?download?.mkv"
+			    }
+			},
 			{
 			    "id": "1587",
 			    "IH": "https://ereviewwala.com/Poster/Series/H2/Beast%20Games%20Season%201.jpg",
