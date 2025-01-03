@@ -30462,24 +30462,38 @@
             "cg": "webSeries",
             "kn": "The Rig",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs3/The_Rig_S01E01_18909_1.mkv.mp4",
-                "2": "http://srsold.aapkipooja.com/srs3/The_Rig_S01E02_18909_2.mkv.mp4",
-                "3": "http://srsold.aapkipooja.com/srs3/The_Rig_S01E03_18909_3.mkv.mp4",
-                "4": "http://srsold.aapkipooja.com/srs3/The_Rig_S01E04_18909_4.mkv.mp4",
-                "5": "http://srsold.aapkipooja.com/srs3/The_Rig_S01E05_18909_5.mkv.mp4",
-                "6": "http://srsold.aapkipooja.com/srs3/The_Rig_S01E06_18909_6.mkv.mp4"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/e4bGdPJbjziYDdm/The_Rig_S01E01_18909_1.mkv.mp4",
-                "2": "https://streamtape.site/v/Yq1Mbggyaehv4P7/The_Rig_S01E02_18909_2.mkv.mp4",
-                "3": "https://streamtape.site/v/9qelx2XdQbSBxz/The_Rig_S01E03_18909_3.mkv.mp4",
-                "4": "https://streamtape.site/v/dL0a7Kwk8RHkmzM/The_Rig_S01E04_18909_4.mkv.mp4",
-                "5": "https://streamtape.site/v/dOP94WdzZRTkdp0/The_Rig_S01E05_18909_5.mkv.mp4",
-                "6": "https://streamtape.site/v/OgmbBoW2gjtZAo0/The_Rig_S01E06_18909_6.mkv.mp4"
-            },
-            "eServer4": {}
+			"eServer1": {
+			    "1": "https://pub-19aab9340d2e498e9f6e493f0ff44986.r2.dev/The.Rig.S01E01.720p.x264.Hindi.English.Msubs.Vegamovies.to.mkv",
+			    "2": "https://pub-8b54ceb4c3d448cbbabbbd6ceddca004.r2.dev/The.Rig.S01E02.720p.x264.Hindi.English.Msubs.Vegamovies.to.mkv",
+			    "3": "https://pub-10241d895f9645f0bcd99137221b639f.r2.dev/The.Rig.S01E03.720p.x264.Hindi.English.Msubs.Vegamovies.to.mkv",
+			    "4": "https://pub-0e78d00a0d9f41f487dc0829eb4d25b4.r2.dev/The.Rig.S01E04.720p.x264.Hindi.English.Msubs.Vegamovies.to.mkv",
+			    "5": "https://pub-3a39a36975b84ab19d2eee7055b31c49.r2.dev/The.Rig.S01E05.720p.x264.Hindi.English.Msubs.Vegamovies.to.mkv",
+			    "6": "https://pub-c9ce59ce21a7446c887e9d6fdba54f74.r2.dev/The.Rig.S01E06.720p.x264.Hindi.English.Msubs.Vegamovies.to.mkv"
+			},
+			"eServer2": {
+			    "1": "http://srs.ringzstudio.online/lst/The%20Rig%20S01E01%2018909%201.mkv",
+			    "2": "http://srs.ringzstudio.online/lst/The%20Rig%20S01E02%2018909%202.mkv",
+			    "3": "http://srs.ringzstudio.online/lst/The%20Rig%20S01E03%2018909%203.mkv",
+			    "4": "http://srs.ringzstudio.online/lst/The%20Rig%20S01E04%2018909%204.mkv",
+			    "5": "http://srs.ringzstudio.online/lst/The%20Rig%20S01E05%2018909%205.mkv",
+			    "6": "http://srs.ringzstudio.online/lst/The%20Rig%20S01E06%2018909%206.mkv"
+			},
+			"eTape": {
+			    "1": "https://streamtape.site/v/zP7KObPBkMSYqvb/The_Rig_S01E01_18909_1.mkv",
+			    "2": "https://streamtape.site/v/LXVyVq7bZ2TRQek/The_Rig_S01E02_18909_2.mkv",
+			    "3": "https://streamtape.site/v/7YGmWp6JgJUVaY/The_Rig_S01E03_18909_3.mkv",
+			    "4": "https://streamtape.site/v/MZeAqOOLv3umWLA/The_Rig_S01E04_18909_4.mkv",
+			    "5": "https://streamtape.site/v/Q0w8L99pBqI0D08/The_Rig_S01E05_18909_5.mkv",
+			    "6": "https://streamtape.site/v/OdeG11vWaYUZARq/The_Rig_S01E06_18909_6.mkv"
+			},
+			"eServer4": {
+			    "1": "https://pixeldra.in/api/file/L8AH4rL3?download?.mkv",
+			    "2": "https://pixeldra.in/api/file/3McPHngd?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/rwoLBszJ?download?.mkv",
+			    "4": "https://pixeldra.in/api/file/iBu1reTA?download?.mkv",
+			    "5": "https://pixeldra.in/api/file/1ARLuCXH?download?.mkv",
+			    "6": "https://pixeldra.in/api/file/Ajhaxaj9?download?.mkv"
+			}
         },
         {
             "id": "910",
@@ -55879,6 +55893,51 @@
 				        "5": "https://pixeldra.in/api/file/2DoqZuLq?download?.mkv"
 				    }
 				},
+				{
+				        "id": "1601",
+				        "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Rig%20Season%202.jpg",
+				        "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Rig%20Season%202.jpg",
+				        "mn": "The Rig Season 2",
+				        "hf": "https://www.19601",
+				        "lng": "Hindi+English",
+				        "trailer": "2dFkjOpTxAU",
+				        "gn": "Mystery,Thriller",
+				        "cg": "webSeries",
+				        "kn": "The Rig",
+				        "pn": "S02",
+				        "eServer1": {
+				            "1": "https://pub-9fe7242a7e274f40930048839a71d0fc.r2.dev/The.Rig.S02E01.720P.Hindi.English.Esubs.Vegamovies.is.mkv",
+				            "2": "https://pub-3e2152d92ced453499ca59ad0acfda26.r2.dev/The.Rig.S02E02.720P.Hindi.English.Esubs.Vegamovies.is.mkv",
+				            "3": "https://pub-d1209d58dace4ace875792145e2adf32.r2.dev/The.Rig.S02E03.720P.Hindi.English.Esubs.Vegamovies.is.mkv",
+				            "4": "https://pub-1329351695694bc490d83011a098ee06.r2.dev/The.Rig.S02E04.720P.Hindi.English.Esubs.Vegamovies.is.mkv",
+				            "5": "https://pub-0c8e225520eb4f078f12dbc64fe25d02.r2.dev/The.Rig.S02E05.720P.Hindi.English.Esubs.Vegamovies.is.mkv",
+				            "6": "https://pub-4560a7e1b21d466d9db254e1f67c832a.r2.dev/The.Rig.S02E06.720P.Hindi.English.Esubs.Vegamovies.is.mkv"
+				        },
+				        "eServer2": {
+				            "1": "http://srs.ringzstudio.online/lst/The%20Rig%20S02E01%2019601%201.mkv",
+				            "2": "http://srs.ringzstudio.online/lst/The%20Rig%20S02E02%2019601%202.mkv",
+				            "3": "http://srs.ringzstudio.online/lst/The%20Rig%20S02E03%2019601%203.mkv",
+				            "4": "http://srs.ringzstudio.online/lst/The%20Rig%20S02E04%2019601%204.mkv",
+				            "5": "http://srs.ringzstudio.online/lst/The%20Rig%20S02E05%2019601%205.mkv",
+				            "6": "http://srs.ringzstudio.online/lst/The%20Rig%20S02E06%2019601%206.mkv"
+				        },
+				        "eTape": {
+				            "1": "https://streamtape.site/v/b392aka6kQcPbBG/The_Rig_S02E01_19601_1.mkv",
+				            "2": "https://streamtape.site/v/LvPLYYYo7lTR0Ga/The_Rig_S02E02_19601_2.mkv",
+				            "3": "https://streamtape.site/v/0B9WJD0XwVsga3/The_Rig_S02E03_19601_3.mkv",
+				            "4": "https://streamtape.site/v/ykV9Lakx0Wtdpa/The_Rig_S02E04_19601_4.mkv",
+				            "5": "https://streamtape.site/v/zQDMZODye8HYlkR/The_Rig_S02E05_19601_5.mkv",
+				            "6": "https://streamtape.site/v/AK4zX2Lvo7UmZ9/The_Rig_S02E06_19601_6.mkv"
+				        },
+				        "eServer4": {
+				            "1": "https://pixeldra.in/api/file/tmX2Nm3f?download?.mkv",
+				            "2": "https://pixeldra.in/api/file/wNhJCux3?download?.mkv",
+				            "3": "https://pixeldra.in/api/file/oyFw7ZH2?download?.mkv",
+				            "4": "https://pixeldra.in/api/file/CQGsNfuS?download?.mkv",
+				            "5": "https://pixeldra.in/api/file/bmKhAptJ?download?.mkv",
+				            "6": "https://pixeldra.in/api/file/Pfi3kHXZ?download?.mkv"
+				        }
+				    },
         {
             "id": "1594",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Squid%20Game%20Season%202.jpg",
