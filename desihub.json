@@ -1,5 +1,107 @@
 {
     "webSeriesDataList": [
+		{
+		        "id": "712",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Utha%20Le%20Jaunga%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Utha%20Le%20Jaunga%20Season%201.jpg",
+		        "mn": "Utha Le Jaunga Season 1",
+		        "hf": "https://www.712",
+		        "lng": "Hindi",
+		        "ind": "Ullu",
+		        "trailer": "s_RptO47WLE",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Utha Le Jaunga",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-bbfca47213b8400eb295b97edf1266b3.r2.dev/Utha.Le.Jaunga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "https://adult.ringzstudio.online/adult/Utha%20Le%20Jaunga%20S01E01%20712%201.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/ts2pMxGk?download?.mkv"
+		        }
+		    },
+		    {
+		        "id": "711",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Mithai%20Wali%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Mithai%20Wali%20Season%201.jpg",
+		        "mn": "Mithai Wali Season 1",
+		        "hf": "https://www.711",
+		        "lng": "Hindi",
+		        "ind": "Ullu",
+		        "trailer": "2i_rcyLnt7Y",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Mithai Wali",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-0119974a783548aa99796216f008e409.r2.dev/Mithai.Wali.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "https://adult.ringzstudio.online/adult/Mithai%20Wali%20S01E01%20711%201.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/iTYN3h9q?download?.mkv"
+		        }
+		    },
+		    {
+		        "id": "710",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Nurse%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Nurse%20Season%201.jpg",
+		        "mn": "Nurse Season 1",
+		        "hf": "https://www.710",
+		        "lng": "Hindi",
+		        "ind": "Ullu",
+		        "trailer": "ZsMhsRdQPEE",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Nurse",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-397b79f3ae6b47f5b7eedb91a1dc0d9f.r2.dev/Nurse.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+		            "2": "https://pub-9641dcf75a1c4925b91f2773cecbf96c.r2.dev/Nurse.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "https://adult.ringzstudio.online/adult/Nurse%20S01E01%20710%201.mkv",
+		            "2": "https://adult.ringzstudio.online/adult/Nurse%20S01E02%20710%202.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/WfFSzEkg?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/CCaj7kme?download?.mkv"
+		        }
+		    },
+		    {
+		        "id": "709",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Payal%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Payal%20Season%201.jpg",
+		        "mn": "Payal Season 1",
+		        "hf": "https://www.709",
+		        "lng": "Hindi",
+		        "ind": "Ullu",
+		        "trailer": "FJ4KO7i9yKE",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Payal",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-37a960d9d41648058ad608f209b24c00.r2.dev/Payal.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+		            "2": "https://pub-2e889f1b31b348869c178e083347233f.r2.dev/Payal.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "https://adult.ringzstudio.online/adult/Payal%20S01E01%20709%201.mkv",
+		            "2": "https://adult.ringzstudio.online/adult/Payal%20S01E02%20709%202.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/hbj4h9mz?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/2UWWHTLX?download?.mkv"
+		        }
+		    },
     {
         "id": "708",
         "IH": "https://ereviewwala.com/Poster/Adult/H2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
