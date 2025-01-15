@@ -56005,51 +56005,6 @@
             }
         },
         {
-            "id": "1593",
-            "IH": "https://ereviewwala.com/Poster/Series/H2/CID%20Season%202.jpg",
-            "IV": "https://ereviewwala.com/Poster/Series/V2/CID%20Season%202.jpg",
-            "mn": "CID Season 2",
-            "hf": "https://www.19593",
-            "lng": "Hindi",
-            "trailer": "8J4GLngeRsE",
-            "gn": "Action,Crime",
-            "cg": "webSeries",
-            "kn": "CID",
-            "pn": "S02",
-            "eServer1": {
-                "1": "https://pub-738888330b664924be5fcbd66e592aa7.r2.dev/CID.Season.2.Episode.1.720p.WEB-DL.x264.Vegamovies.is.mkv",
-                "2": "https://pub-33f3eb2861ad475eb2d26e2b273015bb.r2.dev/CID.Season.2.Episode.2.720p-Vegamovies.is.mkv",
-                "3": "https://pub-b4214a3ea0cb4a8289045af29006d966.r2.dev/CID.Season.2.Episode.3.720p-Vegamovies.is.mkv",
-                "4": "https://pub-1f7f901f05494794a7b58f60c21b7c63.r2.dev/CiD.S02.E04.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
-                "5": "https://pub-0168d3c552b24af29c1981e421cb06eb.r2.dev/CID.S02E05.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
-                "6": "https://pub-acd0486fb4634e7585afdda81f1f8617.r2.dev/CID.S02E06.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv"
-            },
-            "eServer2": {
-                "1": "http://srs.ringzstudio.online/lst/CID%20S02E01%2019593%201.mkv",
-                "2": "http://srs.ringzstudio.online/lst/CID%20S02E02%2019593%202.mkv",
-                "3": "http://srs.ringzstudio.online/lst/CID%20S02E03%2019593%203.mkv",
-                "4": "http://srs.ringzstudio.online/lst/CID%20S02E04%2019593%204.mkv",
-                "5": "http://srs.ringzstudio.online/lst/CID%20S02E05%2019593%205.mkv",
-                "6": "http://srs.ringzstudio.online/lst/CID%20S02E06%2019593%206.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/1qqMLqYr2yiyzj/CID_S02E01_19593_1.mkv.mp4",
-                "2": "https://streamtape.site/v/akyXRGM2BPFQwL/CID_S02E02_19593_2.mkv.mp4",
-                "3": "https://streamtape.site/v/aPBDpmeBmxhWWv/CID_S02E03_19593_3.mkv.mp4",
-                "4": "https://streamtape.site/v/J9jyKK7ODVUVAW/CID_S02E04_19593_4.mkv.mp4",
-                "5": "https://streamtape.site/v/MaejWMVlPksBlW/CID_S02E05_19593_5.mkv.mp4",
-                "6": "https://streamtape.site/v/34OJml6zb0fdJD2/CID_S02E06_19593_6.mkv.mp4"
-            },
-            "eServer4": {
-                "1": "https://pixeldra.in/api/file/hSPyhupx?download?.mkv",
-                "2": "https://pixeldra.in/api/file/kc4RkEFB?download?.mkv",
-                "3": "https://pixeldra.in/api/file/GsbJhYF6?download?.mkv",
-                "4": "https://pixeldra.in/api/file/sPVL9oTv?download?.mkv",
-                "5": "https://pixeldra.in/api/file/goQaNiu9?download?.mkv",
-                "6": "https://pixeldra.in/api/file/XSFUNaWw?download?.mkv"
-            }
-        },
-        {
             "id": "1594",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Squid%20Game%20Season%202.jpg",
             "IV": "https://ereviewwala.com/Poster/Series/V2/Squid%20Game%20Season%202.jpg",
@@ -56516,6 +56471,59 @@
                 "3": "https://pixeldra.in/api/file/7tYWrApX?download?.mkv"
             }
         },
+			{
+			    "id": "1593",
+			    "IH": "https://ereviewwala.com/Poster/Series/H2/CID%20Season%202.jpg",
+			    "IV": "https://ereviewwala.com/Poster/Series/V2/CID%20Season%202.jpg",
+			    "mn": "CID Season 2",
+			    "hf": "https://www.19593",
+			    "lng": "Hindi",
+			    "trailer": "8J4GLngeRsE",
+			    "gn": "Action,Crime",
+			    "cg": "webSeries",
+			    "kn": "CID",
+			    "pn": "S02",
+				"eServer1": {
+				    "1": "https://pub-738888330b664924be5fcbd66e592aa7.r2.dev/CID.Season.2.Episode.1.720p.WEB-DL.x264.Vegamovies.is.mkv",
+				    "2": "https://pub-33f3eb2861ad475eb2d26e2b273015bb.r2.dev/CID.Season.2.Episode.2.720p-Vegamovies.is.mkv",
+				    "3": "https://pub-b4214a3ea0cb4a8289045af29006d966.r2.dev/CID.Season.2.Episode.3.720p-Vegamovies.is.mkv",
+				    "4": "https://pub-1f7f901f05494794a7b58f60c21b7c63.r2.dev/CiD.S02.E04.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
+				    "5": "https://pub-0168d3c552b24af29c1981e421cb06eb.r2.dev/CID.S02E05.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
+				    "6": "https://pub-acd0486fb4634e7585afdda81f1f8617.r2.dev/CID.S02E06.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
+				    "7": "https://pub-96921f60801344dd938812c01499d770.r2.dev/CID.S02E07.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
+				    "8": "https://pub-27e7e469e6424226a6ddf6d34e7869a2.r2.dev/CID.Season.2.Episode.8.720p-Vegamovies.is.mkv"
+				},
+				"eServer2": {
+				    "1": "http://srs.ringzstudio.online/lst/CID%20S02E01%2019593%201.mkv",
+				    "2": "http://srs.ringzstudio.online/lst/CID%20S02E02%2019593%202.mkv",
+				    "3": "http://srs.ringzstudio.online/lst/CID%20S02E03%2019593%203.mkv",
+				    "4": "http://srs.ringzstudio.online/lst/CID%20S02E04%2019593%204.mkv",
+				    "5": "http://srs.ringzstudio.online/lst/CID%20S02E05%2019593%205.mkv",
+				    "6": "http://srs.ringzstudio.online/lst/CID%20S02E06%2019593%206.mkv",
+				    "7": "http://srs.ringzstudio.online/lst/CID%20S02E07%2019593%207.mkv",
+				    "8": "http://srs.ringzstudio.online/lst/CID%20S02E08%2019593%208.mkv"
+				},
+				"eTape": {
+				    "1": "https://streamtape.site/v/k90bM3yKLATOom2/CID_S02E01_19593_1.mkv",
+				    "2": "https://streamtape.site/v/z3XWADQVXRCvVz/CID_S02E02_19593_2.mkv",
+				    "3": "https://streamtape.site/v/VrPrgJoW3BfZrP/CID_S02E03_19593_3.mkv",
+				    "4": "https://streamtape.site/v/zwB97wVwldso7l/CID_S02E04_19593_4.mkv",
+				    "5": "https://streamtape.site/v/jPqOPrdxLqTzZqY/CID_S02E05_19593_5.mkv",
+				    "6": "https://streamtape.site/v/VWJWOMew7wC4ZB/CID_S02E06_19593_6.mkv",
+				    "7": "https://streamtape.site/v/4q74xgm01ksK3xL/CID_S02E07_19593_7.mkv",
+				    "8": "https://streamtape.site/v/4zLxwq8YwdsKov6/CID_S02E08_19593_8.mkv"
+				},
+				"eServer4": {
+				    "1": "https://pixeldra.in/api/file/hSPyhupx?download?.mkv",
+				    "2": "https://pixeldra.in/api/file/kc4RkEFB?download?.mkv",
+				    "3": "https://pixeldra.in/api/file/GsbJhYF6?download?.mkv",
+				    "4": "https://pixeldra.in/api/file/sPVL9oTv?download?.mkv",
+				    "5": "https://pixeldra.in/api/file/goQaNiu9?download?.mkv",
+				    "6": "https://pixeldra.in/api/file/XSFUNaWw?download?.mkv",
+				    "7": "https://pub-96921f60801344dd938812c01499d770.r2.dev/CID.S02E07.720p.Hindi.WEB-DL.2.0.AAC.x264-Vegamovies.is.mkv",
+				    "8": "https://pixeldra.in/api/file/5B2TX8fc?download?.mkv"
+				}
+			},
         {
             "id": "1612",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Black%20Warrant%20Season%201.jpg",
@@ -56564,6 +56572,59 @@
                 "6": "https://pixeldra.in/api/file/JVuwoDPY?download?.mkv",
                 "7": "https://pixeldra.in/api/file/c7v29ECe?download?.mkv"
             }
-        }
+        },
+		{
+		        "id": "1613",
+		        "IH": "https://ereviewwala.com/Poster/Series/H2/Chidiya%20Udd%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Series/V2/Chidiya%20Udd%20Season%201.jpg",
+		        "mn": "Chidiya Udd Season 1",
+		        "hf": "https://www.19613",
+		        "lng": "Hindi",
+		        "trailer": "jUL9M6rAaoE",
+		        "gn": "Crime,Drama",
+		        "cg": "webSeries",
+		        "kn": "Chidiya Udd",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-e7013b039e2e495aa5eed1855a61eed4.r2.dev/Chidiya.Udd.S01E01.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "2": "https://pub-e177222a8775420b87d4f8c436773d5e.r2.dev/Chidiya.Udd.S01E02.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "3": "https://pub-9b5b6d7bef1a476c8153f2777c699724.r2.dev/Chidiya.Udd.S01E03.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "4": "https://pub-64addfecacfd47a991b26fe3d85de4b9.r2.dev/Chidiya.Udd.S01E04.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "5": "https://pub-f01f9ca459554f9f895293455c666bd0.r2.dev/Chidiya.Udd.S01E05.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "6": "https://pub-dae7d70ab28646e599ee57f6e91e25df.r2.dev/Chidiya.Udd.S01E06.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "7": "https://pub-eb4f7063bd054c8d94df4e42d3474a3a.r2.dev/Chidiya.Udd.S01E07.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv",
+		            "8": "https://pub-b76d25c6c7d04fecbd236a356e54ff4a.r2.dev/Chidiya.Udd.S01E08.720p.Hindi.WEB-DL.2.0.ESub.x264-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E01%2019613%201.mkv",
+		            "2": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E02%2019613%202.mkv",
+		            "3": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E03%2019613%203.mkv",
+		            "4": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E04%2019613%204.mkv",
+		            "5": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E05%2019613%205.mkv",
+		            "6": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E06%2019613%206.mkv",
+		            "7": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E07%2019613%207.mkv",
+		            "8": "http://srs.ringzstudio.online/lst/Chidiya%20Udd%20S01E08%2019613%208.mkv"
+		        },
+		        "eTape": {
+		            "1": "https://streamtape.site/v/O23Aw94z1QiZqdX/Chidiya_Udd_S01E01_19613_1.mkv",
+		            "2": "https://streamtape.site/v/WXOpLwg1xjUb4gD/Chidiya_Udd_S01E02_19613_2.mkv",
+		            "3": "https://streamtape.site/v/0WX2QXb6mLIb4Zx/Chidiya_Udd_S01E03_19613_3.mkv",
+		            "4": "https://streamtape.site/v/PjWOkVqM8As00GW/Chidiya_Udd_S01E04_19613_4.mkv",
+		            "5": "https://streamtape.site/v/6wODyG96KPS9rll/Chidiya_Udd_S01E05_19613_5.mkv",
+		            "6": "https://streamtape.site/v/Kz1gzYK3wXIaWo/Chidiya_Udd_S01E06_19613_6.mkv",
+		            "7": "https://streamtape.site/v/0B4L7Md8rkfb8x8/Chidiya_Udd_S01E07_19613_7.mkv",
+		            "8": "https://streamtape.site/v/qZ2oO3RYOZCzJeG/Chidiya_Udd_S01E08_19613_8.mkv"
+		        },
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/mhiecuiP?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/d6EAjpyk?download?.mkv",
+		            "3": "https://pixeldra.in/api/file/8pQnWVZz?download?.mkv",
+		            "4": "https://pixeldra.in/api/file/JD3xT3Zz?download?.mkv",
+		            "5": "https://pixeldra.in/api/file/ZkvkBZvp?download?.mkv",
+		            "6": "https://pixeldra.in/api/file/QMFDH74T?download?.mkv",
+		            "7": "https://pixeldra.in/api/file/DYBGUxAK?download?.mkv",
+		            "8": "https://pixeldra.in/api/file/3xmSMkRt?download?.mkv"
+		        }
+		    }
     ]
 }
