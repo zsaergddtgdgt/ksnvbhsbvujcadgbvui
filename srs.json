@@ -10822,29 +10822,50 @@
             "cg": "webSeries",
             "kn": "Paatal Lok",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E01%201184.mkv",
-                "2": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E02%201185.mkv",
-                "3": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E03%201186.mkv",
-                "4": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E04%201187.mkv",
-                "5": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E05%201188.mkv",
-                "7": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E07%201190.mkv",
-                "8": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E08%201191.mkv",
-                "9": "http://srsold.aapkipooja.com/srs1/Paatal%20Lok%20S01%20E09%201200.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/YGgxVQgV47fdMK/Paatal_Lok_S01_E01_1184.mkv.mp4",
-                "2": "https://streamtape.site/v/OdBOYYGYljcZ8oY/Paatal_Lok_S01_E02_1185.mkv.mp4",
-                "3": "https://streamtape.site/v/YwXakPyGwduvMpw/Paatal_Lok_S01_E03_1186.mkv.mp4",
-                "4": "https://streamtape.site/v/mQKz7B4gY4C6qA/Paatal_Lok_S01_E04_1187.mkv.mp4",
-                "5": "https://streamtape.site/v/ekxa3JOxAKHY4Yl/Paatal_Lok_S01_E05_1188.mkv.mp4",
-                "6": "https://streamtape.not/v/0daBOyVyOqHb3gD/Paatal_Lok_S01E06_1192_6.mkv.mp4",
-                "7": "https://streamtape.site/v/0933j0gAKKTboWj/Paatal_Lok_S01_E07_1190.mkv.mp4",
-                "8": "https://streamtape.site/v/ywg1m9m0awS1Gam/Paatal_Lok_S01_E08_1191.mkv.mp4",
-                "9": "https://streamtape.site/v/6qD4o8QlqKT98py/Paatal_Lok_S01_E09_1200.mkv.mp4"
-            },
-            "eServer4": {}
+			"eServer1": {
+			    "1": "https://pub-fa0db44f715b48eca7cc7456c9542340.r2.dev/Paatal%20Lok%20S01E01%20Hindi%20720p%20WEB-DL%20ESub%20Vegamovies.NL.mkv",
+			    "2": "https://pixeldra.in/api/file/VVdCeven?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/RtBxiW5B?download?.mkv",
+			    "4": "https://pub-be6f8d2e9c8348859d49c62b3b6bd29f.r2.dev/Paatal%20Lok%20S01E04%20Hindi%20720p%20WEB-DL%20ESub%20Vegamovies.NL.mkv",
+			    "5": "https://pub-1e2391366cb24d9aaf036dc32c211615.r2.dev/Paatal%20Lok%20S01E05%20Hindi%20720p%20WEB-DL%20ESub%20Vegamovies.NL.mkv",
+			    "6": "https://pub-55b115ac1cb246f08855e4fc8a5df87c.r2.dev/Paatal%20Lok%20S01E06%20Hindi%20720p%20WEB-DL%20ESub%20Vegamovies.NL.mkv",
+			    "7": "https://pub-d8a039da3a2a4a46a9573922b3997711.r2.dev/Paatal%20Lok%20S01E07%20Hindi%20720p%20WEB-DL%20ESub%20Vegamovies.NL.mkv",
+			    "8": "https://pub-64f6a6431a844e6ea95e38e4864a167f.r2.dev/Paatal%20Lok%20S01E08%20Hindi%20720p%20WEB-DL%20ESub%20Vegamovies.NL.mkv",
+			    "9": "https://pixeldra.in/api/file/DtB8yFT1?download?.mkv"
+			},
+			"eServer2": {
+			    "1": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E01%201192%201.mkv",
+			    "2": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E02%201192%202.mkv",
+			    "3": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E03%201192%203.mkv",
+			    "4": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E04%201192%204.mkv",
+			    "5": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E05%201192%205.mkv",
+			    "6": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E06%201192%206.mkv",
+			    "7": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E07%201192%207.mkv",
+			    "8": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E08%201192%208.mkv",
+			    "9": "http://srs.ringzstudio.online/lst/Paatal%20Lok%20S01E09%201192%209.mkv"
+			},
+			"eTape": {
+			    "1": "https://streamtape.site/v/6BWZYZXbwxh92Gy/Paatal_Lok_S01E01_1192_1.mkv",
+			    "2": "https://streamtape.site/v/VdkVY8yremuKwgG/Paatal_Lok_S01E02_1192_2.mkv",
+			    "3": "https://streamtape.site/v/7GLMAMBr1YhAAe0/Paatal_Lok_S01E03_1192_3.mkv",
+			    "4": "https://streamtape.site/v/g24a16PlWXUqDY2/Paatal_Lok_S01E04_1192_4.mkv",
+			    "5": "https://streamtape.site/v/koBD2gJ8bjUOoZL/Paatal_Lok_S01E05_1192_5.mkv",
+			    "6": "https://streamtape.site/v/J29YQWddPbF69v/Paatal_Lok_S01E06_1192_6.mkv",
+			    "7": "https://streamtape.site/v/zMA7WVko6AUXKp/Paatal_Lok_S01E07_1192_7.mkv",
+			    "8": "https://streamtape.site/v/GPMXDoY6a2h1RD2/Paatal_Lok_S01E08_1192_8.mkv",
+			    "9": "https://streamtape.site/v/GXDgp2bQkLU1DBv/Paatal_Lok_S01E09_1192_9.mkv"
+			},
+			"eServer4": {
+			    "1": "https://pixeldra.in/api/file/Hi4p4zoV?download?.mkv",
+			    "2": "https://pixeldra.in/api/file/VVdCeven?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/RtBxiW5B?download?.mkv",
+			    "4": "https://pixeldra.in/api/file/h5ZEeLGc?download?.mkv",
+			    "5": "https://pixeldra.in/api/file/Yewk4pQk?download?.mkv",
+			    "6": "https://pixeldra.in/api/file/fGeLyHVu?download?.mkv",
+			    "7": "https://pixeldra.in/api/file/cDgAzJ7n?download?.mkv",
+			    "8": "https://pixeldra.in/api/file/ix1LKx61?download?.mkv",
+			    "9": "https://pixeldra.in/api/file/DtB8yFT1?download?.mkv"
+			}
         },
         {
             "id": "298",
@@ -55745,14 +55766,14 @@
                 "8": "http://srs.ringzstudio.online/lst/What%20If%E2%80%A6%3F%20S03E08%2019595%208.mkv"
             },
             "eTape": {
-                "1": "https://streamta.pe/v/JAGBgARK1PCjdJO/What_If…?_S03E01_19595_1.mkv",
-                "2": "https://streamta.pe/v/3paR67OVzAidwpb/What_If…?_S03E02_19595_2.mkv",
-                "3": "https://streamta.pe/v/4zmmJ69JVGuJGb/What_If…?_S03E03_19595_3.mkv",
-                "4": "https://streamta.pe/v/mlDZaLLPBKTbYqo/What_If…?_S03E04_19595_4.mkv",
-                "5": "https://streamta.pe/v/zXk7ab2pwmHXwY/What_If…?_S03E05_19595_5.mkv",
-                "6": "https://streamta.pe/v/LOmgG6JxpxSRoje/What_If…?_S03E06_19595_6.mkv",
-                "7": "https://streamta.pe/v/wyA8b9bmj0FJMwy/What_If…?_S03E07_19595_7.mkv",
-                "8": "https://streamta.pe/v/27GAQR1K1kfZvZR/What_If…?_S03E08_19595_8.mkv"
+                "1": "https://streamtape.site/v/d88yVG4l7qskxg7/What_If%E2%80%A6%3F_S03E01_19595_1.mkv.mp4",
+                "2": "https://streamtape.site/v/3wmyJjLD3zTdB81/What_If%E2%80%A6%3F_S03E02_19595_2.mkv.mp4",
+                "3": "https://streamtape.site/v/Qaj0Vp3o6MsRBl/What_If%E2%80%A6%3F_S03E03_19595_3.mkv.mp4",
+                "4": "https://streamtape.site/v/9WrRqy9aZpfaQwP/What_If%E2%80%A6%3F_S03E04_19595_4.mkv.mp4",
+                "5": "https://streamtape.site/v/dLPy0aYqVLIkx1G/What_If%E2%80%A6%3F_S03E05_19595_5.mkv.mp4",
+                "6": "https://streamtape.site/v/mqYg6MjDY0IbgyQ/What_If%E2%80%A6%3F_S03E06_19595_6.mkv.mp4",
+                "7": "https://streamtape.site/v/r00oOVDqrXHbz86/What_If%E2%80%A6%3F_S03E07_19595_7.mkv",
+                "8": "https://streamtape.site/v/ew40ZZp0jqtmLD/What_If%E2%80%A6%3F_S03E08_19595_8.mkv"
             },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/vfaNyHb4?download?.mkv",
@@ -55834,7 +55855,7 @@
                 "1": "http://srs.ringzstudio.online/lst/Pyramid%20%E2%80%93%20Scheme%20Ya%20Scam%20S01E01%2019598%201.mkv"
             },
             "eTape": {
-                "1": "https://streamta.pe/v/QPrdXgXly2H0LAJ/Pyramid_–_Scheme_Ya_Scam_S01E01_19598_1.mkv"
+                "1": "https://streamtape.site/v/l4grLrB0eRioO9/Pyramid_%E2%80%93_Scheme_Ya_Scam_S01E01_19598_1.mkv.mp4"
             },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/wkiAgcUt?download?.mkv"
@@ -56338,11 +56359,11 @@
                 "5": "http://srs.ringzstudio.online/lst/Hounds%20Hill%20(Wzg%C3%B3rze%20ps%C3%B3w)%20S01E05%2019607%205.mkv"
             },
             "eTape": {
-                "1": "https://streamta.pe/v/GAYP0xKdpOT1rWZ/Hounds_Hill_(Wzgórze_psów)_S01E01_19607_1.mkv",
-                "2": "https://streamta.pe/v/ybqv9VL0J0C16Kv/Hounds_Hill_(Wzgórze_psów)_S01E02_19607_2.mkv",
-                "3": "https://streamta.pe/v/qKxX1Gjj12UL3G/Hounds_Hill_(Wzgórze_psów)_S01E03_19607_3.mkv",
-                "4": "https://streamta.pe/v/q7ODYbbmMVtz230/Hounds_Hill_(Wzgórze_psów)_S01E04_19607_4.mkv",
-                "5": "https://streamta.pe/v/3aQ3zm61jdhadA/Hounds_Hill_(Wzgórze_psów)_S01E05_19607_5.mkv"
+                "1": "https://streamtape.site/v/16GKPdly2XHe2p3/Hounds_Hill_%28Wzg%C3%B3rze_ps%C3%B3w%29_S01E01_19607_1.mkv.mp4",
+                "2": "https://streamtape.site/v/16vZKmkPkmUp1r/Hounds_Hill_%28Wzg%C3%B3rze_ps%C3%B3w%29_S01E02_19607_2.mkv.mp4",
+                "3": "https://streamtape.site/v/Oakje846qQsZ8KK/Hounds_Hill_%28Wzg%C3%B3rze_ps%C3%B3w%29_S01E03_19607_3.mkv.mp4",
+                "4": "https://streamtape.site/v/pjDrX1Ro1OFrPXj/Hounds_Hill_%28Wzg%C3%B3rze_ps%C3%B3w%29_S01E04_19607_4.mkv.mp4",
+                "5": "https://streamtape.site/v/Yw2pldROkRCvAyz/Hounds_Hill_%28Wzg%C3%B3rze_ps%C3%B3w%29_S01E05_19607_5.mkv.mp4"
             },
             "eServer4": {
                 "1": "https://pixeldra.in/api/file/rvbtaPsZ?download?.mkv",
