@@ -32730,32 +32730,54 @@
             "cg": "webSeries",
             "kn": "The Night Agent",
             "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E01_18990_1.mkv.mp4",
-                "2": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E02_18990_2.mkv.mp4",
-                "3": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E03_18990_3.mkv.mp4",
-                "4": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E04_18990_4.mkv.mp4",
-                "5": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E05_18990_5.mkv.mp4",
-                "6": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E06_18990_6.mkv.mp4",
-                "7": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E07_18990_7.mkv.mp4",
-                "8": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E08_18990_8.mkv.mp4",
-                "9": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E09_18990_9.mkv.mp4",
-                "10": "http://srsold.aapkipooja.com/srs3/The_Night_Agent_S01E010_18990_10.mkv.mp4"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/Qw47OkZLeDC03Rr/The_Night_Agent_S01E01_18990_1.mkv.mp4",
-                "2": "https://streamtape.site/v/mPzdaaL9QqsQOb/The_Night_Agent_S01E02_18990_2.mkv.mp4",
-                "3": "https://streamtape.site/v/e2a3d82gKLHYzGq/The_Night_Agent_S01E03_18990_3.mkv.mp4",
-                "4": "https://streamtape.site/v/k3X9VWR2BatOoxP/The_Night_Agent_S01E04_18990_4.mkv.mp4",
-                "5": "https://streamtape.site/v/M0wpXa6WLjfmm4Z/The_Night_Agent_S01E05_18990_5.mkv.mp4",
-                "6": "https://streamtape.site/v/gvLb3VBDpjTqlm6/The_Night_Agent_S01E06_18990_6.mkv.mp4",
-                "7": "https://streamtape.site/v/0AqXLWvBYXHZbq/The_Night_Agent_S01E07_18990_7.mkv.mp4",
-                "8": "https://streamtape.site/v/k9yk4WQa7kSe3O/The_Night_Agent_S01E08_18990_8.mkv.mp4",
-                "9": "https://streamtape.site/v/vVdA7kPG3lc4XDd/The_Night_Agent_S01E09_18990_9.mkv.mp4",
-                "10": "https://streamtape.site/v/l42Prw741aT7X9j/The_Night_Agent_S01E010_18990_10.mkv.mp4"
-            },
-            "eServer4": {}
+			"eServer1": {
+			    "1": "https://pub-f4f2f1420664437dba6a3099af67c4b7.r2.dev/The_Night_Agent_S01E01_The_Call_720p_NF_WEB_DL_AAC5_1_HEVC_Vegamovies.to.mkv",
+			    "2": "https://pixeldra.in/api/file/7uqYU92y?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/1t2thLUQ?download?.mkv",
+			    "4": "https://pub-9c7a4615851e4a4e9d6affff9c4be8b9.r2.dev/The_Night_Agent_S01E04_Eyes_Only_720p_NF_WEB_DL_AAC5_1_HEVC_Vegamovies.to.mkv",
+			    "5": "https://pixeldra.in/api/file/3FZUMqie?download?.mkv",
+			    "6": "https://pixeldra.in/api/file/e6isBzCF?download?.mkv",
+			    "7": "https://pixeldra.in/api/file/2CVJYEoL?download?.mkv",
+			    "8": "https://pixeldra.in/api/file/yRmGSBbS?download?.mkv",
+			    "9": "https://pixeldra.in/api/file/iG28JW4y?download?.mkv",
+			    "10": "https://pixeldra.in/api/file/KYpTEFU3?download?.mkv"
+			},
+			"eServer2": {
+			    "1": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E01%2018990%201.mkv",
+			    "2": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E02%2018990%202.mkv",
+			    "3": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E03%2018990%203.mkv",
+			    "4": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E04%2018990%204.mkv",
+			    "5": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E05%2018990%205.mkv",
+			    "6": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E06%2018990%206.mkv",
+			    "7": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E07%2018990%207.mkv",
+			    "8": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E08%2018990%208.mkv",
+			    "9": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E09%2018990%209.mkv",
+			    "10": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S01E10%2018990%2010.mkv"
+			},
+			"eTape": {
+			    "1": "https://streamtape.site/v/q7QALzoZkJHAPy/The_Night_Agent_S01E01_18990_1.mkv",
+			    "2": "https://streamtape.site/v/Qr3jVA8j4bhg06/The_Night_Agent_S01E02_18990_2.mkv",
+			    "3": "https://streamtape.site/v/W9Rpoxd7Xqhbvyb/The_Night_Agent_S01E03_18990_3.mkv",
+			    "4": "https://streamtape.site/v/L36vKAZmwkIbyp/The_Night_Agent_S01E04_18990_4.mkv",
+			    "5": "https://streamtape.site/v/MXJJyQB2QDFekG/The_Night_Agent_S01E05_18990_5.mkv",
+			    "6": "https://streamtape.site/v/RBdLOvdDVGHZJM/The_Night_Agent_S01E06_18990_6.mkv",
+			    "7": "https://streamtape.site/v/7bQllYWWkKuAlDZ/The_Night_Agent_S01E07_18990_7.mkv",
+			    "8": "https://streamtape.site/v/eY1Lj2bJJ6iZOp/The_Night_Agent_S01E08_18990_8.mkv",
+			    "9": "https://streamtape.site/v/j7zDQXBvjvfaWL/The_Night_Agent_S01E09_18990_9.mkv",
+			    "10": "https://streamtape.site/v/09eWwQ1a7aSbqzX/The_Night_Agent_S01E10_18990_10.mkv"
+			},
+			"eServer4": {
+			    "1": "https://pixeldra.in/api/file/KfGuuy9Z?download?.mkv",
+			    "2": "https://pixeldra.in/api/file/7uqYU92y?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/1t2thLUQ?download?.mkv",
+			    "4": "https://pixeldra.in/api/file/AzKMJLQx?download?.mkv",
+			    "5": "https://pixeldra.in/api/file/3FZUMqie?download?.mkv",
+			    "6": "https://pixeldra.in/api/file/e6isBzCF?download?.mkv",
+			    "7": "https://pixeldra.in/api/file/2CVJYEoL?download?.mkv",
+			    "8": "https://pixeldra.in/api/file/yRmGSBbS?download?.mkv",
+			    "9": "https://pixeldra.in/api/file/iG28JW4y?download?.mkv",
+			    "10": "https://pixeldra.in/api/file/KYpTEFU3?download?.mkv"
+			}
         },
         {
             "id": "992",
@@ -57117,6 +57139,67 @@
                 "7": "https://pixeldra.in/api/file/qfkhUvuc?download?.mkv",
                 "8": "https://pub-621a1bbf17904eaabbb0b05a119b9566.r2.dev/Paatal.Lok.S02E08.720p.Hindi.WEB-DL.5.1.ESub.x264-Vegamovies.is.mkv"
             }
-        }
+        },
+		{
+		        "id": "1621",
+		        "IH": "https://ereviewwala.com/Poster/Series/H2/The%20Night%20Agent%20Season%202.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Series/V2/The%20Night%20Agent%20Season%202.jpg",
+		        "mn": "The Night Agent Season 2",
+		        "hf": "https://www.19621",
+		        "lng": "Hindi+English",
+		        "trailer": "wEUO1bGMBhQ",
+		        "gn": "Action,Thriller",
+		        "cg": "webSeries",
+		        "kn": "The Night Agent",
+		        "pn": "S02",
+		        "eServer1": {
+		            "1": "https://pub-1403f41626884551817cb8911f08378c.r2.dev/The.Night.Agent.S02.E01.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "2": "https://pub-040980b7675042a59a234bd4179cd1ef.r2.dev/The.Night.Agent.S02.E02.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "3": "https://pub-9e28eca349294ad88fc933ba56bf2c83.r2.dev/The.Night.Agent.S02.E03.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "4": "https://pub-46bcfb5a46734b5b94863a3c5d6ca655.r2.dev/The.Night.Agent.S02.E04.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "5": "https://pub-4c5dc9b2aad241b5b8afcaae27f358a5.r2.dev/The.Night.Agent.S02.E05.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "6": "https://pub-a507ad81b8de4764bb39d12854d31550.r2.dev/The.Night.Agent.S02.E06.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "7": "https://pub-fda6a99ac80a40cdbbee11abd3636e61.r2.dev/The.Night.Agent.S02.E07.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "8": "https://pub-f2fbe90e00ab48dd88931b5dd2e0d9d1.r2.dev/The.Night.Agent.S02.E08.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "9": "https://pub-c22107db43114286a0931d2a1ab9b2c6.r2.dev/The.Night.Agent.S02.E09.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv",
+		            "10": "https://pub-60f37741b9b94a1f9bf09b37c91eab4f.r2.dev/The.Night.Agent.S02.E10.Web-dl.720p.Hindi.English.AAC.5.1.x264.MSubs.Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E01%2019621%201.mkv",
+		            "2": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E02%2019621%202.mkv",
+		            "3": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E03%2019621%203.mkv",
+		            "4": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E04%2019621%204.mkv",
+		            "5": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E05%2019621%205.mkv",
+		            "6": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E06%2019621%206.mkv",
+		            "7": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E07%2019621%207.mkv",
+		            "8": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E08%2019621%208.mkv",
+		            "9": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E09%2019621%209.mkv",
+		            "10": "http://srs.ringzstudio.online/lst/The%20Night%20Agent%20S02E10%2019621%2010.mkv"
+		        },
+		        "eTape": {
+		            "1": "https://streamtape.site/v/rbjWoyzL3ZhMa2/The_Night_Agent_S02E01_19621_1.mkv",
+		            "2": "https://streamtape.site/v/p7rW41Z78rilvK/The_Night_Agent_S02E02_19621_2.mkv",
+		            "3": "https://streamtape.site/v/oLOMaOZvVVHJo8R/The_Night_Agent_S02E03_19621_3.mkv",
+		            "4": "https://streamtape.site/v/XrvyWDbv2asD80a/The_Night_Agent_S02E04_19621_4.mkv",
+		            "5": "https://streamtape.site/v/0zpV1Y37V6SDGq/The_Night_Agent_S02E05_19621_5.mkv",
+		            "6": "https://streamtape.site/v/eGaVX2ep7LiYGdY/The_Night_Agent_S02E06_19621_6.mkv",
+		            "7": "https://streamtape.site/v/k9oLmqjzb0TOqyA/The_Night_Agent_S02E07_19621_7.mkv",
+		            "8": "https://streamtape.site/v/yGYbqWV1o3I1GDG/The_Night_Agent_S02E08_19621_8.mkv",
+		            "9": "https://streamtape.site/v/z6OZBzqj9OSk1G/The_Night_Agent_S02E09_19621_9.mkv",
+		            "10": "https://streamtape.site/v/9v29b86J7lhZ8Y/The_Night_Agent_S02E10_19621_10.mkv"
+		        },
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/ANjhZhmd?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/D7WGB13L?download?.mkv",
+		            "3": "https://pixeldra.in/api/file/Kuvi4Qsz?download?.mkv",
+		            "4": "https://pixeldra.in/api/file/pGhedNR7?download?.mkv",
+		            "5": "https://pixeldra.in/api/file/Q67XUgDe?download?.mkv",
+		            "6": "https://pixeldra.in/api/file/wyxYnPYw?download?.mkv",
+		            "7": "https://pixeldra.in/api/file/tzGmLiw2?download?.mkv",
+		            "8": "https://pixeldra.in/api/file/yZQdEHyT?download?.mkv",
+		            "9": "https://pixeldra.in/api/file/6ua6eebE?download?.mkv",
+		            "10": "https://pixeldra.in/api/file/4MH8Jfut?download?.mkv"
+		        }
+		    }
     ]
 }
