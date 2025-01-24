@@ -34028,28 +34028,46 @@
             "cg": "webSeries",
             "kn": "Inspector Avinash",
             "pn": "S1",
-            "eServer1": {
-                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E01.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "2": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E02.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "3": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E03.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "4": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E04.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "5": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E05.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "6": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.2023.S1E6.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "7": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.2023.S1E7.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "8": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.2023.S1E8.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv"
-            },
-            "eServer2": {},
-            "eTape": {},
-            "eServer4": {
-                "1": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E01.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "2": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E02.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "3": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E03.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "4": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E04.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "5": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.S01E05.720pWEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "6": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.2023.S1E6.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "7": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.2023.S1E7.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv",
-                "8": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Inspector.Avinash.2023.S1E8.720p.WEB-DL.AAC.5.1.ESub.x264-HDHub4u.Tv.mkv"
-            }
+			"eServer1": {
+			    "1": "https://pixeldra.in/api/file/5nVXDnX5?download?.mkv",
+			    "2": "https://pixeldra.in/api/file/Jd2E7sU8?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/uX5RCnWW?download?.mkv",
+			    "4": "https://pixeldra.in/api/file/9MdPM7VA?download?.mkv",
+			    "5": "https://pub-9d2634ce08c149459af973844238fbbe.r2.dev/Inspector.Avinash.S01E05.A.huge.responsibility.for.Avinash.720p.JIO.WEB-DL.DD+5.1.H.264-Vegamovies.to.mkv",
+			    "6": "https://pixeldra.in/api/file/BMNwUMre?download?.mkv",
+			    "7": "https://pixeldra.in/api/file/VWEhVC73?download?.mkv",
+			    "8": "https://pixeldra.in/api/file/YofotPmg?download?.mkv"
+			},
+			"eServer2": {
+			    "1": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E01%2019031%201.mkv",
+			    "2": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E02%2019031%202.mkv",
+			    "3": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E03%2019031%203.mkv",
+			    "4": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E04%2019031%204.mkv",
+			    "5": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E05%2019031%205.mkv",
+			    "6": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E06%2019031%206.mkv",
+			    "7": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E07%2019031%207.mkv",
+			    "8": "http://srs.ringzstudio.online/lst/Inspector%20Avinash%20S01E08%2019031%208.mkv"
+			},
+			"eTape": {
+			    "1": "https://streamtape.site/v/LYmy9gm3AQIRQd0/Inspector_Avinash_S01E01_19031_1.mkv",
+			    "2": "https://streamtape.site/v/e0M3MV02lzUYRJa/Inspector_Avinash_S01E02_19031_2.mkv",
+			    "3": "https://streamtape.site/v/Vy3jYqgzlYFK7yW/Inspector_Avinash_S01E03_19031_3.mkv",
+			    "4": "https://streamtape.site/v/9pLBk2LPWdIaJ9k/Inspector_Avinash_S01E04_19031_4.mkv",
+			    "5": "https://streamtape.site/v/xe2XVYpx4OTk4e6/Inspector_Avinash_S01E05_19031_5.mkv",
+			    "6": "https://streamtape.site/v/jvJbDBabZZhmMv/Inspector_Avinash_S01E06_19031_6.mkv",
+			    "7": "https://streamtape.site/v/8PAkWW8qwvf88a/Inspector_Avinash_S01E07_19031_7.mkv",
+			    "8": "https://streamtape.site/v/vreR1Q8GLzh46Dr/Inspector_Avinash_S01E08_19031_8.mkv"
+			},
+			"eServer4": {
+			    "1": "https://pixeldra.in/api/file/5nVXDnX5?download?.mkv",
+			    "2": "https://pixeldra.in/api/file/Jd2E7sU8?download?.mkv",
+			    "3": "https://pixeldra.in/api/file/uX5RCnWW?download?.mkv",
+			    "4": "https://pixeldra.in/api/file/9MdPM7VA?download?.mkv",
+			    "5": "https://pixeldra.in/api/file/HW6bU8aB?download?.mkv",
+			    "6": "https://pixeldra.in/api/file/BMNwUMre?download?.mkv",
+			    "7": "https://pixeldra.in/api/file/VWEhVC73?download?.mkv",
+			    "8": "https://pixeldra.in/api/file/YofotPmg?download?.mkv"
+			}
         },
         {
             "id": "1022",
