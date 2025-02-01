@@ -56974,55 +56974,6 @@
 					"12": "https://pixeldra.in/api/file/vuva3iKj?download?.mkv"
 			    }
 			},
-			{
-			    "id": "1587",
-			    "IH": "https://ereviewwala.com/Poster/Series/H2/Beast%20Games%20Season%201.jpg",
-			    "IV": "https://ereviewwala.com/Poster/Series/V2/Beast%20Games%20Season%201.jpg",
-			    "mn": "Beast Games Season 1",
-			    "hf": "https://www.19587",
-			    "lng": "Hindi+English",
-			    "trailer": "myH4Fyi4qj0",
-			    "gn": "RealityTv",
-			    "cg": "webSeries",
-			    "kn": "Beast Games",
-			    "pn": "S01",
-			    "eServer1": {
-			        "1": "https://pub-f1b9ef6dc61f4ad48ba76cb7c7ad23c5.r2.dev/Beast.Games.S01E01.720p.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
-			        "2": "https://pub-085da5e1dad74de090736b95d374f6b4.r2.dev/Beast.Games.S01E02.720p.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
-			        "3": "https://pub-6b4a6b8210bb46d889c19dae0593fe11.r2.dev/Beast.Games.S01.E03.WEB-DL.720p.Hindi.English.AAC.2.0.x264.MSubs.Vegamovies.is.mkv",
-			        "4": "https://pub-5381d53784b3403292fe4ce5d30fc873.r2.dev/Beast.Games.S01E04.720p.Hindi.English.Esubs.Vegamovies.is.mkv",
-			        "5": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Beast.Games.S01E05.720p.WEB-DL.Hindi.2.0-English.2.0.MSub.x264-HDHub4u.Tv.mkv",
-			        "6": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Beast.Games.S01E06.720p.WEB-DL.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Tv.mkv",
-					"7": "https://pub-52b08165b9764daea2513d27e43389e9.r2.dev/Beast.Games.S01E07.The.Elimination.Train.720p.AMZN.WEB-DL.DDP2.0.H.265-Vegamovies.is.mkv"
-			    },
-			    "eServer2": {
-			        "1": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E01%2019587%201.mkv",
-			        "2": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E02%2019587%202.mkv",
-			        "3": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E03%2019587%203.mkv",
-			        "4": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E04%2019587%204.mkv",
-			        "5": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E05%2019587%205.mkv",
-			        "6": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E06%2019587%206.mkv",
-					"7": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E07%2019587%207.mkv"
-			    },
-			    "eTape": {
-			        "1": "https://streamtape.site/v/aYPeOQl1O8S0je/Beast_Games_S01E01_19587_1.mkv.mp4",
-			        "2": "https://streamtape.site/v/zM2JODx080IYwma/Beast_Games_S01E02_19587_2.mkv.mp4",
-			        "3": "https://streamtape.site/v/PD7YPKglkJh00KZ/Beast_Games_S01E03_19587_3.mkv.mp4",
-			        "4": "https://streamtape.site/v/dqvdOD3aRxCkvj7/Beast_Games_S01E04_19587_4.mkv.mp4",
-			        "5": "https://streamtape.site/v/dVrLW61jrVSkkgW/Beast_Games_S01E05_19587_5.mkv.mp4",
-			        "6": "https://streamtape.site/v/OrjQMM1BW9UZ43M/Beast_Games_S01E06_19587_6.mkv.mp4",
-					"7": "https://streamtape.site/v/vpo2ywjwoeC4rk0/Beast_Games_S01E07_19587_7.mkv"
-			    },
-			    "eServer4": {
-			        "1": "https://pixeldra.in/api/file/xiR4QKfq?download?.mkv",
-			        "2": "https://pixeldra.in/api/file/dxnAeGj3?download?.mkv",
-			        "3": "https://pixeldra.in/api/file/WfeNeRr4?download?.mkv",
-			        "4": "https://pixeldra.in/api/file/KwPBLkC5?download?.mkv",
-			        "5": "https://pixeldra.in/api/file/eKtkqX8F?download?.mkv",
-			        "6": "https://pixeldra.in/api/file/2nD3PaWc?download?.mkv",
-					"7": "https://pixeldra.in/api/file/zkJKkwPF?download?.mkv"				
-			    }
-			},
         {
             "id": "1616",
             "IH": "https://ereviewwala.com/Poster/Series/H2/Paatal%20Lok%20Season%202.jpg",
@@ -57601,6 +57552,59 @@
 			            "6": "https://pixeldra.in/api/file/rRhkeS5V?download?.mkv"
 			        }
 			    },
+				{
+				    "id": "1587",
+				    "IH": "https://ereviewwala.com/Poster/Series/H2/Beast%20Games%20Season%201.jpg",
+				    "IV": "https://ereviewwala.com/Poster/Series/V2/Beast%20Games%20Season%201.jpg",
+				    "mn": "Beast Games Season 1",
+				    "hf": "https://www.19587",
+				    "lng": "Hindi+English",
+				    "trailer": "myH4Fyi4qj0",
+				    "gn": "RealityTv",
+				    "cg": "webSeries",
+				    "kn": "Beast Games",
+				    "pn": "S01",
+				    "eServer1": {
+				        "1": "https://pub-f1b9ef6dc61f4ad48ba76cb7c7ad23c5.r2.dev/Beast.Games.S01E01.720p.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+				        "2": "https://pub-085da5e1dad74de090736b95d374f6b4.r2.dev/Beast.Games.S01E02.720p.HIN-ENG.x265.ESub-Vegamovies.is.mkv",
+				        "3": "https://pub-6b4a6b8210bb46d889c19dae0593fe11.r2.dev/Beast.Games.S01.E03.WEB-DL.720p.Hindi.English.AAC.2.0.x264.MSubs.Vegamovies.is.mkv",
+				        "4": "https://pub-5381d53784b3403292fe4ce5d30fc873.r2.dev/Beast.Games.S01E04.720p.Hindi.English.Esubs.Vegamovies.is.mkv",
+				        "5": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Beast.Games.S01E05.720p.WEB-DL.Hindi.2.0-English.2.0.MSub.x264-HDHub4u.Tv.mkv",
+				        "6": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Beast.Games.S01E06.720p.WEB-DL.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Tv.mkv",
+						"7": "https://pub-52b08165b9764daea2513d27e43389e9.r2.dev/Beast.Games.S01E07.The.Elimination.Train.720p.AMZN.WEB-DL.DDP2.0.H.265-Vegamovies.is.mkv",
+						"8": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Beast.Games.S01E08.720p.WEB-DL.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Tv.mkv"
+				    },
+				    "eServer2": {
+				        "1": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E01%2019587%201.mkv",
+				        "2": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E02%2019587%202.mkv",
+				        "3": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E03%2019587%203.mkv",
+				        "4": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E04%2019587%204.mkv",
+				        "5": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E05%2019587%205.mkv",
+				        "6": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E06%2019587%206.mkv",
+						"7": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E07%2019587%207.mkv",
+						"8": "http://srs.ringzstudio.online/lst/Beast%20Games%20S01E08%2019587%208.mkv"
+				    },
+				    "eTape": {
+				        "1": "https://streamtape.site/v/aYPeOQl1O8S0je/Beast_Games_S01E01_19587_1.mkv.mp4",
+				        "2": "https://streamtape.site/v/zM2JODx080IYwma/Beast_Games_S01E02_19587_2.mkv.mp4",
+				        "3": "https://streamtape.site/v/PD7YPKglkJh00KZ/Beast_Games_S01E03_19587_3.mkv.mp4",
+				        "4": "https://streamtape.site/v/dqvdOD3aRxCkvj7/Beast_Games_S01E04_19587_4.mkv.mp4",
+				        "5": "https://streamtape.site/v/dVrLW61jrVSkkgW/Beast_Games_S01E05_19587_5.mkv.mp4",
+				        "6": "https://streamtape.site/v/OrjQMM1BW9UZ43M/Beast_Games_S01E06_19587_6.mkv.mp4",
+						"7": "https://streamtape.site/v/vpo2ywjwoeC4rk0/Beast_Games_S01E07_19587_7.mkv",
+						"8": "https://streamtape.site/v/YPw9mYbgWdtpa9/Beast_Games_S01E08_19587_8.mkv"
+				    },
+				    "eServer4": {
+				        "1": "https://pixeldra.in/api/file/xiR4QKfq?download?.mkv",
+				        "2": "https://pixeldra.in/api/file/dxnAeGj3?download?.mkv",
+				        "3": "https://pixeldra.in/api/file/WfeNeRr4?download?.mkv",
+				        "4": "https://pixeldra.in/api/file/KwPBLkC5?download?.mkv",
+				        "5": "https://pixeldra.in/api/file/eKtkqX8F?download?.mkv",
+				        "6": "https://pixeldra.in/api/file/2nD3PaWc?download?.mkv",
+						"7": "https://pixeldra.in/api/file/zkJKkwPF?download?.mkv",
+						"8": "https://pixeldra.in/api/file/eKC6xCCo?download?.mkv"				
+				    }
+				},
 			    {
 			        "id": "1626",
 			        "IH": "https://ereviewwala.com/Poster/Series/H2/American%20Manhunt%20-%20O.J.%20Simpson%20Season%201.jpg",
