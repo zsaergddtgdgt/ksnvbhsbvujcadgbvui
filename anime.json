@@ -1,6 +1,62 @@
 {
     "webSeriesDataList": [
 		{
+		        "id": "116",
+		        "IH": "https://ereviewwala.com/Poster/Anime/H2/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Anime/V2/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20Season%201.jpg",
+		        "mn": "The World’s Finest Assassin Gets Reincarnated in Another World as an Aristocrat Season 1",
+		        "hf": "https://www.116",
+		        "lng": "Hindi+Eng+Jap",
+		        "trailer": "FALSE",
+		        "gn": "Anime,Action",
+		        "cg": "webSeries",
+		        "kn": "The World’s Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-eec745bcbe2d475ba6725cf6c7bd1f81.r2.dev/The.Worlds.Finest.Assassin.S01E01.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "2": "https://pub-3fa5f3af8ead4f15b887f45ce3c4d9b9.r2.dev/The.Worlds.Finest.Assassin.S01E02.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "3": "https://pub-e673d544f9fa42debed32e02c0c851e9.r2.dev/The.Worlds.Finest.Assassin.S01E03.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "4": "https://pub-13ad2ce85eae4b559d38a644021948f7.r2.dev/The.Worlds.Finest.Assassin.S01E04.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "5": "https://pub-85e1d0c7dc7f4c0d8dcb3c5939611bf7.r2.dev/The.Worlds.Finest.Assassin.S01E05.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "6": "https://pub-3f2d717607a14e878548c34750f55ee0.r2.dev/The.Worlds.Finest.Assassin.S01E06.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "7": "https://pub-63e1b6af46f54fb3b1506ac88aa37729.r2.dev/The.Worlds.Finest.Assassin.S01E07.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "8": "https://pub-9f9f39bcde6844d8bff8da45d935287e.r2.dev/The.Worlds.Finest.Assassin.S01E08.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "9": "https://pub-281593799fd04d87a4dbae9c4f2fea56.r2.dev/The.Worlds.Finest.Assassin.S01E09.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+					"10": "https://pub-786beb6e667d493ebfeb42a4fed1878b.r2.dev/The.Worlds.Finest.Assassin.S01E10.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+					"11": "https://pub-a479f7d2a77d491fad99f5f83e8b4d3c.r2.dev/The.Worlds.Finest.Assassin.S01E11.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv",
+					"12": "https://pub-824de56f71bc47979079fe4b7e11a1e4.r2.dev/The.Worlds.Finest.Assassin.S01E12.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E01%20116%201.mkv",
+		            "2": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E02%20116%202.mkv",
+		            "3": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E03%20116%203.mkv",
+		            "4": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E04%20116%204.mkv",
+		            "5": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E05%20116%205.mkv",
+		            "6": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E06%20116%206.mkv",
+		            "7": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E07%20116%207.mkv",
+		            "8": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E08%20116%208.mkv",
+		            "9": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E09%20116%209.mkv",
+					"10": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E10%20116%2010.mkv",
+					"11": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E11%20116%2011.mkv",
+					"12": "http://anime.ringzstudio.online/anime/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20S01E12%20116%2012.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/ZzXUsU6Y?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/mcuV4oRp?download?.mkv",
+		            "3": "https://pixeldra.in/api/file/MhjsPg3z?download?.mkv",
+		            "4": "https://pixeldra.in/api/file/u2vyLR4y?download?.mkv",
+		            "5": "https://pixeldra.in/api/file/aABHTDop?download?.mkv",
+		            "6": "https://pixeldra.in/api/file/nCVQ8wC8?download?.mkv",
+		            "7": "https://pixeldra.in/api/file/wq53zLKV?download?.mkv",
+		            "8": "https://pixeldra.in/api/file/GTBb146V?download?.mkv",
+		            "9": "https://pixeldra.in/api/file/bjJFwURa?download?.mkv",
+					"10": "https://pixeldra.in/api/file/dupa8Zzg?download?.mkv",
+					"11": "https://pixeldra.in/api/file/XQezCJDB?download?.mkv",
+					"12": "https://pixeldra.in/api/file/m9EZtj9F?download?.mkv"
+		        }
+		    },
+		{
 		        "id": "115",
 		        "IH": "https://ereviewwala.com/Poster/Anime/H2/Attack%20on%20Titan%20Season%201.jpg",
 		        "IV": "https://ereviewwala.com/Poster/Anime/V2/Attack%20on%20Titan%20Season%201.jpg",
