@@ -1,5 +1,56 @@
 {
     "webSeriesDataList": [
+	          	{
+						        "id": "714",
+						        "IH": "https://ereviewwala.com/Poster/Adult/H1/Dekho%20Magar%20Pyar%20Se%20Season%201.jpg",
+						        "IV": "https://ereviewwala.com/Poster/Adult/V1/Dekho%20Magar%20Pyar%20Se%20Season%201.png",
+						        "mn": "Dekho Magar Pyar Se Season 1",
+						        "hf": "https://www.714",
+						        "lng": "Hindi",
+						        "ind": "Ullu",
+						        "trailer": "P9GaG-j7sgc",
+						        "gn": "Adult",
+						        "cg": "webSeries",
+						        "kn": "Dekho Magar Pyar Se",
+						        "pn": "S01",
+						        "eServer1": {
+						            "1": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Dekho.Magar.Pyar.Se.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-SkymoviesHD.mkv"
+						        },
+						        "eServer2": {
+						            "1": "http://adult.ringzstudio.online/adult/Dekho%20Magar%20Pyar%20Se%20S01E01%20714%201.mkv"
+						        },
+						        "eTape": {},
+						        "eServer4": {
+						            "1": "https://pixeldra.in/api/file/rddNgUrK?download?.mkv"
+						        }
+						    },
+		{
+				        "id": "713",
+				        "IH": "https://ereviewwala.com/Poster/Adult/H1/Mere%20Angane%20Mein%20Season%201.jpg",
+				        "IV": "https://ereviewwala.com/Poster/Adult/V1/Mere%20Angane%20Mein%20Season%201.jpg",
+				        "mn": "Mere Angane Mein Season 1",
+				        "hf": "https://www.713",
+				        "lng": "Hindi",
+				        "ind": "Ullu",
+				        "trailer": "yezDsXNMk0E",
+				        "gn": "Adult",
+				        "cg": "webSeries",
+				        "kn": "Mere Angane Mein",
+				        "pn": "S01",
+				        "eServer1": {
+				            "1": "https://pub-59132cd62a9148f9bc3e463dfc95b9a2.r2.dev/Mere.Angane.Mein.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+							"2": "https://pub-b408714137e04b968caa97c726e2493e.r2.dev/Mere.Angane.Mein.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+				        },
+				        "eServer2": {
+				            "1": "http://adult.ringzstudio.online/adult/Mere%20Angane%20Mein%20S01E01%20713%201.mkv",
+							"2": "http://adult.ringzstudio.online/adult/Mere%20Angane%20Mein%20S01E02%20713%202.mkv"
+				        },
+				        "eTape": {},
+				        "eServer4": {
+				            "1": "https://pixeldra.in/api/file/d6YbKTvA?download?.mkv",
+							"2": "https://pixeldra.in/api/file/xmSHtM9B?download?.mkv"
+				        }
+				    },
 		{
 		        "id": "712",
 		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Utha%20Le%20Jaunga%20Season%201.jpg",
