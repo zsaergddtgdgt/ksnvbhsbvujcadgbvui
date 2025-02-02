@@ -1,6 +1,32 @@
 {
     "webSeriesDataList": [
 		{
+		        "id": "117",
+		        "IH": "https://ereviewwala.com/Poster/Anime/H2/Solo%20Leveling%20Season%202.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Anime/V2/Solo%20Leveling%20Season%202.jpg",
+		        "mn": "Solo Leveling Season 2",
+		        "hf": "https://www.117",
+		        "lng": "Hindi+Eng+Jap",
+		        "trailer": "FALSE",
+		        "gn": "Anime,Action",
+		        "cg": "webSeries",
+		        "kn": "Solo Leveling",
+		        "pn": "S02",
+		        "eServer1": {
+		            "1": "https://pub-09edf288a9634ed489a9e697add43b44.r2.dev/Solo.Leveling.S02E01.1080p.HIN.ENG.JAP.Vegamovies.is.mkv",
+		            "2": "https://pub-d5cb1111d9ef4271953e151e0ac3b03c.r2.dev/Solo.Leveling.S02E02.1080p.[HIN.ENG.JAP].Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://anime.ringzstudio.online/anime/Solo%20Leveling%20S02E01%20117%201.mkv",
+		            "2": "http://anime.ringzstudio.online/anime/Solo%20Leveling%20S02E02%20117%202.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/12x19un2?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/bFGewCHb?download?.mkv"
+		        }
+		    },
+		{
 		        "id": "116",
 		        "IH": "https://ereviewwala.com/Poster/Anime/H2/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20Season%201.jpg",
 		        "IV": "https://ereviewwala.com/Poster/Anime/V2/The%20World%E2%80%99s%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20Season%201.jpg",
