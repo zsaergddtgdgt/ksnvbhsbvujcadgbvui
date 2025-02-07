@@ -34962,41 +34962,6 @@
             "eServer4": {}
         },
         {
-            "id": "1070",
-            "IH": "https://api.aapkipooja.com/Poster/Series/H1/Invincible%20Season%201.jpg",
-            "IV": "https://api.aapkipooja.com/Poster/Series/V1/Invincible%20Season%201.jpg",
-            "mn": "Invincible Season 1",
-            "hf": "https://www.19070",
-            "gn": "Action,Animation",
-            "trailer": "Wobg_knHpsk",
-            "lng": "Hindi+English",
-            "cg": "webSeries",
-            "kn": "Invincible",
-            "pn": "S1",
-            "eServer1": {},
-            "eServer2": {
-                "1": "http://srs.aapkipooja.com/Invincible%20S01E01%2019070%201.mkv",
-                "2": "http://srs.aapkipooja.com/Invincible%20S01E02%2019070%202.mkv",
-                "3": "http://srs.aapkipooja.com/Invincible%20S01E03%2019070%203.mkv",
-                "4": "http://srs.aapkipooja.com/Invincible%20S01E04%2019070%204.mkv",
-                "5": "http://srs.aapkipooja.com/Invincible%20S01E05%2019070%205.mkv",
-                "6": "http://srs.aapkipooja.com/Invincible%20S01E06%2019070%206.mkv",
-                "7": "http://srs.aapkipooja.com/Invincible%20S01E07%2019070%207.mkv",
-                "8": "http://srs.aapkipooja.com/Invincible%20S01E08%2019070%208.mkv"
-            },
-            "eTape": {
-                "1": "https://streamtape.site/v/WerogDAaYYibjeX/Invincible_S01E01_19070_1.mkv.mp4",
-                "2": "https://streamtape.site/v/xmgP86bjDGCkYVd/Invincible_S01E02_19070_2.mkv.mp4",
-                "3": "https://streamtape.site/v/4ReK0Ow3jwiKRQ0/Invincible_S01E03_19070_3.mkv.mp4",
-                "4": "https://streamtape.site/v/2DX26660m9IAYg/Invincible_S01E04_19070_4.mkv.mp4",
-                "5": "https://streamtape.site/v/owYPQv7ovbFJgyA/Invincible_S01E05_19070_5.mkv.mp4",
-                "6": "https://streamtape.site/v/v9PqlJ96kYf41zk/Invincible_S01E06_19070_6.mkv.mp4",
-                "7": "https://streamtape.site/v/ZqYwwX6xBxfqX3M/Invincible_S01E07_19070_7.mkv.mp4",
-                "8": "https://streamtape.site/v/q6z4OWqWo0cz2wb/Invincible_S01E08_19070_8.mkv.mp4"
-            },
-            "eServer4": {}
-        },
-        {
             "id": "1053",
             "IH": "https://api.aapkipooja.com/Poster/Series/H1/UP65%20Season%201.jpg",
             "IV": "https://api.aapkipooja.com/Poster/Series/V1/UP65%20Season%201.jpg",
