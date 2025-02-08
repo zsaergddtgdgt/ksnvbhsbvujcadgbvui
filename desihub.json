@@ -1,219 +1,323 @@
 {
     "webSeriesDataList": [
-	          	{
-						        "id": "714",
-						        "IH": "https://ereviewwala.com/Poster/Adult/H1/Dekho%20Magar%20Pyar%20Se%20Season%201.jpg",
-						        "IV": "https://ereviewwala.com/Poster/Adult/V1/Dekho%20Magar%20Pyar%20Se%20Season%201.png",
-						        "mn": "Dekho Magar Pyar Se Season 1",
-						        "hf": "https://www.714",
-						        "lng": "Hindi",
-						        "ind": "Ullu",
-						        "trailer": "P9GaG-j7sgc",
-						        "gn": "Adult",
-						        "cg": "webSeries",
-						        "kn": "Dekho Magar Pyar Se",
-						        "pn": "S01",
-						        "eServer1": {
-						            "1": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Dekho.Magar.Pyar.Se.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-SkymoviesHD.mkv"
-						        },
-						        "eServer2": {
-						            "1": "http://adult.ringzstudio.online/adult/Dekho%20Magar%20Pyar%20Se%20S01E01%20714%201.mkv"
-						        },
-						        "eTape": {},
-						        "eServer4": {
-						            "1": "https://pixeldra.in/api/file/rddNgUrK?download?.mkv"
-						        }
-						    },
-		{
-				        "id": "713",
-				        "IH": "https://ereviewwala.com/Poster/Adult/H1/Mere%20Angane%20Mein%20Season%201.jpg",
-				        "IV": "https://ereviewwala.com/Poster/Adult/V1/Mere%20Angane%20Mein%20Season%201.jpg",
-				        "mn": "Mere Angane Mein Season 1",
-				        "hf": "https://www.713",
-				        "lng": "Hindi",
-				        "ind": "Ullu",
-				        "trailer": "yezDsXNMk0E",
-				        "gn": "Adult",
-				        "cg": "webSeries",
-				        "kn": "Mere Angane Mein",
-				        "pn": "S01",
-				        "eServer1": {
-				            "1": "https://pub-59132cd62a9148f9bc3e463dfc95b9a2.r2.dev/Mere.Angane.Mein.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-							"2": "https://pub-b408714137e04b968caa97c726e2493e.r2.dev/Mere.Angane.Mein.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-				        },
-				        "eServer2": {
-				            "1": "http://adult.ringzstudio.online/adult/Mere%20Angane%20Mein%20S01E01%20713%201.mkv",
-							"2": "http://adult.ringzstudio.online/adult/Mere%20Angane%20Mein%20S01E02%20713%202.mkv"
-				        },
-				        "eTape": {},
-				        "eServer4": {
-				            "1": "https://pixeldra.in/api/file/d6YbKTvA?download?.mkv",
-							"2": "https://pixeldra.in/api/file/xmSHtM9B?download?.mkv"
-				        }
-				    },
-		{
-		        "id": "712",
-		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Utha%20Le%20Jaunga%20Season%201.jpg",
-		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Utha%20Le%20Jaunga%20Season%201.jpg",
-		        "mn": "Utha Le Jaunga Season 1",
-		        "hf": "https://www.712",
-		        "lng": "Hindi",
-		        "ind": "Ullu",
-		        "trailer": "s_RptO47WLE",
-		        "gn": "Adult",
-		        "cg": "webSeries",
-		        "kn": "Utha Le Jaunga",
-		        "pn": "S01",
-		        "eServer1": {
-		            "1": "https://pub-bbfca47213b8400eb295b97edf1266b3.r2.dev/Utha.Le.Jaunga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-					"2": "https://pub-9c0d98f2a85e48b78a21515bac5cd820.r2.dev/Utha.Le.Jaunga.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-		        },
-		        "eServer2": {
-		            "1": "http://adult.ringzstudio.online/adult/Utha%20Le%20Jaunga%20S01E01%20712%201.mkv",
-					"2": "http://adult.ringzstudio.online/adult/Utha%20Le%20Jaunga%20S01E02%20712%202.mkv"
-		        },
-		        "eTape": {},
-		        "eServer4": {
-		            "1": "https://pixeldra.in/api/file/ts2pMxGk?download?.mkv",
-					"2": "https://pixeldra.in/api/file/K5vKRMy9?download?.mkv"
-		        }
-		    },
-		    {
-		        "id": "711",
-		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Mithai%20Wali%20Season%201.jpg",
-		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Mithai%20Wali%20Season%201.jpg",
-		        "mn": "Mithai Wali Season 1",
-		        "hf": "https://www.711",
-		        "lng": "Hindi",
-		        "ind": "Ullu",
-		        "trailer": "2i_rcyLnt7Y",
-		        "gn": "Adult",
-		        "cg": "webSeries",
-		        "kn": "Mithai Wali",
-		        "pn": "S01",
-		        "eServer1": {
-		            "1": "https://pub-0119974a783548aa99796216f008e409.r2.dev/Mithai.Wali.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-					"2": "https://pub-71e4a0c5e31f4f64b5b3d2a684b68c79.r2.dev/Mithai.Wali.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-		        },
-		        "eServer2": {
-		            "1": "http://adult.ringzstudio.online/adult/Mithai%20Wali%20S01E01%20711%201.mkv",
-					"2": "http://adult.ringzstudio.online/adult/Mithai%20Wali%20S01E02%20711%202.mkv"
-		        },
-		        "eTape": {},
-		        "eServer4": {
-		            "1": "https://pixeldra.in/api/file/iTYN3h9q?download?.mkv",
-					"2": "https://pixeldra.in/api/file/9cK73Xbm?download?.mkv"
-		        }
-		    },
-		    {
-		        "id": "710",
-		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Nurse%20Season%201.jpg",
-		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Nurse%20Season%201.jpg",
-		        "mn": "Nurse Season 1",
-		        "hf": "https://www.710",
-		        "lng": "Hindi",
-		        "ind": "Ullu",
-		        "trailer": "ZsMhsRdQPEE",
-		        "gn": "Adult",
-		        "cg": "webSeries",
-		        "kn": "Nurse",
-		        "pn": "S01",
-		        "eServer1": {
-		            "1": "https://pub-397b79f3ae6b47f5b7eedb91a1dc0d9f.r2.dev/Nurse.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-		            "2": "https://pub-9641dcf75a1c4925b91f2773cecbf96c.r2.dev/Nurse.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-		        },
-		        "eServer2": {
-		            "1": "http://adult.ringzstudio.online/adult/Nurse%20S01E01%20710%201.mkv",
-		            "2": "http://adult.ringzstudio.online/adult/Nurse%20S01E02%20710%202.mkv"
-		        },
-		        "eTape": {},
-		        "eServer4": {
-		            "1": "https://pixeldra.in/api/file/WfFSzEkg?download?.mkv",
-		            "2": "https://pixeldra.in/api/file/CCaj7kme?download?.mkv"
-		        }
-		    },
-		    {
-		        "id": "709",
-		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Payal%20Season%201.jpg",
-		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Payal%20Season%201.jpg",
-		        "mn": "Payal Season 1",
-		        "hf": "https://www.709",
-		        "lng": "Hindi",
-		        "ind": "Ullu",
-		        "trailer": "FJ4KO7i9yKE",
-		        "gn": "Adult",
-		        "cg": "webSeries",
-		        "kn": "Payal",
-		        "pn": "S01",
-		        "eServer1": {
-		            "1": "https://pub-37a960d9d41648058ad608f209b24c00.r2.dev/Payal.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-		            "2": "https://pub-2e889f1b31b348869c178e083347233f.r2.dev/Payal.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
-		        },
-		        "eServer2": {
-		            "1": "http://adult.ringzstudio.online/adult/Payal%20S01E01%20709%201.mkv",
-		            "2": "http://adult.ringzstudio.online/adult/Payal%20S01E02%20709%202.mkv"
-		        },
-		        "eTape": {},
-		        "eServer4": {
-		            "1": "https://pixeldra.in/api/file/hbj4h9mz?download?.mkv",
-		            "2": "https://pixeldra.in/api/file/2UWWHTLX?download?.mkv"
-		        }
-		    },
-    {
-        "id": "708",
-        "IH": "https://ereviewwala.com/Poster/Adult/H2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Adult/V2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
-        "mn": "Aah Se Aaha Tak Season 1",
-        "hf": "https://www.708",
-        "lng": "Hindi",
-        "ind": "Ullu",
-        "trailer": "ETwV7wLcyho",
-        "gn": "Adult",
-        "cg": "webSeries",
-        "kn": "Aah Se Aaha Tak",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-7e5fbd5bcef7455c84555618c475a9b6.r2.dev/Aah.Se.Aaha.Tak.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-			"2": "https://pub-ee3a5c02764a4d838c843b50f9b97f62.r2.dev/Aah.Se.Aaha.Tak.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        {
+            "id": "715",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Rangeen%20Kahaniyan%20-%20Benami%20Shaadi%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Rangeen%20Kahaniyan%20-%20Benami%20Shaadi%20Season%201.jpg",
+            "mn": "Rangeen Kahaniyan - Benami Shaadi Season 1",
+            "hf": "https://www.715",
+            "lng": "Hindi",
+            "ind": "Altt",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Rangeen Kahaniyan - Benami Shaadi",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-98efefad75c644ad9caf8faa2c56cd54.r2.dev/Rangeen.Kahaniyan.S15.Complete.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Rangeen%20Kahaniyan%20-%20Benami%20Shaadi%20S01E01%20715%201.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pub-98efefad75c644ad9caf8faa2c56cd54.r2.dev/Rangeen.Kahaniyan.S15.Complete.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E01%20708%201.mkv",
-			"2": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E02%20708%202.mkv"	
+        {
+            "id": "716",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Balam%20Pichkari%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Balam%20Pichkari%20Season%201.jpg",
+            "mn": "Balam Pichkari Season 1",
+            "hf": "https://www.716",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Balam Pichkari",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-d6ccb82d3c9448e38d3718bffe16cc91.r2.dev/Balam.Pichkari.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Balam%20Pichkari%20S01E01%20716%201.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pub-d6ccb82d3c9448e38d3718bffe16cc91.r2.dev/Balam.Pichkari.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            }
         },
-        "eTape": {},
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/gdoPxvBJ?download?.mkv",
-			"2": "https://pixeldra.in/api/file/idG1sK1k?download?.mkv"
-        }
-    },
-    {
-        "id": "707",
-        "IH": "https://ereviewwala.com/Poster/Adult/H2/Kaanta%20Laga%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Adult/V2/Kaanta%20Laga%20Season%201.jpg",
-        "mn": "Kaanta Laga Season 1",
-        "hf": "https://www.707",
-        "lng": "Hindi",
-        "ind": "Ullu",
-        "trailer": "xYRPzEBA51g",
-        "gn": "Adult",
-        "cg": "webSeries",
-        "kn": "Kaanta Laga",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-102ba1cff57f43489999ab70f41175bb.r2.dev/Kaanta.Laga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-			"2": "https://pub-e4d84ad19a7d44aeab691457e81c679f.r2.dev/Kaanta.Laga.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        {
+            "id": "718",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Rakhwala%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Rakhwala%20Season%201.jpg",
+            "mn": "Rakhwala Season 1",
+            "hf": "https://www.718",
+            "lng": "Hindi",
+            "ind": "Hulchul",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Rakhwala",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-acad38569bf44de48a3e782f42ab85d1.r2.dev/Rakhwala.S01EP01T03.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv",
+                "2": "https://pub-fae9a301b8954297b52641f3ffb5ff98.r2.dev/Rakhwala.S01EP04T06.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Rakhwala%20S01E01%20718%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Rakhwala%20S01E02%20718%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/cdFmTZWt?download?.mkv",
+                "2": "https://pixeldra.in/api/file/ixJzUT6e?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E01%20707%201.mkv",
-			"2": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E02%20707%202.mkv"
+        {
+            "id": "717",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Virgin%20Nimmi%20Season%202.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Virgin%20Nimmi%20Season%202.jpg",
+            "mn": "Virgin Nimmi Season 2",
+            "hf": "https://www.717",
+            "lng": "Hindi",
+            "ind": "Jugnu",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Virgin Nimmi",
+            "pn": "S02",
+            "eServer1": {
+                "1": "https://pub-605209e5c9844325a77d329e8754098b.r2.dev/Virgin.Nimmi.S02EP01T03.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-9eeb96d40736402c897c34bff1e18f8d.r2.dev/Virgin.Nimmi.S02EP04T05.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Virgin%20Nimmi%20S02E01%20717%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Virgin%20Nimmi%20S02E02%20717%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/eM6Ybcmb?download?.mkv",
+                "2": "https://pixeldra.in/api/file/pWztycpV?download?.mkv"
+            }
         },
-        "eTape": {},
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/UUB6RMRc?download?.mkv",
-			"2": "https://pixeldra.in/api/file/CnoY4vtP?download?.mkv"
-        }
-    },
-    
+        {
+            "id": "714",
+            "IH": "https://ereviewwala.com/Poster/Adult/H1/Dekho%20Magar%20Pyar%20Se%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V1/Dekho%20Magar%20Pyar%20Se%20Season%201.png",
+            "mn": "Dekho Magar Pyar Se Season 1",
+            "hf": "https://www.714",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "P9GaG-j7sgc",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Dekho Magar Pyar Se",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Dekho.Magar.Pyar.Se.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-SkymoviesHD.mkv",
+                "2": "https://pub-509572c6e60145709c05e592e1dd81e7.r2.dev/Dekho.Magar.Pyar.Se.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Dekho%20Magar%20Pyar%20Se%20S01E01%20714%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Dekho%20Magar%20Pyar%20Se%20S01E02%20714%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/rddNgUrK?download?.mkv",
+                "2": "https://pub-509572c6e60145709c05e592e1dd81e7.r2.dev/Dekho.Magar.Pyar.Se.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            }
+        },
+        {
+            "id": "713",
+            "IH": "https://ereviewwala.com/Poster/Adult/H1/Mere%20Angane%20Mein%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V1/Mere%20Angane%20Mein%20Season%201.jpg",
+            "mn": "Mere Angane Mein Season 1",
+            "hf": "https://www.713",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "yezDsXNMk0E",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Mere Angane Mein",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-59132cd62a9148f9bc3e463dfc95b9a2.r2.dev/Mere.Angane.Mein.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-b408714137e04b968caa97c726e2493e.r2.dev/Mere.Angane.Mein.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Mere%20Angane%20Mein%20S01E01%20713%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Mere%20Angane%20Mein%20S01E02%20713%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/d6YbKTvA?download?.mkv",
+                "2": "https://pixeldra.in/api/file/xmSHtM9B?download?.mkv"
+            }
+        },
+        {
+            "id": "712",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Utha%20Le%20Jaunga%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Utha%20Le%20Jaunga%20Season%201.jpg",
+            "mn": "Utha Le Jaunga Season 1",
+            "hf": "https://www.712",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "s_RptO47WLE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Utha Le Jaunga",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-bbfca47213b8400eb295b97edf1266b3.r2.dev/Utha.Le.Jaunga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-9c0d98f2a85e48b78a21515bac5cd820.r2.dev/Utha.Le.Jaunga.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Utha%20Le%20Jaunga%20S01E01%20712%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Utha%20Le%20Jaunga%20S01E02%20712%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/ts2pMxGk?download?.mkv",
+                "2": "https://pixeldra.in/api/file/K5vKRMy9?download?.mkv"
+            }
+        },
+        {
+            "id": "711",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Mithai%20Wali%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Mithai%20Wali%20Season%201.jpg",
+            "mn": "Mithai Wali Season 1",
+            "hf": "https://www.711",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "2i_rcyLnt7Y",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Mithai Wali",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-0119974a783548aa99796216f008e409.r2.dev/Mithai.Wali.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-71e4a0c5e31f4f64b5b3d2a684b68c79.r2.dev/Mithai.Wali.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Mithai%20Wali%20S01E01%20711%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Mithai%20Wali%20S01E02%20711%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/iTYN3h9q?download?.mkv",
+                "2": "https://pixeldra.in/api/file/9cK73Xbm?download?.mkv"
+            }
+        },
+        {
+            "id": "710",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Nurse%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Nurse%20Season%201.jpg",
+            "mn": "Nurse Season 1",
+            "hf": "https://www.710",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "ZsMhsRdQPEE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Nurse",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-397b79f3ae6b47f5b7eedb91a1dc0d9f.r2.dev/Nurse.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-9641dcf75a1c4925b91f2773cecbf96c.r2.dev/Nurse.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Nurse%20S01E01%20710%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Nurse%20S01E02%20710%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/WfFSzEkg?download?.mkv",
+                "2": "https://pixeldra.in/api/file/CCaj7kme?download?.mkv"
+            }
+        },
+        {
+            "id": "709",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Payal%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Payal%20Season%201.jpg",
+            "mn": "Payal Season 1",
+            "hf": "https://www.709",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "FJ4KO7i9yKE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Payal",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-37a960d9d41648058ad608f209b24c00.r2.dev/Payal.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-2e889f1b31b348869c178e083347233f.r2.dev/Payal.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Payal%20S01E01%20709%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Payal%20S01E02%20709%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/hbj4h9mz?download?.mkv",
+                "2": "https://pixeldra.in/api/file/2UWWHTLX?download?.mkv"
+            }
+        },
+        {
+            "id": "708",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Aah%20Se%20Aaha%20Tak%20Season%201.jpg",
+            "mn": "Aah Se Aaha Tak Season 1",
+            "hf": "https://www.708",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "ETwV7wLcyho",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Aah Se Aaha Tak",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-7e5fbd5bcef7455c84555618c475a9b6.r2.dev/Aah.Se.Aaha.Tak.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-ee3a5c02764a4d838c843b50f9b97f62.r2.dev/Aah.Se.Aaha.Tak.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E01%20708%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Aah%20Se%20Aaha%20Tak%20S01E02%20708%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/gdoPxvBJ?download?.mkv",
+                "2": "https://pixeldra.in/api/file/idG1sK1k?download?.mkv"
+            }
+        },
+        {
+            "id": "707",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Kaanta%20Laga%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Kaanta%20Laga%20Season%201.jpg",
+            "mn": "Kaanta Laga Season 1",
+            "hf": "https://www.707",
+            "lng": "Hindi",
+            "ind": "Ullu",
+            "trailer": "xYRPzEBA51g",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Kaanta Laga",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-102ba1cff57f43489999ab70f41175bb.r2.dev/Kaanta.Laga.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-e4d84ad19a7d44aeab691457e81c679f.r2.dev/Kaanta.Laga.S01P02.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E01%20707%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Kaanta%20Laga%20S01E02%20707%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/UUB6RMRc?download?.mkv",
+                "2": "https://pixeldra.in/api/file/CnoY4vtP?download?.mkv"
+            }
+        },
         {
             "id": "706",
             "IH": "https://ereviewwala.com/Poster/Adult/H2/Dil%20To%20Baccha%20Hai%20Season%201.jpg",
@@ -268,90 +372,90 @@
                 "2": "https://pixeldra.in/api/file/LkZqcbGm?download?.mkv"
             }
         },
-    {
-        "id": "705",
-        "IH": "https://ereviewwala.com/Poster/Adult/H2/Majnu%20Bawlaa%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Adult/V2/Majnu%20Bawlaa%20Season%201.jpg",
-        "mn": "Majnu Bawlaa Season 1",
-        "hf": "https://www.705",
-        "lng": "Hindi",
-        "ind": "HulChul",
-        "trailer": "FALSE",
-        "gn": "Adult",
-        "cg": "webSeries",
-        "kn": "Majnu Bawlaa",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-4dcdfa15929c4628836745af706c9d47.r2.dev/Majnu.Bawla.S01EP01T03.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamoves.is.mkv",
-            "2": "https://pub-a60db46801fe4f969e381c50f61fa04b.r2.dev/Majnu.Bawla.S01EP04T06.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.is.mkv"
+        {
+            "id": "705",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Majnu%20Bawlaa%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Majnu%20Bawlaa%20Season%201.jpg",
+            "mn": "Majnu Bawlaa Season 1",
+            "hf": "https://www.705",
+            "lng": "Hindi",
+            "ind": "HulChul",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Majnu Bawlaa",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-4dcdfa15929c4628836745af706c9d47.r2.dev/Majnu.Bawla.S01EP01T03.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamoves.is.mkv",
+                "2": "https://pub-a60db46801fe4f969e381c50f61fa04b.r2.dev/Majnu.Bawla.S01EP04T06.720p.HEVC.WeB-DL.HINDI.2CH.x265.Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Majnu%20Bawlaa%20S01E01%20705%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Majnu%20Bawlaa%20S01E02%20705%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/T7BjukRX?download?.mkv",
+                "2": "https://pixeldra.in/api/file/eYCbumDV?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Majnu%20Bawlaa%20S01E01%20705%201.mkv",
-            "2": "http://adult.ringzstudio.online/adult/Majnu%20Bawlaa%20S01E02%20705%202.mkv"
+        {
+            "id": "704",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Sasur%20Ki%20Nayee%20Dulhan%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Sasur%20Ki%20Nayee%20Dulhan%20Season%201.jpg",
+            "mn": "Sasur Ki Nayee Dulhan Season 1",
+            "hf": "https://www.704",
+            "lng": "Hindi",
+            "ind": "Jugnu",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Sasur Ki Nayee Dulhan",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-25daf7c598154ce58f553987dfb1b6df.r2.dev/Sasur.Ki.Nayee.Dulhan.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
+                "2": "https://pub-d0bc02c3ad48425aa5bc6d72f65733a1.r2.dev/Sasur.Ki.Nayee.Dulhan.S01EP05T08.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Sasur%20Ki%20Nayee%20Dulhan%20S01E01%20704%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Sasur%20Ki%20Nayee%20Dulhan%20S01E02%20704%202.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/MtH7GYo6?download?.mkv",
+                "2": "https://pixeldra.in/api/file/WiM8DEn2?download?.mkv"
+            }
         },
-        "eTape": {},
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/T7BjukRX?download?.mkv",
-            "2": "https://pixeldra.in/api/file/eYCbumDV?download?.mkv"
-        }
-    },
-    {
-        "id": "704",
-        "IH": "https://ereviewwala.com/Poster/Adult/H2/Sasur%20Ki%20Nayee%20Dulhan%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Adult/V2/Sasur%20Ki%20Nayee%20Dulhan%20Season%201.jpg",
-        "mn": "Sasur Ki Nayee Dulhan Season 1",
-        "hf": "https://www.704",
-        "lng": "Hindi",
-        "ind": "Jugnu",
-        "trailer": "FALSE",
-        "gn": "Adult",
-        "cg": "webSeries",
-        "kn": "Sasur Ki Nayee Dulhan",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-25daf7c598154ce58f553987dfb1b6df.r2.dev/Sasur.Ki.Nayee.Dulhan.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv",
-            "2": "https://pub-d0bc02c3ad48425aa5bc6d72f65733a1.r2.dev/Sasur.Ki.Nayee.Dulhan.S01EP05T08.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+        {
+            "id": "703",
+            "IH": "https://ereviewwala.com/Poster/Adult/H2/Tadap%20CineOn%20Season%201.jpg",
+            "IV": "https://ereviewwala.com/Poster/Adult/V2/Tadap%20CineOn%20Season%201.jpg",
+            "mn": "Tadap CineOn Season 1",
+            "hf": "https://www.703",
+            "lng": "Hindi",
+            "ind": "CineOn",
+            "trailer": "FALSE",
+            "gn": "Adult",
+            "cg": "webSeries",
+            "kn": "Tadap CineOn",
+            "pn": "S01",
+            "eServer1": {
+                "1": "https://pub-bd1e4f61409341d7bd4fc5b67013a3d0.r2.dev/Tadap.S01EP01.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv",
+                "2": "https://pub-a088f0ea10bc4eca8f598f8eb1ff763c.r2.dev/Tadap.S01EP02.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv",
+                "3": "https://pub-17aa05f0dc574b439c7ef91a1216e119.r2.dev/Tadap.S01EP03.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv"
+            },
+            "eServer2": {
+                "1": "http://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E01%20703%201.mkv",
+                "2": "http://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E02%20703%202.mkv",
+                "3": "http://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E03%20703%203.mkv"
+            },
+            "eTape": {},
+            "eServer4": {
+                "1": "https://pixeldra.in/api/file/EcwXa7CS?download?.mkv",
+                "2": "https://pixeldra.in/api/file/tfCpYXFJ?download?.mkv",
+                "3": "https://pixeldra.in/api/file/mxUX6fhT?download?.mkv"
+            }
         },
-        "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Sasur%20Ki%20Nayee%20Dulhan%20S01E01%20704%201.mkv",
-            "2": "http://adult.ringzstudio.online/adult/Sasur%20Ki%20Nayee%20Dulhan%20S01E02%20704%202.mkv"
-        },
-        "eTape": {},
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/MtH7GYo6?download?.mkv",
-            "2": "https://pixeldra.in/api/file/WiM8DEn2?download?.mkv"
-        }
-    },
-    {
-        "id": "703",
-        "IH": "https://ereviewwala.com/Poster/Adult/H2/Tadap%20CineOn%20Season%201.jpg",
-        "IV": "https://ereviewwala.com/Poster/Adult/V2/Tadap%20CineOn%20Season%201.jpg",
-        "mn": "Tadap CineOn Season 1",
-        "hf": "https://www.703",
-        "lng": "Hindi",
-        "ind": "CineOn",
-        "trailer": "FALSE",
-        "gn": "Adult",
-        "cg": "webSeries",
-        "kn": "Tadap CineOn",
-        "pn": "S01",
-        "eServer1": {
-            "1": "https://pub-bd1e4f61409341d7bd4fc5b67013a3d0.r2.dev/Tadap.S01EP01.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv",
-            "2": "https://pub-a088f0ea10bc4eca8f598f8eb1ff763c.r2.dev/Tadap.S01EP02.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv",
-            "3": "https://pub-17aa05f0dc574b439c7ef91a1216e119.r2.dev/Tadap.S01EP03.720p.HEVC.WeB-DL.Hindi.AAC2.0.x265-Vegamovies.is.mkv"
-        },
-        "eServer2": {
-            "1": "http://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E01%20703%201.mkv",
-            "2": "http://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E02%20703%202.mkv",
-            "3": "http://adult.ringzstudio.online/adult/Tadap%20CineOn%20S01E03%20703%203.mkv"
-        },
-        "eTape": {},
-        "eServer4": {
-            "1": "https://pixeldra.in/api/file/EcwXa7CS?download?.mkv",
-            "2": "https://pixeldra.in/api/file/tfCpYXFJ?download?.mkv",
-            "3": "https://pixeldra.in/api/file/mxUX6fhT?download?.mkv"
-        }
-    },
         {
             "id": "701",
             "IH": "https://ereviewwala.com/Poster/Adult/H1/Aakhri%20Sukh%20Season%201.jpg",
