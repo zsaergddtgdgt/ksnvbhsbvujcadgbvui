@@ -1,5 +1,105 @@
 {
     "webSeriesDataList": [
+
+		{
+		    "id": "719",
+		    "IH": "https://ereviewwala.com/Poster/Adult/H2/Lene%20Ke%20Dene%20Season%201.jpg",
+		    "IV": "https://ereviewwala.com/Poster/Adult/V2/Lene%20Ke%20Dene%20Season%201.jpg",
+		    "mn": "Lene Ke Dene Season 1",
+		    "hf": "https://www.719",
+		    "lng": "Hindi",
+		    "ind": "Ullu",
+		    "trailer": "FALSE",
+		    "gn": "Adult",
+		    "cg": "webSeries",
+		    "kn": "Lene Ke Dene",
+		    "pn": "S01",
+		    "eServer1": {
+		        "1": "https://pub-b90289c2d50040d68412f05781d0df62.r2.dev/Lene.Ke.Dene.S01P01.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+		    },
+		    "eServer2": {
+		        "1": "http://adult.ringzstudio.online/adult/Lene%20Ke%20Dene%20S01E01%20719%201.mkv"
+		    },
+		    "eTape": {},
+		    "eServer4": {
+		        "1": "https://pixeldra.in/api/file/fJ89Q1es?download?.mkv"
+		    }
+		},
+		{
+		        "id": "722",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Hasratey%20Season%203.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Hasratey%20Season%203.jpg",
+		        "mn": "Hasratey Season 3",
+		        "hf": "https://www.722",
+		        "lng": "Hindi",
+		        "ind": "HitPrime",
+		        "trailer": "FALSE",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Hasratey",
+		        "pn": "S03",
+		        "eServer1": {
+		            "1": "https://pub-889b769c2e914d47ba87763e1f42e278.r2.dev/Hasratey.S03EP01T03.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv",
+		            "2": "https://pub-c4142f61564c4bfb92d0ef6a3dd8a5ef.r2.dev/Hasratey.S03EP04T06.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://adult.ringzstudio.online/adult/Hasratey%20S03E01%20722%201.mkv",
+		            "2": "http://adult.ringzstudio.online/adult/Hasratey%20S03E02%20722%202.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/uipPKxVY?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/7cy4VDVN?download?.mkv"
+		        }
+		    },
+		    {
+		        "id": "721",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Kaccha%20Badaam%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Kaccha%20Badaam%20Season%201.jpg",
+		        "mn": "Kaccha Badaam Season 1",
+		        "hf": "https://www.721",
+		        "lng": "Hindi",
+		        "ind": "Jhol Mol",
+		        "trailer": "FALSE",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Kaccha Badaam",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-734452417e024ce38eb733fa65e5c4d7.r2.dev/Kaccha.Badaam.S01EP01T04.720p.HEVC.WeB-DL.HINDI.2CH.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://adult.ringzstudio.online/adult/Kaccha%20Badaam%20S01E01%20721%201.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/nVhL5nDZ?download?.mkv"
+		        }
+		    },
+		    {
+		        "id": "720",
+		        "IH": "https://ereviewwala.com/Poster/Adult/H2/Shraap%20Season%201.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Adult/V2/Shraap%20Season%201.jpg",
+		        "mn": "Shraap Season 1",
+		        "hf": "https://www.720",
+		        "lng": "Hindi",
+		        "ind": "Hulchul",
+		        "trailer": "FALSE",
+		        "gn": "Adult",
+		        "cg": "webSeries",
+		        "kn": "Shraap",
+		        "pn": "S01",
+		        "eServer1": {
+		            "1": "https://pub-c29e718c6502472da65bdea48e556a62.r2.dev/Shraap.S01EP01T03.720p.HEVC.WeB-DL.Hindi.x265-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://adult.ringzstudio.online/adult/Shraap%20S01E01%20720%201.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/c2tki3Vh?download?.mkv"
+		        }
+		    },
         {
             "id": "715",
             "IH": "https://ereviewwala.com/Poster/Adult/H2/Rangeen%20Kahaniyan%20-%20Benami%20Shaadi%20Season%201.jpg",
