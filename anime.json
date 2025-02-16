@@ -1,5 +1,106 @@
 {
     "webSeriesDataList": [
+
+		{
+		        "id": "120",
+		        "IH": "https://ereviewwala.com/Poster/Anime/H2/Attack%20on%20Titan%20Season%202.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Anime/V2/Attack%20on%20Titan%20Season%202.jpg",
+		        "mn": "Attack on Titan Season 2",
+		        "hf": "https://www.120",
+		        "lng": "Hindi+English",
+		        "trailer": "FALSE",
+		        "gn": "Anime,Action",
+		        "cg": "webSeries",
+		        "kn": "Attack on Titan",
+		        "pn": "S02",
+		        "eServer1": {
+		            "1": "https://pub-956b8926d0224d85a277a892a2a976db.r2.dev/Attack%20On%20Titan.S02E01.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "2": "https://pub-af780c0c75ba473c8ddcbb247b5b0d95.r2.dev/Attack%20On%20Titan.S02E02.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "3": "https://pub-57cf7e3a89e54aa0ae2ba0178d082c57.r2.dev/Attack%20On%20Titan.S02E03.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "4": "https://pub-1f146d260c9340179ada8e46ef9bc239.r2.dev/Attack%20On%20Titan.S02E04.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "5": "https://pub-52f4f2398ef24fc9b6f6d18cc9d85333.r2.dev/Attack%20On%20Titan.S02E05.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "6": "https://pub-f97a86ed77864c6a901413b9f33a3232.r2.dev/Attack%20On%20Titan.S02E06.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "7": "https://pub-903ccf035e9644fab5c339014a626c2c.r2.dev/Attack%20On%20Titan.S02E07.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "8": "https://pub-a0a63d147fde4ef89db984bfc265a89e.r2.dev/Attack%20On%20Titan.S02E08.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "9": "https://pub-b360449cbaaa40d4999df6ccd80383d2.r2.dev/Attack%20On%20Titan.S02E09.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "10": "https://pub-cb7a9c310e5141b38eab05c1a02a1c72.r2.dev/Attack%20On%20Titan.S02E10.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "11": "https://pub-63a1c0fbf46a4298879f0b4f6471103a.r2.dev/Attack%20On%20Titan.S02E11.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv",
+		            "12": "https://pub-316293e09cab4bd4be74dc2b4853a5db.r2.dev/Attack%20On%20Titan.S02E12.720p.HEVC.[HIN.ENG.JAP].Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E01%20120%201.mkv",
+		            "2": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E02%20120%202.mkv",
+		            "3": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E03%20120%203.mkv",
+		            "4": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E04%20120%204.mkv",
+		            "5": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E05%20120%205.mkv",
+		            "6": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E06%20120%206.mkv",
+		            "7": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E07%20120%207.mkv",
+		            "8": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E08%20120%208.mkv",
+		            "9": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E09%20120%209.mkv",
+		            "10": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E10%20120%2010.mkv",
+		            "11": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E11%20120%2011.mkv",
+		            "12": "http://anime.ringzstudio.online/anime/Attack%20on%20Titan%20S02E12%20120%2012.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/cneNga2q?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/Bod15VjA?download?.mkv",
+		            "3": "https://pixeldra.in/api/file/Haz6jTkA?download?.mkv",
+		            "4": "https://pixeldra.in/api/file/8CdknRcK?download?.mkv",
+		            "5": "https://pixeldra.in/api/file/zhvt2tJ8?download?.mkv",
+		            "6": "https://pixeldra.in/api/file/BpGTL67U?download?.mkv",
+		            "7": "https://pixeldra.in/api/file/szWLdcub?download?.mkv",
+		            "8": "https://pixeldra.in/api/file/MuCxPVNR?download?.mkv",
+		            "9": "https://pixeldra.in/api/file/BCUW4LNb?download?.mkv",
+		            "10": "https://pixeldra.in/api/file/kQHwM5ZP?download?.mkv",
+		            "11": "https://pixeldra.in/api/file/G9uNrbfy?download?.mkv",
+		            "12": "https://pixeldra.in/api/file/NNZk8xF9?download?.mkv"
+		        }
+		    },
+		    {
+		        "id": "119",
+		        "IH": "https://ereviewwala.com/Poster/Anime/H2/Castlevania%20-%20Nocturne%20Season%202.jpg",
+		        "IV": "https://ereviewwala.com/Poster/Anime/V2/Castlevania%20-%20Nocturne%20Season%202.jpg",
+		        "mn": "Castlevania - Nocturne Season 2",
+		        "hf": "https://www.119",
+		        "lng": "Hindi+Eng+Jap",
+		        "trailer": "ApiWajWqQjE",
+		        "gn": "Anime,Action",
+		        "cg": "webSeries",
+		        "kn": "Castlevania - Nocturne",
+		        "pn": "S02",
+		        "eServer1": {
+		            "1": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E01.A.Living.Legend.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "2": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E02.Angel.Of.Death.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "3": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E03.The.Widows.Window.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "4": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E04.Monstrous.Things.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "5": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E05.Into.The.Abyss.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "6": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E06.Ancestors.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "7": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E07.Grenadye.Alaso.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv",
+		            "8": "https://pub-db4aad121b26409eb63bf48ceb693403.r2.dev/Castlevania.Nocturne.S02E08.A.Line.Of.Great.Heroes.720p.x264.Hindi.Japanese.English.Esubs-Vegamovies.is.mkv"
+		        },
+		        "eServer2": {
+		            "1": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E01%20119%201.mkv",
+		            "2": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E02%20119%202.mkv",
+		            "3": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E03%20119%203.mkv",
+		            "4": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E04%20119%204.mkv",
+		            "5": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E05%20119%205.mkv",
+		            "6": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E06%20119%206.mkv",
+		            "7": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E07%20119%207.mkv",
+		            "8": "http://anime.ringzstudio.online/anime/Castlevania%20-%20Nocturne%20S02E08%20119%208.mkv"
+		        },
+		        "eTape": {},
+		        "eServer4": {
+		            "1": "https://pixeldra.in/api/file/FkxxDecL?download?.mkv",
+		            "2": "https://pixeldra.in/api/file/vburVDky?download?.mkv",
+		            "3": "https://pixeldra.in/api/file/i1xUdnFD?download?.mkv",
+		            "4": "https://pixeldra.in/api/file/uLS2Yf5f?download?.mkv",
+		            "5": "https://pixeldra.in/api/file/dVKGpHt3?download?.mkv",
+		            "6": "https://pixeldra.in/api/file/5JPFaxZP?download?.mkv",
+		            "7": "https://pixeldra.in/api/file/15GnQnQ8?download?.mkv",
+		            "8": "https://pixeldra.in/api/file/rGBpf8Ep?download?.mkv"
+		        }
+		    },
 		{
 		        "id": "118",
 		        "IH": "https://ereviewwala.com/Poster/Anime/H2/Invincible%20Season%203.jpg",
